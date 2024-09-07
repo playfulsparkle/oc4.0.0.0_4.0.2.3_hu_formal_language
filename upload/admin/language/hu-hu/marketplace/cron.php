@@ -1,0 +1,28 @@
+<?php
+// Heading
+$_['heading_title']        = 'Cron Feladatok';
+
+// Text
+$_['text_success']         = 'Siker: A cron feladatok sikeresen módosítva lettek!';
+$_['text_instruction']     = 'CRON utasítások';
+$_['text_list']            = 'Cron feladat lista';
+$_['text_cron_1']          = 'A Cron feladatok ütemezett feladatok, amelyek időszakonként futnak. A szerverek cron feladatokkal történő beállításához olvassa el a <a href="http://docs.opencart.com/extension/cron/" target="_blank" class="alert-link">OpenCart dokumentációt</a>.';
+$_['text_cron_2']          = 'A cron feladatot óránként kell futtatni.';
+$_['text_info']            = 'CRON információ';
+$_['text_hour']            = 'Óra';
+$_['text_day']             = 'Nap';
+$_['text_month']           = 'Hónap';
+
+// Column
+$_['column_code']          = 'Cron kód';
+$_['column_cycle']         = 'Ciklus';
+$_['column_date_added']    = 'Hozzáadva';
+$_['column_date_modified'] = 'Módosítva';
+$_['column_action']        = 'Művelet';
+
+// Entry
+$_['entry_cron']           = 'Cron URL';
+$_['entry_description']    = 'Leírás';
+
+// Error
+$_['error_permission']     = 'Figyelem: Nincs jogosultsága a cron feladatok módosításához!';

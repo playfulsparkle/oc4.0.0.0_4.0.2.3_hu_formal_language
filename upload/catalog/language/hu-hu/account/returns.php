@@ -1,0 +1,64 @@
+<?php
+// Heading
+$_['heading_title']      = 'Termék Reklamációk';
+
+// Text
+$_['text_account']       = 'Fiók';
+$_['text_return']        = 'Reklamációs információk';
+$_['text_return_detail'] = 'Részletek';
+$_['text_description']   = 'Kérjük, töltse ki az alábbi űrlapot az RMA szám igényléséhez.';
+$_['text_order']         = 'Rendelési információk';
+$_['text_product']       = 'Termék információk';
+$_['text_reason']        = 'Reklamáció indoka';
+$_['text_message']       = '<p>Köszönjük, hogy benyújtotta reklamációs kérelmét. Kérelme a megfelelő részleghez került feldolgozásra.</p><p> E-mailben értesítjük a kérelme állapotáról.</p>';
+$_['text_return_id']     = 'Reklamáció azonosító:';
+$_['text_orders_id']     = 'Rendelés azonosító:';
+$_['text_date_ordered']  = 'Rendelés dátuma:';
+$_['text_status']        = 'Állapot:';
+$_['text_date_added']    = 'Hozzáadva:';
+$_['text_comment']       = 'Reklamációs megjegyzések';
+$_['text_history']       = 'Reklamációs előzmény';
+$_['text_no_results']    = 'Nincs korábbi reklamációja!';
+$_['text_agree']         = 'Elolvastam és elfogadom a <a href="%s" class="modal-link"><b>%s</b></a>';
+
+// Column
+$_['column_return_id']   = 'Reklamáció azonosító';
+$_['column_order_id']    = 'Rendelés azonosító';
+$_['column_status']      = 'Állapot';
+$_['column_date_added']  = 'Hozzáadva';
+$_['column_customer']    = 'Vásárló';
+$_['column_product']     = 'Termék Neve';
+$_['column_model']       = 'Cikkszám';
+$_['column_quantity']    = 'Mennyiség';
+$_['column_price']       = 'Ár';
+$_['column_opened']      = 'Kibontva';
+$_['column_comment']     = 'Megjegyzés';
+$_['column_reason']      = 'Indok';
+$_['column_action']      = 'Művelet';
+
+// Entry
+$_['entry_order_id']     = 'Rendelés azonosító';
+$_['entry_date_ordered'] = 'Rendelés Dátuma';
+$_['entry_firstname']    = 'Keresztnév';
+$_['entry_lastname']     = 'Vezetéknév';
+$_['entry_email']        = 'E-mail';
+$_['entry_telephone']    = 'Telefonszám';
+$_['entry_product']      = 'Termék név';
+$_['entry_model']        = 'Cikkszám';
+$_['entry_quantity']     = 'Mennyiség';
+$_['entry_reason']       = 'Reklamáció Indoka';
+$_['entry_opened']       = 'A termék ki van bontva';
+$_['entry_fault_detail'] = 'Hibás vagy egyéb részletek';
+
+// Error
+$_['text_error']         = 'A kért reklamációk nem találhatók!';
+$_['error_token']        = 'Figyelem: A visszaállító token érvénytelen!';
+$_['error_order_id']     = 'Rendelés azonosító kötelező!';
+$_['error_firstname']    = 'A keresztnévnek 1 és 32 karakter között kell lennie!';
+$_['error_lastname']     = 'A vezetéknévnek 1 és 32 karakter között kell lennie!';
+$_['error_email']        = 'Az e-mail cím nem tűnik érvényesnek!';
+$_['error_telephone']    = 'A telefonszámnak 3 és 32 karakter között kell lennie!';
+$_['error_product']      = 'A termék nevének nagyobbnak kell lennie 3 és kisebbnek 255 karakternél!';
+$_['error_model']        = 'A cikkszámának nagyobbnak kell lennie 3 és kisebbnek 64 karakternél!';
+$_['error_reason']       = 'Ki kell választania egy reklamációs indokot!';
+$_['error_agree']        = 'Figyelem: El kell fogadnia a %s!';

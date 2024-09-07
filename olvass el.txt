@@ -1,0 +1,40 @@
+OpenCart 4 Magyar nyelv (magázó)
+
+Teljeskörű (magázó) magyar nyelvi támogatás OpenCart áruházának! Ez a csomag tartalmazza az összes szükséges nyelvi fájlt az admin panelhez, a frontendhez, a bővítményekhez és a telepítési folyamathoz, biztosítva a teljes lokalizáció az OpenCart 4.0.0.0-tól kezdődően egészen a 4.0.2.3 verzióhoz.
+
+Demo frontend - https://demo.playfulsparkle.com/opencart4/
+Demo backend - https://demo.playfulsparkle.com/opencart4/admin/
+
+Főbb Jellemzők
+
+* Teljes (magázó) magyar lokalizáció az OpenCart 4 backendje, frontendje, bővítményei és telepítése számára.
+* Kompatibilis az OpenCart 4.0.0.0 és 4.0.2.3 verziókkal.
+* A fordításkor ügyeltünk, hogy minden egyes fordítási kifejezés pontos legyen.
+
+Telepítési útmutató
+
+1. Töltse le az "OpenCart 4 Magyar Nyelvi Kiegészítő" csomagot.
+2. Csomagolja ki a nyelvi fájlokat a helyi számítógépére.
+3. Használjon FTP klienst (pl. FileZilla), és csatlakozzon az OpenCart 4 piactér szerveréhez.
+4. Navigáljon az OpenCart telepítési könyvtárába.
+5. Töltse fel a nyelvi fájlokat az OpenCart telepítési gyökérkönyvtárába.
+6. Jelentkezzen be az OpenCart aminisztrációs felületése.
+7. Menjen a Rendszer > Lokalizáció > Nyelvek menüpontba:
+    1. Kattintson az "Új hozzáadása" gombra.
+    2. Nyelv neve: Magyar
+    3. Kód: hu-hu
+    4. Locale: hu_HU.UTF-8,hu_HU,hu-hu,hungarian
+    5. Állapot: Engedélyezett
+8. Ezután menjen a Rendszer > Beállítások menüpontba, és módosítsa áruháza beállításait:
+    1. Kattintson a "Helyi" fülre, és változtassa meg a következő beállításokat:
+    2. Ország: Magyarország
+    3. Régió / Állam: A választott régió
+    4. Időzóna: Europe/Bratislava (+02:00)
+    5. Nyelv: Magyar
+    6. Adminisztrációs nyelv: Magyar
+    7. Pénznem: Magyar forint (ha nem létezik, létre kell hoznia)
+9. Kattintson a "Mentés" gombra, és kész is van!
+
+Támogatás és Frissítések
+
+A vásárlást követően ingyenes frissítéseket kap az OpenCart 4 verziójához. Ha jövőbeli frissítések jelennek meg a 4.x-hez, azok ingyenesen elérhetők lesznek. Amennyiben bármilyen problémája van, vagy segítségre van szüksége, támogatást kérhet e-mailben a support@playfulsparkle.com címen.

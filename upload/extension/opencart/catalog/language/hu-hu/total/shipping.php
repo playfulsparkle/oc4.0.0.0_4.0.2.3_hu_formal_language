@@ -1,0 +1,21 @@
+<?php
+// Heading
+$_['heading_title']        = 'Becsült szállítási költség &amp; Adók';
+
+// Text
+$_['text_shipping_method'] = 'Szállítási módok';
+$_['text_destination']     = 'Adja meg a célállomást a szállítási költség becsléséhez.';
+$_['text_estimate']        = 'Kérjük, válassza ki a preferált szállítási módot ehhez a rendeléshez.';
+$_['text_success']         = 'Siker: A szállítási becslés alkalmazva lett!';
+
+// Entry
+$_['entry_country']        = 'Ország';
+$_['entry_zone']           = 'Megye';
+$_['entry_postcode']       = 'Irányítószám';
+
+// Error
+$_['error_postcode']       = 'Az irányítószámnak 2 és 10 karakter közöttinek kell lennie!';
+$_['error_country']        = 'Kérjük, válasszon országot!';
+$_['error_zone']           = 'Kérjük, válasszon régiót / államot!';
+$_['error_shipping']       = 'Figyelem: Szállítási mód szükséges!';
+$_['error_no_shipping']    = 'Figyelem: Nincs elérhető szállítási lehetőség. Kérjük, <a href="%s">lépjen kapcsolatba velünk</a> segítségért!';

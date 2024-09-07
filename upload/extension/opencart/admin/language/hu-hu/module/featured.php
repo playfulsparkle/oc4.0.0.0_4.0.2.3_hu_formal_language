@@ -1,0 +1,27 @@
+<?php
+// Heading
+$_['heading_title']    = 'Kiemelt termékek';
+
+// Text
+$_['text_extension']   = 'Bővítmények';
+$_['text_success']     = 'Siker: A kiemelt termékek modul sikeresen módosítva lett!';
+$_['text_edit']        = 'Kiemelt termékek szerkesztése';
+$_['text_horizontal']  = 'Vízszintes';
+$_['text_vertical']    = 'Függőleges';
+
+// Entry
+$_['entry_name']       = 'Modul név';
+$_['entry_product']    = 'Termékek';
+$_['entry_axis']       = 'Tengely';
+$_['entry_width']      = 'Kép szélessége';
+$_['entry_height']     = 'Kép magassága';
+$_['entry_status']     = 'Állapot';
+
+// Help
+$_['help_product']     = '(automatikus kitöltés)';
+
+// Error
+$_['error_permission'] = 'Figyelem: Nincs jogosultsága a kiemelt termékek modul módosításához!';
+$_['error_name']       = 'A modul név 3 és 64 karakter között kell, hogy legyen!';
+$_['error_width']      = 'A szélesség megadása kötelező!';
+$_['error_height']     = 'A magasság megadása kötelező!';

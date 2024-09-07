@@ -1,0 +1,104 @@
+<?php
+// Heading
+$_['heading_title']         = 'Vásárlók';
+
+// Text
+$_['text_success']          = 'Siker: Sikeresen módosította a vásárlókat!';
+$_['text_list']             = 'Vásárlók Lista';
+$_['text_add']              = 'Vásárló hozzáadása';
+$_['text_edit']             = 'Vásárló szerkesztése';
+$_['text_default']          = 'Alapértelmezett';
+$_['text_store']            = 'Áruház';
+$_['text_customer']         = 'Vásárlói adatok';
+$_['text_password']         = 'Jelszó';
+$_['text_other']            = 'Egyéb';
+$_['text_balance']          = 'Egyenleg';
+$_['text_address']          = 'Cím';
+$_['text_payment_method']   = 'Fizetési módszerek';
+$_['text_history']          = 'Előzmény';
+$_['text_history_add']      = 'Előzmény hozzáadása';
+$_['text_transaction']      = 'Tranzakciók';
+$_['text_transaction_add']  = 'Tranzakció hozzáadása';
+$_['text_reward']           = 'Bónuszpontok';
+$_['text_reward_add']       = 'Bónuszpontok hozzáadása';
+$_['text_ip']               = 'IP';
+$_['text_option']           = 'Beállítások';
+$_['text_login']            = 'Bejelentkezés az áruházba';
+$_['text_unlock']           = 'Fiók feloldása';
+$_['text_filter']           = 'Szűrő';
+
+// Column
+$_['column_name']           = 'Vásárló név';
+$_['column_email']          = 'E-Mail';
+$_['column_customer_group'] = 'Vásárlói csoport';
+$_['column_status']         = 'Állapot';
+$_['column_date_added']     = 'Hozzáadva';
+$_['column_comment']        = 'Megjegyzés';
+$_['column_description']    = 'Leírás';
+$_['column_amount']         = 'Összeg';
+$_['column_points']         = 'Pontok';
+$_['column_ip']             = 'IP';
+$_['column_account']        = 'Fiókok';
+$_['column_store']          = 'Áruház';
+$_['column_country']        = 'Ország';
+$_['column_payment_method'] = 'Fizetési módszer';
+$_['column_image']          = 'Kép';
+$_['column_type']           = 'Típus';
+$_['column_date_expire']    = 'Lejárati dátum';
+$_['column_action']         = 'Művelet';
+
+// Entry
+$_['entry_store']           = 'Áruház';
+$_['entry_customer_group']  = 'Vásárlói csoport';
+$_['entry_firstname']       = 'Keresztnév';
+$_['entry_lastname']        = 'Vezetéknév';
+$_['entry_email']           = 'E-Mail';
+$_['entry_telephone']       = 'Telefonszám';
+$_['entry_newsletter']      = 'Hírlevél';
+$_['entry_status']          = 'Állapot';
+$_['entry_safe']            = 'Biztonságos';
+$_['entry_password']        = 'Jelszó';
+$_['entry_confirm']         = 'Jelszó megerősítése';
+$_['entry_company']         = 'Cégnév';
+$_['entry_address_1']       = 'Cím 1';
+$_['entry_address_2']       = 'Cím 2';
+$_['entry_city']            = 'Város';
+$_['entry_postcode']        = 'Irányítószám';
+$_['entry_country']         = 'Ország';
+$_['entry_zone']            = 'Megye';
+$_['entry_default']         = 'Alapértelmezett';
+$_['entry_comment']         = 'Megjegyzés';
+$_['entry_description']     = 'Leírás';
+$_['entry_amount']          = 'Összeg';
+$_['entry_points']          = 'Pontok';
+$_['entry_name']            = 'Vásárló név';
+$_['entry_ip']              = 'IP';
+$_['entry_date_from']       = 'Dátumtól';
+$_['entry_date_to']         = 'Dátumig';
+
+// Button
+$_['button_order']          = 'Rendelések';
+
+// Help
+$_['help_safe']             = 'Állítsa igen-re, hogy elkerülje, hogy a vásárlót az anti-csalás rendszer elkapja';
+$_['help_points']           = 'A mínuszt használja a pontok eltávolításához';
+
+// Error
+$_['error_warning']         = 'Figyelem: Kérjük, alaposan ellenőrizze a formát hibák miatt!';
+$_['error_permission']      = 'Figyelem: Nincs engedélye a vásárlók módosítására!';
+$_['error_customer']        = 'Figyelem: A vásárló nem létezik!';
+$_['error_exists']          = 'Figyelem: Az E-Mail cím már regisztrálva van!';
+$_['error_address']         = 'Figyelem: A cím nem létezik!';
+$_['error_firstname']       = 'A keresztnévnek 1 és 32 karakter között kell lennie!';
+$_['error_lastname']        = 'A vezetéknévnek 1 és 32 karakter között kell lennie!';
+$_['error_email']           = 'Az e-Mail cím nem tűnik érvényesnek!';
+$_['error_telephone']       = 'A telefonszámnak 3 és 32 karakter között kell lennie!';
+$_['error_password']        = 'A jelszónak 4 és 20 karakter között kell lennie!';
+$_['error_confirm']         = 'A jelszó és a jelszó megerősítése nem egyezik!';
+$_['error_address_1']       = 'A cím 1-nek 3 és 128 karakter között kell lennie!';
+$_['error_city']            = 'A városnak 2 és 128 karakter között kell lennie!';
+$_['error_postcode']        = 'Az irányítószámnak 2 és 10 karakter között kell lennie ennél az országnál!';
+$_['error_country']         = 'Kérjük, válasszon egy országot!';
+$_['error_zone']            = 'Kérjük, válasszon egy megyét!';
+$_['error_custom_field']    = '%s kötelező!';
+$_['error_regex']           = '%s nem érvényes bemenet!';

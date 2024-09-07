@@ -1,0 +1,25 @@
+<?php
+// Heading
+$_['heading_title']    = 'Felhasználói csoportok';
+
+// Text
+$_['text_success']     = 'Siker: Sikeresen módosította a felhasználói csoportokat!';
+$_['text_list']        = 'Felhasználói csoport';
+$_['text_add']         = 'Felhasználói csoport hozzáadása';
+$_['text_edit']        = 'Felhasználói csoport szerkesztése';
+$_['text_access']      = 'Hozzáférés';
+$_['text_modify']      = 'Módosítás';
+
+// Column
+$_['column_name']      = 'Felhasználói csoport név';
+$_['column_action']    = 'Művelet';
+
+// Entry
+$_['entry_name']       = 'Felhasználói csoport név';
+$_['entry_permission'] = 'Jogosultságok';
+$_['entry_extension']  = 'Kiterjesztések';
+
+// Error
+$_['error_permission'] = 'Figyelmeztetés: Nincs engedélyed a felhasználói csoportok módosítására!';
+$_['error_name']       = 'A felhasználói csoport nevének 3 és 64 karakter között kell lennie!';
+$_['error_user']       = 'Figyelmeztetés: Ez a felhasználói csoport nem törölhető, mivel jelenleg %s felhasználóhoz van rendelve!';

@@ -1,0 +1,49 @@
+<?php
+// Heading
+$_['heading_title']           = 'Kategóriák';
+
+// Text
+$_['text_success']            = 'Siker: Sikeresen módosította a kategóriákat!';
+$_['text_list']               = 'Kategóriák Listája';
+$_['text_add']                = 'Kategória hozzáadása';
+$_['text_edit']               = 'Kategória szerkesztése';
+$_['text_default']            = 'Alapértelmezett';
+$_['text_keyword']            = 'Ne használjon szóközöket, helyette használjon - jelet, és győződjön meg arról, hogy az SEO URL egyedülálló az egész világon.';
+
+// Column
+$_['column_name']             = 'Kategória név';
+$_['column_sort_order']       = 'Sorrend';
+$_['column_action']           = 'Művelet';
+
+// Entry
+$_['entry_name']              = 'Kategória név';
+$_['entry_description']       = 'Leírás';
+$_['entry_meta_title']        = 'Cím (Title meta tag)';
+$_['entry_meta_keyword']      = 'Kulcsszavak (Keywords meta tag)';
+$_['entry_meta_description']  = 'Leírás (Description meta tag)';
+$_['entry_store']             = 'Áruházak';
+$_['entry_keyword']           = 'Kulcsszó';
+$_['entry_parent']            = 'Szülő';
+$_['entry_filter']            = 'Szűrők';
+$_['entry_image']             = 'Kép';
+$_['entry_top']               = 'Felső';
+$_['entry_column']            = 'Oszlopok';
+$_['entry_sort_order']        = 'Sorrend';
+$_['entry_status']            = 'Állapot';
+$_['entry_layout']            = 'Elrendezés felülírása';
+
+// Help
+$_['help_parent']             = '(automatikus kitöltés)';
+$_['help_filter']             = '(automatikus kitöltés)';
+$_['help_top']                = 'Megjelenítés a felső menüsorban. Csak a legfelső szülő kategóriák esetében működik.';
+$_['help_column']             = 'Az alsó 3 kategória oszlopszáma. Csak a legfelső szülő kategóriák esetében működik.';
+
+// Error
+$_['error_warning']           = 'Figyelem: Kérjük, ellenőrizze alaposan a formanyomtatványt hibákért!';
+$_['error_permission']        = 'Figyelem: Nincs jogosultsága a kategóriák módosításához!';
+$_['error_name']              = 'Kategória név 1 és 255 karakter között kell legyen!';
+$_['error_meta_title']        = 'Cím (Title meta tag) nagyobbnak kell lennie 1 és kisebbnek 255 karakternél!';
+$_['error_parent']            = 'A választott szülő kategória a jelenlegi kategória gyermeke!';
+$_['error_keyword']           = 'SEO URL-nak 1 és 64 karakter között kell lennie!';
+$_['error_keyword_exists']    = 'SEO URL-nak egyedinek kell lennie!';
+$_['error_keyword_character'] = 'A kulcsszavak megadásánál a-z, 0-9, - és _ karaktereket használhat!';

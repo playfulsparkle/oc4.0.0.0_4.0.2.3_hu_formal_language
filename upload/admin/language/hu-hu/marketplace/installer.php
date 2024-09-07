@@ -1,0 +1,39 @@
+<?php
+// Heading
+$_['heading_title']          = 'Bővítmény telepítő';
+
+// Text
+$_['text_upload']            = 'Siker: A bővítmény sikeresen feltöltve!';
+$_['text_success']           = 'Siker: A bővítmények sikeresen módosítva lettek!';
+$_['text_progress']          = 'Telepítési folyamat';
+$_['text_installed']         = 'Telepített bővítmények';
+
+// Column
+$_['column_image']           = 'Kép';
+$_['column_name']            = 'Bővítmény név';
+$_['column_version']         = 'Verzió';
+$_['column_date_added']      = 'Létrehozva';
+$_['column_action']          = 'Művelet';
+
+// Entry
+$_['entry_progress']         = 'Folyamat';
+
+// Error
+$_['error_permission']       = 'Figyelem: Nincs jogosultsága a bővítmények módosításához!';
+$_['error_install']          = 'Figyelem: A install.json fájl nem található!';
+$_['error_default']          = 'Figyelem: Az alapértelmezett bővítmény nem távolítható el vagy törölhető!';
+$_['error_extension']        = 'Figyelem: A telepített bővítmény nem található!';
+$_['error_installed']        = 'Figyelem: A bővítmény már telepítve van!';
+$_['error_uninstall']        = 'Figyelem: %s bővítményt kell eltávolítani, mielőtt ez a bővítmény biztonságosan eltávolítható!';
+$_['error_name']             = 'A névnek 3 és 128 karakter között kell lennie!';
+$_['error_version']          = 'A verziónak 3 és 128 karakter között kell lennie!';
+$_['error_author']           = 'A szerzőnek 3 és 128 karakter között kell lennie!';
+$_['error_link']             = 'A hivatkozásnak 3 és 128 karakter között kell lennie!';
+$_['error_filename']         = 'A fájlnévnek 3 és 128 karakter között kell lennie!';
+$_['error_file']             = 'A %s telepítő fájl nem található!';
+$_['error_file_exists']      = 'A fájl már létezik!';
+$_['error_file_type']        = 'Érvénytelen fájlformátum!';
+$_['error_directory']        = 'A %s telepítő könyvtár nem található!';
+$_['error_directory_exists'] = 'A(z) %s elérési út már létezik!';
+$_['error_unzip']            = 'A zip fájl nem nyitható meg!';
+$_['error_upload']           = 'A fájl nem tölthető fel!';

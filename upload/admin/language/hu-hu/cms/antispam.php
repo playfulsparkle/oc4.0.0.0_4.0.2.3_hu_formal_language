@@ -1,0 +1,22 @@
+<?php
+// Heading
+$_['heading_title']        = 'Anti-Spam';
+
+// Text
+$_['text_success']         = 'Siker: Sikeresen módosította az anti-spam beállításokat!';
+$_['text_list']            = 'Anti-Spam lista';
+$_['text_add']             = 'Anti-Spam hozzáadása';
+$_['text_edit']            = 'Anti-Spam szerkesztése';
+
+// Column
+$_['column_keyword']       = 'Kulcsszó';
+$_['column_action']        = 'Művelet';
+
+// Entry
+$_['entry_keyword']        = 'Kulcsszó';
+
+// Error
+$_['error_warning']        = 'Figyelem: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
+$_['error_permission']     = 'Figyelem: Nincs jogosultsága az anti-spam beállítások módosításához!';
+$_['error_keyword']        = 'A kulcsszónak 1 és 64 karakter között kell lennie!';
+$_['error_keyword_exists'] = 'A kulcsszónak egyedinek kell lennie!';

@@ -1,0 +1,24 @@
+<?php
+// Heading
+$_['heading_title']    = 'Akciós termékek';
+
+// Text
+$_['text_extension']   = 'Bővítmények';
+$_['text_success']     = 'Siker: Az akciós termékek modul sikeresen módosítva lett!';
+$_['text_edit']        = 'Akciós termékek szerkesztése';
+$_['text_horizontal']  = 'Horizontális';
+$_['text_vertical']    = 'Vertikális';
+
+// Entry
+$_['entry_name']       = 'Modul név';
+$_['entry_axis']       = 'Tengely';
+$_['entry_limit']      = 'Korlátozás';
+$_['entry_width']      = 'Kép szélessége';
+$_['entry_height']     = 'Kép magassága';
+$_['entry_status']     = 'Állapot';
+
+// Error
+$_['error_permission'] = 'Figyelem: Nincs jogosultsága az akciós termékek modul módosításához!';
+$_['error_name']       = 'A modul név 3 és 64 karakter között kell lennie!';
+$_['error_width']      = 'A szélesség megadása kötelező!';
+$_['error_height']     = 'A magasság megadása kötelező!';
