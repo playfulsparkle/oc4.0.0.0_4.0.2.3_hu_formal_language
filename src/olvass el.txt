@@ -11,9 +11,29 @@ Főbb Jellemzők
 * Kompatibilis az OpenCart 4.0.0.0 és 4.0.2.3 verziókkal.
 * A fordításkor ügyeltünk, hogy minden egyes fordítási kifejezés pontos legyen.
 
-Telepítési útmutató
+Telepítési útmutató (automatikus)
 
-1. Töltse le az "OpenCart 4 Magyar Nyelvi Kiegészítő" csomagot.
+1. Töltse le az "OpenCart 4 Hungarian language (formal)" csomagot.  
+2. Jelentkezzen be az OpenCart Admin paneljébe.  
+3. Menjen a Bővítmények > Telepítő menüpontra:  
+    1. Kattintson a "Feltöltés" gombra.  
+    2. Keresse meg az "OpenCart 4 Hungarian language (formal)" bővítményt, majd kattintson a "Telepítés" gombra.  
+    3. Menjen a Bővítményekhez, és válassza a nyelv bővítmény típust.  
+    4. Keresse meg a "Hungarian language (formal)" bővítményt, majd kattintson a "Telepítés" gombra.  
+    5. Szerkessze a nyelvet, és engedélyezze.
+4. Ezután menjen a Rendszer > Beállítások menüpontba, és módosítsa áruháza beállításait:
+    1. Kattintson a "Helyi" fülre, és változtassa meg a következő beállításokat:
+    2. Ország: Magyarország
+    3. Régió / Állam: A választott régió
+    4. Időzóna: Europe/Bratislava (+02:00)
+    5. Nyelv: Magyar
+    6. Adminisztrációs nyelv: Magyar
+    7. Pénznem: Magyar forint (ha nem létezik, létre kell hoznia)
+5. Kattintson a "Mentés" gombra, és kész is van!
+
+Telepítési útmutató (manuális)
+
+1. Töltse le az "OpenCart 4 Hungarian language (formal)" csomagot.
 2. Csomagolja ki a nyelvi fájlokat a helyi számítógépére.
 3. Használjon FTP klienst (pl. FileZilla), és csatlakozzon az OpenCart 4 piactér szerveréhez.
 4. Navigáljon az OpenCart telepítési könyvtárába.

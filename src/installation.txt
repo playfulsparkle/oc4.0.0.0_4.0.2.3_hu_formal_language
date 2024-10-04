@@ -11,9 +11,29 @@ Key Features
 * Compatible with OpenCart versions 4.0.0.0 through 4.0.2.3.
 * Normalized translation phrases for consistent quality.
 
-Installation Guide
+Installation Guide (automatic)
 
-1. Download the "OpenCart 4 Hungarian language" extension package.
+1. Download the "OpenCart 4 Hungarian language (formal)" extension package.
+2. Log in to your OpenCart Admin panel.
+3. Go to Extension > Installer:
+    1. Click on "Upload".
+    2. Locate "OpenCart 4 Hungarian language (formal)" and click on "Install".
+    3. Go to Extension and choose the extension type Language
+    4. Locate "Hungarian language (formal)" and click on "Install".
+    5. Edit the language end Enable it.
+4. Then go to System > Settings and edit your store settings:
+    1. Click on the "Locale" tab and change the following settings:
+    2. Country: Hungary
+    3. Region / State: Your preferred region
+    4. Time Zone: Europe/Bratislava (+02:00)
+    5. Language: Magyar
+    6. Administration Language: Magyar
+    7. Currency: Hungarian forint (if it does not exist, you might need to create it)
+5. Click the "Save" button, and you're done!
+
+Installation Guide (manual)
+
+1. Download the "OpenCart 4 Hungarian language (formal)" extension package.
 2. Extract the language files from the package to your local machine.
 3. Using an FTP client (e.g., FileZilla), connect to your OpenCart 4 store’s server.
 4. Navigate to your OpenCart installation directory.
