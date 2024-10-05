@@ -1,8 +1,8 @@
 {
-  "name": "OpenCart 4 Hungarian language (formal)",
-  "code": "oc4_hu_formal_language",
+  "name": "Hungarian language (formal)",
+  "code": "ps_hu_formal_language",
   "license": "GPL",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Playful Sparkle",
   "link": "https://github.com/playfulsparkle/oc4_hu_formal_language.git"
 }
