@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Vásárlói csoportok';
 
 // Text
-$_['text_success']      = 'Siker: Sikeresen módosította a vásárlói csoportokat!';
+$_['text_success']      = 'Siker: Sikeresen módosította a Vásárlói csoportokat!';
 $_['text_list']         = 'Vásárlói csoport lista';
 $_['text_add']          = 'Vásárlói csoport hozzáadása';
 $_['text_edit']         = 'Vásárlói csoport szerkesztése';
@@ -23,8 +23,8 @@ $_['entry_sort_order']  = 'Sorrend';
 $_['help_approval']     = 'A vásárlóknak adminisztrátori jóváhagyásra van szükségük a bejelentkezés előtt.';
 
 // Error
-$_['error_permission']  = 'Figyelem: Nincs engedélye a vásárlói csoportok módosítására!';
-$_['error_name']        = 'A vásárlói csoport név 3 és 32 karakter között kell legyen!';
-$_['error_default']     = 'Figyelem: Ez a vásárlói csoport nem törölhető, mivel jelenleg az alapértelmezett áruház vásárlói csoportként van beállítva!';
-$_['error_store']       = 'Figyelem: Ez a vásárlói csoport nem törölhető, mivel jelenleg %s áruházban van hozzárendelve!';
-$_['error_customer']    = 'Figyelem: Ez a vásárlói csoport nem törölhető, mivel jelenleg %s vásárlóhoz van hozzárendelve!';
+$_['error_permission']  = 'Figyelem: Nincs engedélye a Vásárlói csoportok módosítására!';
+$_['error_name']        = 'A Vásárlói csoport név 3 és 32 karakter között kell legyen!';
+$_['error_default']     = 'Figyelem: Ez a Vásárlói csoport nem törölhető, mivel jelenleg az alapértelmezett áruház Vásárlói csoportként van beállítva!';
+$_['error_store']       = 'Figyelem: Ez a Vásárlói csoport nem törölhető, mivel jelenleg %s áruházban van hozzárendelve!';
+$_['error_customer']    = 'Figyelem: Ez a Vásárlói csoport nem törölhető, mivel jelenleg %s vásárlóhoz van hozzárendelve!';

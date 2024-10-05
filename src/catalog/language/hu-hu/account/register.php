@@ -24,7 +24,7 @@ $_['entry_confirm']        = 'Jelszó megerősítése';
 // Error
 $_['error_token']          = 'Figyelem: A regisztrációs token érvénytelen!';
 $_['error_exists']         = 'Figyelem: Az e-mail cím már regisztrálva van!';
-$_['error_customer_group'] = 'A vásárlói csoport nem tűnik érvényesnek!';
+$_['error_customer_group'] = 'A Vásárlói csoport nem tűnik érvényesnek!';
 $_['error_firstname']      = 'A keresztnévnek 1 és 32 karakter között kell lennie!';
 $_['error_lastname']       = 'A vezetéknévnek 1 és 32 karakter között kell lennie!';
 $_['error_email']          = 'Az e-mail cím nem tűnik érvényesnek!';

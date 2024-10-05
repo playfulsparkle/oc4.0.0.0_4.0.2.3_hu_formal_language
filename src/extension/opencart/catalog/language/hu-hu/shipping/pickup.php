@@ -3,4 +3,4 @@
 $_['heading_title']    = 'Személyes átvétel';
 
 // Text
-$_['text_description'] = 'Személyes átvétel az üzletből';
+$_['text_description'] = 'Személyes átvétel az áruházból';

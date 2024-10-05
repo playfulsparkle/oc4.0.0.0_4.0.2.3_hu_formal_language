@@ -15,4 +15,4 @@ $_['entry_reward']  = 'Felhasználni kívánt pontok (max: %s)';
 $_['error_reward']  = 'Figyelem: Kérjük, adja meg a felhasználni kívánt bónuszpontok számát!';
 $_['error_points']  = 'Figyelem: Nincs %s bónuszpontja!';
 $_['error_maximum'] = 'Figyelem: A felhasználható bónuszpontok maximális száma %s!';
-$_['error_status']  = 'Figyelem: A bónuszpontok nincsenek engedélyezve ezen a boltban!';
+$_['error_status']  = 'Figyelem: A bónuszpontok nincsenek engedélyezve ezen a áruházban!';

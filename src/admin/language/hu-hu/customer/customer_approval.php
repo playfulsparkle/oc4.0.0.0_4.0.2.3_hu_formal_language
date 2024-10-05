@@ -15,7 +15,7 @@ $_['text_deny']             = 'Elutasítás';
 // Column
 $_['column_customer']       = 'Vásárló';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Vásárlói Csoport';
+$_['column_customer_group'] = 'Vásárlói csoport';
 $_['column_type']           = 'Típus';
 $_['column_date_added']     = 'Hozzáadva';
 $_['column_action']         = 'Művelet';
@@ -23,7 +23,7 @@ $_['column_action']         = 'Művelet';
 // Entry
 $_['entry_customer']        = 'Vásárló';
 $_['entry_email']           = 'E-Mail';
-$_['entry_customer_group']  = 'Vásárlói Csoport';
+$_['entry_customer_group']  = 'Vásárlói csoport';
 $_['entry_type']            = 'Típus';
 $_['entry_date_from']       = 'Dátumtól';
 $_['entry_date_to']         = 'Dátumig';
