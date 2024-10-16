@@ -14,7 +14,7 @@ $_['entry_zone']           = 'Megye';
 $_['entry_postcode']       = 'Irányítószám';
 
 // Error
-$_['error_postcode']       = 'Az irányítószámnak 2 és 10 karakter közöttinek kell lennie!';
+$_['error_postcode']       = 'Az irányítószám legalább 2, és legfeljebb 10 karakterből álljon!';
 $_['error_country']        = 'Kérjük, válasszon országot!';
 $_['error_zone']           = 'Kérjük, válasszon régiót / államot!';
 $_['error_shipping']       = 'Figyelem: Szállítási mód szükséges!';

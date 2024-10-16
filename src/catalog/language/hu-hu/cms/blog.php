@@ -21,5 +21,5 @@ $_['button_continue'] = 'Olvassa tovább';
 // Error
 $_['error_token']     = 'Figyelmeztetés: Hozzászólás token érvénytelen!';
 $_['error_article']   = 'Figyelmeztetés: A cikk nem található!';
-$_['error_comment']   = 'A hozzászólásnak 25 és 1000 karakter között kell lennie!';
+$_['error_comment']   = 'A hozzászólás legalább 25, és legfeljebb 1000 karakterből álljon!';
 $_['error_guest']     = 'Be kell jelentkeznie a cikkhez való hozzászóláshoz!';

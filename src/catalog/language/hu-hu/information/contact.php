@@ -21,6 +21,6 @@ $_['entry_enquiry']  = 'Érdeklődés';
 $_['email_subject']  = 'Üzenete érkezett %s részéről';
 
 // Errors
-$_['error_name']     = 'A névnek 3 és 32 karakter között kell lennie!';
+$_['error_name']     = 'A név legalább 3, és legfeljebb 32 karakterből álljon!';
 $_['error_email']    = 'Az e-mail cím nem tűnik érvényesnek!';
-$_['error_enquiry']  = 'Az érdeklődésnek 10 és 3000 karakter között kell lennie!';
+$_['error_enquiry']  = 'Az megjegyzés legalább 10, és legfeljebb 3000 karakterből álljon!';

@@ -13,5 +13,5 @@ $_['entry_confirm']  = 'Jelszó megerősítése';
 
 // Error
 $_['error_token']    = 'Figyelem: A jelszó token érvénytelen!';
-$_['error_password'] = 'A jelszónak 4 és 20 karakter között kell lennie!';
+$_['error_password'] = 'A jelszó legalább 4, és legfeljebb 20 karakterből álljon!';
 $_['error_confirm']  = 'A jelszó megerősítése nem egyezik a jelszóval!';

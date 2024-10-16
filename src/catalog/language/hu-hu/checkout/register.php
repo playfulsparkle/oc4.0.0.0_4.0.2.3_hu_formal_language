@@ -34,18 +34,18 @@ $_['entry_newsletter']        = 'Szeretnék feliratkozni a %s hírlevelére.';
 
 // Error
 $_['error_guest']             = 'Figyelem: A bevásárlókosarában található termékek regisztrált fiókot igényelnek!';
-$_['error_firstname']         = 'A keresztnévnek 1 és 32 karakter között kell lennie!';
-$_['error_lastname']          = 'A vezetéknévnek 1 és 32 karakter között kell lennie!';
+$_['error_firstname']         = 'A keresztnév legalább 1, és legfeljebb 32 karakterből álljon!';
+$_['error_lastname']          = 'A vezetéknév legalább 1, és legfeljebb 32 karakterből álljon!';
 $_['error_customer_group']    = 'A Vásárlói csoport érvénytelennek tűnik!';
 $_['error_customer_approval'] = 'Figyelem: Ez a Vásárlói csoport jóváhagyást igényel, és nem használható vendégfiókkal.';
 $_['error_email']             = 'Az E-Mail cím érvénytelennek tűnik!';
 $_['error_exists']            = 'Figyelem: Az e-mail cím már regisztrálva van!';
-$_['error_telephone']         = 'A telefonszámnak 3 és 32 karakter között kell lennie!';
-$_['error_password']          = 'A jelszónak 4 és 20 karakter között kell lennie!';
+$_['error_telephone']         = 'A telefonszám legalább 3, és legfeljebb 32 karakterből álljon!';
+$_['error_password']          = 'A jelszó legalább 4, és legfeljebb 20 karakterből álljon!';
 $_['error_confirm']           = 'A jelszó megerősítése nem egyezik a jelszóval!';
-$_['error_address_1']         = 'A cím 1-nek 3 és 128 karakter között kell lennie!';
-$_['error_city']              = 'A városnak 2 és 128 karakter között kell lennie!';
-$_['error_postcode']          = 'Az irányítószámnak 2 és 10 karakter között kell lennie!';
+$_['error_address_1']         = 'A 1. cím legalább 3, és legfeljebb 128 karakterből álljon!';
+$_['error_city']              = 'A város legalább 2, és legfeljebb 128 karakterből álljon!';
+$_['error_postcode']          = 'Az irányítószám legalább 2, és legfeljebb 10 karakterből álljon!';
 $_['error_country']           = 'Kérjük, válasszon országot!';
 $_['error_zone']              = 'Kérjük, válasszon régiót / államot!';
 $_['error_agree']             = 'Figyelem: El kell fogadnia a %s!';

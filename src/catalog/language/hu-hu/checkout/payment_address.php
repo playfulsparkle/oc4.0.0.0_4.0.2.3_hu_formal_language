@@ -22,11 +22,11 @@ $_['entry_zone']            = 'Megye';
 // Error
 $_['error_customer']        = 'Vásárló szükséges!';
 $_['error_address']         = 'A fizetési cím nem található!';
-$_['error_firstname']       = 'A keresztnév 1 és 32 karakter között kell legyen!';
-$_['error_lastname']        = 'A vezetéknév 1 és 32 karakter között kell legyen!';
-$_['error_address_1']       = 'A cím 1 3 és 128 karakter között kell legyen!';
-$_['error_city']            = 'A város 2 és 128 karakter között kell legyen!';
-$_['error_postcode']        = 'Az irányítószám 2 és 10 karakter között kell legyen!';
+$_['error_firstname']       = 'A keresztnév legalább 1, és legfeljebb 32 karakterből álljon!';
+$_['error_lastname']        = 'A vezetéknév legalább 1, és legfeljebb 32 karakterből álljon!';
+$_['error_address_1']       = 'A 1. cím legalább 3, és legfeljebb 128 karakterből álljon!';
+$_['error_city']            = 'A város legalább 2, és legfeljebb 128 karakterből álljon!';
+$_['error_postcode']        = 'Az irányítószám legalább 2, és legfeljebb 10 karakterből álljon!';
 $_['error_country']         = 'Kérjük, válasszon országot!';
 $_['error_zone']            = 'Kérjük, válasszon megyét!';
 $_['error_custom_field']    = '%s szükséges!';

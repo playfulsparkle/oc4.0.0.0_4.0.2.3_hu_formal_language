@@ -20,6 +20,6 @@ $_['entry_confirm']      = 'Jelszó megerősítése';
 // Error
 $_['error_email']        = 'Az e-mail cím nem tűnik érvényesnek!';
 $_['error_not_found']    = 'Figyelmeztetés: Az e-mail cím nem található a nyilvántartásunkban!';
-$_['error_password']     = 'A jelszónak 4 és 20 karakter között kell lennie!';
+$_['error_password']     = 'A jelszó legalább 4, és legfeljebb 20 karakterből álljon!';
 $_['error_confirm']      = 'A jelszó és a jelszó megerősítése nem egyezik!';
 $_['error_code']         = 'A jelszó-visszaállító kód érvénytelen vagy már használták!';

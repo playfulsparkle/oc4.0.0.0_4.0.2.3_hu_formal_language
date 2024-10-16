@@ -20,8 +20,8 @@ $_['tab_review']       = 'Vélemények (%s)';
 // Error
 $_['error_token']      = 'Figyelem: A vélemény token érvénytelen!';
 $_['error_product']    = 'Figyelem: A termék nem található!';
-$_['error_name']       = 'A vélemény neve 3 és 25 karakter között kell legyen!';
-$_['error_text']       = 'A vélemény szövegének 25 és 1000 karakter között kell lennie!';
+$_['error_name']       = 'A név legalább 3, és legfeljebb 25 karakterből álljon!';
+$_['error_text']       = 'A vélemény szöveg legalább 25, és legfeljebb 1000 karakterből álljon!';
 $_['error_rating']     = 'Kérjük, válasszon egy értékelési szintet!';
 $_['error_guest']      = 'A termék véleményezéséhez be kell jelentkeznie!';
 $_['error_purchased']  = 'A vélemény írásához először meg kell vásárolnia ezt a terméket!';

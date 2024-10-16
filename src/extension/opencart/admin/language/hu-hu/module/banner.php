@@ -26,7 +26,7 @@ $_['help_items']       = 'Az egyes diákon megjelenő elemek száma.';
 
 // Error
 $_['error_permission'] = 'Figyelem: Nincs jogosultsága a banner modul módosításához!';
-$_['error_name']       = 'A modul név 3 és 64 karakter között kell legyen!';
+$_['error_name']       = 'A modul név legalább 3, és legfeljebb 64 karakterből álljon!';
 $_['error_interval']   = 'Az időköz megadása kötelező!';
 $_['error_width']      = 'A szélesség megadása kötelező!';
 $_['error_height']     = 'A magasság megadása kötelező!';

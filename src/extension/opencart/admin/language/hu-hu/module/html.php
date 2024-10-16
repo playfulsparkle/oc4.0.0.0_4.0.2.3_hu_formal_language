@@ -15,4 +15,4 @@ $_['entry_status']      = 'Állapot';
 
 // Error
 $_['error_permission']  = 'Figyelem: Nincs jogosultsága a egyedi HTML kód modul módosításához!';
-$_['error_name']        = 'A modul név 3 és 64 karakter között kell lennie!';
+$_['error_name']        = 'A modul név legalább 3, és legfeljebb 64 karakterből álljon!';

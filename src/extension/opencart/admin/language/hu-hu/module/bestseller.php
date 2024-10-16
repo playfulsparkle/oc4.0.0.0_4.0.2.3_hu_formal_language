@@ -28,6 +28,6 @@ $_['button_sync']      = 'Legtöbbet eladott Lista Generálása';
 
 // Error
 $_['error_permission'] = 'Figyelem: Nincs jogosultsága a legtöbbet eladott modul módosításához!';
-$_['error_name']       = 'A modul név 3 és 64 karakter között kell legyen!';
+$_['error_name']       = 'A modul név legalább 3, és legfeljebb 64 karakterből álljon!';
 $_['error_width']      = 'A szélesség megadása kötelező!';
 $_['error_height']     = 'A magasság megadása kötelező!';

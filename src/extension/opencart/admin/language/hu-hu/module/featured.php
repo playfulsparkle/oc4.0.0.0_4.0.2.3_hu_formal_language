@@ -22,6 +22,6 @@ $_['help_product']     = '(automatikus kitöltés)';
 
 // Error
 $_['error_permission'] = 'Figyelem: Nincs jogosultsága a kiemelt termékek modul módosításához!';
-$_['error_name']       = 'A modul név 3 és 64 karakter között kell, hogy legyen!';
+$_['error_name']       = 'A modul név legalább 3, és legfeljebb 64 karakterből álljon!';
 $_['error_width']      = 'A szélesség megadása kötelező!';
 $_['error_height']     = 'A magasság megadása kötelező!';

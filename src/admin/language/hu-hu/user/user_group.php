@@ -21,5 +21,5 @@ $_['entry_extension']  = 'Kiterjesztések';
 
 // Error
 $_['error_permission'] = 'Figyelmeztetés: Nincs engedélyed a felhasználói csoportok módosítására!';
-$_['error_name']       = 'A felhasználói csoport nevének 3 és 64 karakter között kell lennie!';
+$_['error_name']       = 'A felhasználói csoport név legalább 3, és legfeljebb 64 karakterből álljon!';
 $_['error_user']       = 'Figyelmeztetés: Ez a felhasználói csoport nem törölhető, mivel jelenleg %s felhasználóhoz van rendelve!';
