@@ -24,5 +24,5 @@ $_['entry_sort_order'] = 'Sorrend';
 
 // Error
 $_['error_permission'] = 'Figyelem: Nincs engedélye a bannerek módosítására!';
-$_['error_name']       = 'A banner név 3 és 64 karakter között kell legyen!';
-$_['error_title']      = 'A banner címe 2 és 64 karakter között kell legyen!';
+$_['error_name']       = 'A banner név legalább 3, és legfeljebb 64 karakterből álljon!';
+$_['error_title']      = 'A banner cím legalább 2, és legfeljebb 64 karakterből álljon!';

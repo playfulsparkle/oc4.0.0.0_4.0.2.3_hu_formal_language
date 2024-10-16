@@ -10,7 +10,7 @@ $_['text_edit']            = 'Valuta szerkesztése';
 $_['text_iso']             = 'Teljes listát talál az ISO valuta kódokról és beállításokról <a href="http://www.xe.com/iso4217.php" target="_blank" class="alert-link">itt</a>.';
 
 // Column
-$_['column_title']         = 'Valuta cím';
+$_['column_title']         = 'Valuta';
 $_['column_code']          = 'Kód';
 $_['column_value']         = 'Érték';
 $_['column_status']        = 'Állapot';
@@ -18,7 +18,7 @@ $_['column_date_modified'] = 'Utoljára frissítve';
 $_['column_action']        = 'Művelet';
 
 // Entry
-$_['entry_title']          = 'Valuta cím';
+$_['entry_title']          = 'Valuta';
 $_['entry_code']           = 'Kód';
 $_['entry_value']          = 'Érték';
 $_['entry_symbol_left']    = 'Rövödítés balra';
@@ -33,7 +33,7 @@ $_['help_value']           = 'Az alapértelmezett valuta értéke az aktuális v
 // Error
 $_['error_permission']     = 'Figyelmeztetés: Nincs jogosultsága a valuták módosításához!';
 $_['error_extension']      = 'Figyelmeztetés: A valuta bővítmény nem található!';
-$_['error_title']          = 'A valuta címe 3 és 32 karakter között kell legyen!';
+$_['error_title']          = 'A valuta legalább 3, és legfeljebb 32 karakterből álljon!';
 $_['error_code']           = 'A valuta kódjának 3 karakterből kell állnia!';
 $_['error_default']        = 'Figyelmeztetés: Ez a valuta nem törölhető, mivel jelenleg alapértelmezett áruház valutaként van beállítva!';
 $_['error_store']          = 'Figyelmeztetés: Ez a valuta nem törölhető, mivel jelenleg %s áruházban van hozzárendelve!';

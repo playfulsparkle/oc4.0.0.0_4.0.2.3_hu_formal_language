@@ -23,6 +23,6 @@ $_['entry_sort_order']  = 'Sorrend';
 // Error
 $_['error_warning']     = 'Figyelem: Kérjük, ellenőrizze alaposan a űrlapot hibákért!';
 $_['error_permission']  = 'Figyelem: Nincs jogosultsága a szűrők módosításához!';
-$_['error_group']       = 'Szűrő csoport név 1 és 64 karakter között kell legyen!';
-$_['error_name']        = 'Szűrő név 1 és 64 karakter között kell legyen!';
+$_['error_group']       = 'Szűrő csoport név legalább 1, és legfeljebb 64 karakterből álljon!';
+$_['error_name']        = 'Szűrő név legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_values']      = 'Figyelem: Szűrő értékek megadása kötelező!';

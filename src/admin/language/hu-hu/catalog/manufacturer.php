@@ -26,8 +26,8 @@ $_['entry_layout']            = 'Elrendezés felülírása';
 // Error
 $_['error_warning']           = 'Figyelem: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
 $_['error_permission']        = 'Figyelem: Nincs jogosultsága a gyártók módosításához!';
-$_['error_name']              = 'Gyártó név 1 és 64 karakter között kell legyen!';
-$_['error_keyword']           = 'SEO URL-nak 1 és 64 karakter között kell lennie!';
-$_['error_keyword_exists']    = 'SEO URL-nak egyedinek kell lennie!';
+$_['error_name']              = 'Gyártó név legalább 1, és legfeljebb 64 karakterből álljon!';
+$_['error_keyword']           = 'SEO URL-nek legalább 1, és legfeljebb 64 karakterből álljon!';
+$_['error_keyword_exists']    = 'SEO URL-nek egyedinek kell lennie!';
 $_['error_keyword_character'] = 'A kulcsszavak megadásánál csak a-z, 0-9, - és _ karaktereket használhat!';
 $_['error_product']           = 'Figyelem: Ezt a gyártót nem lehet törölni, mivel jelenleg %s termékhez van rendelve!';

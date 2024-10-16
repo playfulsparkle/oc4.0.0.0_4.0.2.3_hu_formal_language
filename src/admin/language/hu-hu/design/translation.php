@@ -29,4 +29,4 @@ $_['entry_value']      = 'Érték';
 
 // Error
 $_['error_permission'] = 'Figyelem: Nincs engedélye a nyelvszerkesztő módosítására!';
-$_['error_key']        = 'A kulcsnak 3 és 64 karakter között kell lennie!';
+$_['error_key']        = 'A kulcs legalább 3, és legfeljebb 64 karakterből álljon!';

@@ -20,6 +20,6 @@ $_['entry_sort_order']  = 'Sorrend';
 // Error
 $_['error_warning']     = 'Figyelem: Kérjük, ellenőrizze alaposan a formanyomtatványt hibákért!';
 $_['error_permission']  = 'Figyelem: Nincs jogosultsága az attribútumcsoportok módosításához!';
-$_['error_name']        = 'Attribútumcsoport név 1 és 64 karakter között kell legyen!';
+$_['error_name']        = 'Attribútumcsoport név legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_attribute']   = 'Figyelem: Ezt az attribútumcsoportot nem lehet törölni, mivel jelenleg %s attribútumhoz van rendelve!';
 $_['error_product']     = 'Figyelem: Ezt az attribútumcsoportot nem lehet törölni, mivel jelenleg %s termékhez van rendelve!';

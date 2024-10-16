@@ -35,9 +35,9 @@ $_['entry_layout']            = 'Elrendezés felülírása';
 // Error
 $_['error_warning']           = 'Figyelem: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
 $_['error_permission']        = 'Figyelem: Nincs jogosultsága a cikkek módosításához!';
-$_['error_name']              = 'A címnek 1 és 255 karakter között kell legyen!';
-$_['error_meta_title']        = 'A cím (Title meta tag) nagyobbnak kell lennie 1 és 255 karakter között!';
-$_['error_keyword']           = 'Az SEO URL-nek 1 és 64 karakter között kell lennie!';
+$_['error_name']              = 'A cím legalább 1, és legfeljebb 255 karakterből álljon!';
+$_['error_meta_title']        = 'A cím (Title meta tag) legalább 1, és legfeljebb 255 karakterből álljon!';
+$_['error_keyword']           = 'Az SEO URL-nek legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_keyword_exists']    = 'Az SEO URL-nek egyedinek kell lennie!';
 $_['error_keyword_character'] = 'A kulcsszó megadásánál a-z, 0-9, - és _ karaktereket használhat!';
-$_['error_author']            = 'A szerző név 3 és 64 karakter között kell legyen!';
+$_['error_author']            = 'A szerző név legalább 3, és legfeljebb 64 karakterből álljon!';

@@ -34,10 +34,10 @@ $_['help_bottom']             = 'Megjelenítés az alsó láblécben.';
 // Error
 $_['error_warning']           = 'Figyelem: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
 $_['error_permission']        = 'Figyelem: Nincs jogosultsága az információk módosításához!';
-$_['error_title']             = 'Információ címe 1 és 64 karakter között kell legyen!';
+$_['error_title']             = 'Információ címe legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_description']       = 'Leírásnak több mint 3 karakter hosszúnak kell lennie!';
-$_['error_meta_title']        = 'Cím (Title meta tag) több mint 1 és 255 karakter között kell legyen!';
-$_['error_keyword']           = 'SEO URL-nak 1 és 64 karakter között kell legyen!';
+$_['error_meta_title']        = 'Cím (Title meta tag) legalább 1, és legfeljebb 255 karakterből álljon!';
+$_['error_keyword']           = 'SEO URL-nak legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_keyword_exists']    = 'SEO URL-nak egyedinek kell lennie!';
 $_['error_keyword_character'] = 'A kulcsszavak megadásánál csak a-z, 0-9, - és _ karaktereket használhat!';
 $_['error_account']           = 'Figyelem: Ezt az információs oldalt nem lehet törölni, mivel jelenleg az áruház fiók feltételeiként van hozzárendelve!';

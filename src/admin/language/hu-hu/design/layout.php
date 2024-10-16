@@ -28,7 +28,7 @@ $_['entry_module']        = 'Modul';
 
 // Error
 $_['error_permission']    = 'Figyelem: Nincs engedélye az elrendezések módosítására!';
-$_['error_name']          = 'Az elrendezés név 3 és 64 karakter között kell legyen!';
+$_['error_name']          = 'Az elrendezés név legalább 3, és legfeljebb 64 karakterből álljon!';
 $_['error_module']        = 'Modul szükséges!';
 $_['error_default']       = 'Figyelem: Ez az elrendezés nem törölhető, mert jelenleg az alapértelmezett áruház elrendezésként van beállítva!';
 $_['error_store']         = 'Figyelem: Ez az elrendezés nem törölhető, mert jelenleg %s áruházhoz van rendelve!';

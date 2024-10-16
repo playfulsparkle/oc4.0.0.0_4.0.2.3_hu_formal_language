@@ -37,6 +37,6 @@ $_['button_rating']     = 'Termék értékelések szinkronizálása';
 $_['error_warning']     = 'Figyelem: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
 $_['error_permission']  = 'Figyelem: Nincs jogosultsága az értékelések módosításához!';
 $_['error_product']     = 'Termék kötelező!';
-$_['error_author']      = 'A szerző név 3 és 64 karakter között kell legyen!';
+$_['error_author']      = 'A szerző név legalább 3, és legfeljebb 64 karakterből álljon!';
 $_['error_text']        = 'Az értékelés szövegének legalább 1 karakter hosszúnak kell lennie!';
 $_['error_rating']      = 'Az értékelés megadása kötelező!';

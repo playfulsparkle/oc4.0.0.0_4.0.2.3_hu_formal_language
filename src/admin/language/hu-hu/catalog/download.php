@@ -31,12 +31,12 @@ $_['help_mask']                = 'Ajánlott, hogy a fájlnév és az maszk kül�
 // Error
 $_['error_warning']            = 'Figyelem: Kérjük, ellenőrizze alaposan a formanyomtatványt hibákért!';
 $_['error_permission']         = 'Figyelem: Nincs jogosultsága a letöltések módosításához!';
-$_['error_name']               = 'Letöltés név 3 és 64 karakter között kell legyen!';
-$_['error_filename']           = 'Fájlnév 3 és 128 karakter között kell legyen!';
+$_['error_name']               = 'Letöltés név legalább 3, és legfeljebb 64 karakterből álljon!';
+$_['error_filename']           = 'Fájlnév legalább 3, és legfeljebb 128 karakterből álljon!';
 $_['error_filename_character'] = 'A fájlnevének csak a-z, 0-9, - és _ karaktereket szabad használnia!';
 $_['error_directory']          = 'A letöltéseknek a storage/download könyvtáron belül kell lenniük!';
 $_['error_exists']             = 'A fájl nem létezik!';
-$_['error_mask']               = 'A maszk címének 3 és 128 karakter között kell lennie!';
+$_['error_mask']               = 'A maszk cím legalább 3, és legfeljebb 128 karakterből álljon!';
 $_['error_mask_character']     = 'Az maszk címében csak a-z, 0-9, - és _ karaktereket használhat!';
 $_['error_file_type']          = 'Érvénytelen fájltípus!';
 $_['error_product']            = 'Figyelem: Ezt a letöltést nem lehet törölni, mivel jelenleg %s termékhez van rendelve!';

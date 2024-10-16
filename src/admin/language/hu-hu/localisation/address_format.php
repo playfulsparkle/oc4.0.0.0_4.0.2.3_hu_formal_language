@@ -22,6 +22,6 @@ $_['help_address_format']     = 'Keresztnév = {firstname}<br/>Vezetéknév = {l
 
 // Error
 $_['error_permission']        = 'Figyelmeztetés: Nincs jogosultsága a cím formátumok módosításához!';
-$_['error_name']              = 'A cím formátum név 1 és 128 karakter között kell, hogy legyen!';
+$_['error_name']              = 'A cím formátum név legalább 1, és legfeljebb 128 karakterből álljon!';
 $_['error_default']           = 'Figyelmeztetés: Ez a cím formátum nem törölhető, mivel jelenleg alapértelmezett cím formátumként van beállítva!';
 $_['error_country']           = 'Figyelmeztetés: Ez a cím formátum nem törölhető, mivel jelenleg %s országra van hozzárendelve!';

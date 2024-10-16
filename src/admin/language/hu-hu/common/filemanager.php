@@ -13,8 +13,8 @@ $_['entry_folder']     = 'Könyvtár név';
 
 // Error
 $_['error_permission'] = 'Figyelmeztetés: Nincs jogosultságod!';
-$_['error_filename']   = 'Figyelmeztetés: A fájlnevének 3 és 255 karakter között kell lennie!';
-$_['error_folder']     = 'Figyelmeztetés: A könyvtár név 3 és 255 karakter között kell legyen!';
+$_['error_filename']   = 'Figyelmeztetés: A fájlnév legalább 3, és legfeljebb 255 karakterből álljon!';
+$_['error_folder']     = 'Figyelmeztetés: A könyvtár név legalább 3, és legfeljebb 255 karakterből álljon!';
 $_['error_exists']     = 'Figyelmeztetés: Már létezik egy fájl vagy könyvtár azonos névvel!';
 $_['error_directory']  = 'Figyelmeztetés: A könyvtár nem létezik!';
 $_['error_filesize']   = 'Figyelmeztetés: Hibás fájlméret!';

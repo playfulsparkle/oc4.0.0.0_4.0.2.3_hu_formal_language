@@ -18,5 +18,5 @@ $_['entry_keyword']        = 'Kulcsszó';
 // Error
 $_['error_warning']        = 'Figyelem: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
 $_['error_permission']     = 'Figyelem: Nincs jogosultsága az anti-spam beállítások módosításához!';
-$_['error_keyword']        = 'A kulcsszónak 1 és 64 karakter között kell lennie!';
+$_['error_keyword']        = 'A kulcsszó legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_keyword_exists'] = 'A kulcsszónak egyedinek kell lennie!';

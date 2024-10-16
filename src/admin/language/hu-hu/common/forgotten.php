@@ -18,5 +18,5 @@ $_['entry_email']    = 'E-Mail cím';
 $_['error_email']    = 'Figyelem: Az e-mail cím nem található a nyilvántartásunkban!';
 $_['error_code']     = 'A visszaállítási kód nem egyezik!';
 $_['error_disabled'] = 'A jelszó-visszaállítás letiltva!';
-$_['error_password'] = 'A jelszónak 4 és 20 karakter között kell lennie!';
+$_['error_password'] = 'A jelszó legalább 4, és legfeljebb 20 karakterből álljon!';
 $_['error_confirm']  = 'A jelszó és a jelszó megerősítése nem egyezik!';

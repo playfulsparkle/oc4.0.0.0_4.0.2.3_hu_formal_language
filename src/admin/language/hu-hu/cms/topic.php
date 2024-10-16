@@ -30,8 +30,8 @@ $_['entry_keyword']           = 'Kulcsszó';
 // Error
 $_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan a űrlapot hibák után!';
 $_['error_permission']        = 'Figyelmeztetés: Nincs engedélye a témák módosítására!';
-$_['error_name']              = 'A téma név 1 és 255 karakter között kell legyen!';
-$_['error_meta_title']        = 'A Cím (Title meta tag) 1 és 255 karakter között kell legyen!';
-$_['error_keyword']           = 'SEO URL-nek 1 és 64 karakter között kell lennie!';
+$_['error_name']              = 'A téma név legalább 1, és legfeljebb 255 karakterből álljon!';
+$_['error_meta_title']        = 'A Cím (Title meta tag) legalább 1, és legfeljebb 255 karakterből álljon!';
+$_['error_keyword']           = 'SEO URL-nek legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_keyword_exists']    = 'SEO URL-nek egyedinek kell lennie!';
 $_['error_keyword_character'] = 'A kulcsszavak megadásánál a-z, 0-9, - és _ karaktereket használhat!';

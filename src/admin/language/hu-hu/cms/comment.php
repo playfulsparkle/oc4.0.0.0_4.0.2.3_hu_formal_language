@@ -24,4 +24,4 @@ $_['entry_date_added']  = 'Hozzáadva';
 // Error
 $_['error_warning']     = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan a űrlapot hibák után!';
 $_['error_permission']  = 'Figyelmeztetés: Nincs engedélye a cikk hozzászólások módosítására!';
-$_['error_keyword']     = 'A kulcsszónak 1 és 64 karakter között kell lennie!';
+$_['error_keyword']     = 'A kulcsszó legalább 1, és legfeljebb 64 karakterből álljon!';

@@ -51,6 +51,6 @@ $_['help_sort_order']      = 'Használjon negatív számot, hogy visszafelé sz�
 
 // Error
 $_['error_permission']     = 'Figyelem: Nincs engedélye az egyéni mezõk módosítására!';
-$_['error_name']           = 'Az egyéni mezõ név 1 és 128 karakter között kell legyen!';
+$_['error_name']           = 'Az egyéni mezõ név legalább 1, és legfeljebb 128 karakterből álljon!';
 $_['error_type']           = 'Figyelem: Az egyéni mezõk értékei kötelezõek!';
-$_['error_custom_value']   = 'Az egyéni érték név 1 és 128 karakter között kell legyen!';
+$_['error_custom_value']   = 'Az egyéni érték név legalább 1, és legfeljebb 128 karakterből álljon!';

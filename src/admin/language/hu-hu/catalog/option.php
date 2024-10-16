@@ -36,8 +36,8 @@ $_['entry_sort_order']   = 'Sorrend';
 // Error
 $_['error_warning']      = 'Figyelem: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
 $_['error_permission']   = 'Figyelem: Nincs jogosultsága az opciók módosításához!';
-$_['error_name']         = 'Opció név 1 és 128 karakter között kell legyen!';
+$_['error_name']         = 'Opció név legalább 1, és legfeljebb 128 karakterből álljon!';
 $_['error_type']         = 'Figyelem: Opció Értékek megadása kötelező!';
-$_['error_option_value'] = 'Opció Érték név 1 és 128 karakter között kell legyen!';
+$_['error_option_value'] = 'Opció Érték név legalább 1, és legfeljebb 128 karakterből álljon!';
 $_['error_value']        = 'Figyelem: Ezt az opció értéket nem lehet törölni, mivel jelenleg %s termékhez van rendelve!';
 $_['error_product']      = 'Figyelem: Ezt az opciót nem lehet törölni, mivel jelenleg %s termékhez van rendelve!';

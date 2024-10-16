@@ -41,9 +41,9 @@ $_['help_column']             = 'Az alsó 3 kategória oszlopszáma. Csak a legf
 // Error
 $_['error_warning']           = 'Figyelem: Kérjük, ellenőrizze alaposan a formanyomtatványt hibákért!';
 $_['error_permission']        = 'Figyelem: Nincs jogosultsága a kategóriák módosításához!';
-$_['error_name']              = 'Kategória név 1 és 255 karakter között kell legyen!';
-$_['error_meta_title']        = 'Cím (Title meta tag) nagyobbnak kell lennie 1 és kisebbnek 255 karakternél!';
+$_['error_name']              = 'Kategória név legalább 1, és legfeljebb 255 karakterből álljon!';
+$_['error_meta_title']        = 'Cím (Title meta tag) legalább 1, és legfeljebb 255 karakterből álljon!';
 $_['error_parent']            = 'A választott szülő kategória a jelenlegi kategória gyermeke!';
-$_['error_keyword']           = 'SEO URL-nak 1 és 64 karakter között kell lennie!';
-$_['error_keyword_exists']    = 'SEO URL-nak egyedinek kell lennie!';
+$_['error_keyword']           = 'SEO URL-nek legalább 1, és legfeljebb 64 karakterből álljon!';
+$_['error_keyword_exists']    = 'SEO URL-nek egyedinek kell lennie!';
 $_['error_keyword_character'] = 'A kulcsszavak megadásánál a-z, 0-9, - és _ karaktereket használhat!';
