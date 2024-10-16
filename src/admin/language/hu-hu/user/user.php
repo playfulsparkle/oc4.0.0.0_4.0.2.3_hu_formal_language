@@ -28,7 +28,7 @@ $_['entry_password']        = 'Jelszó';
 $_['entry_confirm']         = 'Jelszó megerősítése';
 $_['entry_firstname']       = 'Keresztnév';
 $_['entry_lastname']        = 'Vezetéknév';
-$_['entry_email']           = 'E-Mail';
+$_['entry_email']           = 'E-mail';
 $_['entry_image']           = 'Kép';
 $_['entry_status']          = 'Állapot';
 

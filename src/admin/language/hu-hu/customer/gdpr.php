@@ -19,14 +19,14 @@ $_['text_remove']       = 'Eltávolítás';
 $_['text_filter']       = 'Szűrő';
 
 // Column
-$_['column_email']      = 'E-Mail';
+$_['column_email']      = 'E-mail';
 $_['column_request']    = 'Kérelem';
 $_['column_status']     = 'Állapot';
 $_['column_date_added'] = 'Hozzáadva';
 $_['column_action']     = 'Művelet';
 
 // Entry
-$_['entry_email']       = 'E-Mail';
+$_['entry_email']       = 'E-mail';
 $_['entry_action']      = 'Művelet';
 $_['entry_status']      = 'Állapot';
 $_['entry_date_from']   = 'Dátumtól';

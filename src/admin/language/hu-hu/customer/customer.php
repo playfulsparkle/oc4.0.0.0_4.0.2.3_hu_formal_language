@@ -29,7 +29,7 @@ $_['text_filter']           = 'Szűrő';
 
 // Column
 $_['column_name']           = 'Vásárló név';
-$_['column_email']          = 'E-Mail';
+$_['column_email']          = 'E-mail';
 $_['column_customer_group'] = 'Vásárlói csoport';
 $_['column_status']         = 'Állapot';
 $_['column_date_added']     = 'Hozzáadva';
@@ -52,7 +52,7 @@ $_['entry_store']           = 'Áruház';
 $_['entry_customer_group']  = 'Vásárlói csoport';
 $_['entry_firstname']       = 'Keresztnév';
 $_['entry_lastname']        = 'Vezetéknév';
-$_['entry_email']           = 'E-Mail';
+$_['entry_email']           = 'E-mail';
 $_['entry_telephone']       = 'Telefonszám';
 $_['entry_newsletter']      = 'Hírlevél';
 $_['entry_status']          = 'Állapot';
@@ -87,7 +87,7 @@ $_['help_points']           = 'A mínuszt használja a pontok eltávolításáho
 $_['error_warning']         = 'Figyelem: Kérjük, alaposan ellenőrizze a formát hibák miatt!';
 $_['error_permission']      = 'Figyelem: Nincs engedélye a vásárlók módosítására!';
 $_['error_customer']        = 'Figyelem: A vásárló nem létezik!';
-$_['error_exists']          = 'Figyelem: Az E-Mail cím már regisztrálva van!';
+$_['error_exists']          = 'Figyelem: Az E-mail cím már regisztrálva van!';
 $_['error_address']         = 'Figyelem: A cím nem létezik!';
 $_['error_firstname']       = 'A keresztné legalább 1, és legfeljebb 32 karakterből álljon!';
 $_['error_lastname']        = 'A vezetéknév legalább 1, és legfeljebb 32 karakterből álljon!';

@@ -12,7 +12,7 @@ $_['text_reset']    = 'Siker: A jelszava sikeresen frissítve lett.';
 // Entry
 $_['entry_password'] = 'Jelszó';
 $_['entry_confirm']  = 'Megerősítés';
-$_['entry_email']    = 'E-Mail cím';
+$_['entry_email']    = 'E-mail cím';
 
 // Error
 $_['error_email']    = 'Figyelem: Az e-mail cím nem található a nyilvántartásunkban!';

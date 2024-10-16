@@ -6,7 +6,7 @@ $_['heading_title']     = 'Általános Adatvédelmi Rendelet Kérelem';
 $_['text_account']      = 'Fiók';
 $_['text_gdpr']         = 'A %s GDPR szabályzatát a <a href="%s" target="_blank">%s</a> oldalon tekintheti meg.';
 $_['text_verification'] = 'Fiók igazolás';
-$_['text_email']        = 'Mielőtt bármilyen GDPR kérelmet végrehajthatnánk, ellenőriznünk kell a fiókját. Kérjük, adja meg az E-Mail címét az alábbi mezőben.';
+$_['text_email']        = 'Mielőtt bármilyen GDPR kérelmet végrehajthatnánk, ellenőriznünk kell a fiókját. Kérjük, adja meg az E-mail címét az alábbi mezőben.';
 $_['text_action']       = 'Válasszon egy műveletet';
 $_['text_export']       = 'Személyes adatok exportálása';
 $_['text_remove']       = 'Személyes adatok törlése';

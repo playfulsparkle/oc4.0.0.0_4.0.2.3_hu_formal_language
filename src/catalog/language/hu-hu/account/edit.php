@@ -16,7 +16,7 @@ $_['entry_telephone']    = 'Telefonszám';
 
 // Error
 $_['error_token']        = 'Figyelmeztetés: Érvénytelen szerkesztési token!';
-$_['error_exists']       = 'Figyelmeztetés: Az E-Mail cím már regisztrálva van!';
+$_['error_exists']       = 'Figyelmeztetés: Az E-mail cím már regisztrálva van!';
 $_['error_firstname']    = 'A keresztnév legalább 1, és legfeljebb 32 karakterből álljon!';
 $_['error_lastname']     = 'A vezetéknév legalább 1, és legfeljebb 32 karakterből álljon!';
 $_['error_email']        = 'Az e-mail cím nem tűnik érvényesnek!';

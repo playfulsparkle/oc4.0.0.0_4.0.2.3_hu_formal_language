@@ -13,7 +13,7 @@ $_['text_customer_group'] = 'Vásárlói csoport:';
 $_['text_firstname']      = 'Keresztnév:';
 $_['text_lastname']       = 'Vezetéknév:';
 $_['text_company']        = 'Cégnév:';
-$_['text_email']          = 'E-Mail:';
+$_['text_email']          = 'E-mail:';
 $_['text_telephone']      = 'Telefonszám:';
 
 // Button
