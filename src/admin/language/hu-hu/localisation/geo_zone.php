@@ -22,6 +22,6 @@ $_['entry_zone']         = 'Megye';
 
 // Error
 $_['error_permission']   = 'Figyelmeztetés: Nincs jogosultsága az adózónák módosításához!';
-$_['error_name']         = 'Az adózóna név 3 és 32 karakter között kell legyen!';
-$_['error_description']  = 'A leírás 3 és 255 karakter között kell legyen!';
+$_['error_name']         = 'Az adózóna név legalább 3, és legfeljebb 32 karakterből álljon!';
+$_['error_description']  = 'A leírás legalább 3, és legfeljebb 255 karakterből álljon!';
 $_['error_tax_rate']     = 'Figyelmeztetés: Ez az adózóna nem törölhető, mivel jelenleg egy vagy több áfakulcsban van hozzárendelve!';

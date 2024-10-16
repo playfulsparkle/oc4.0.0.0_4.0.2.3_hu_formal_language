@@ -24,7 +24,7 @@ $_['help_value']       = 'Az alapértelmezett súly értéke az aktuális súlye
 
 // Error
 $_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a súlymértékek módosításához!';
-$_['error_title']      = 'A súly név 3 és 32 karakter között kell legyen!';
-$_['error_unit']       = 'A súlyegység 1 és 4 karakter között kell legyen!';
+$_['error_title']      = 'A súly név legalább 3, és legfeljebb 32 karakterből álljon!';
+$_['error_unit']       = 'A súlyegység legalább 1, és legfeljebb 4 karakterből álljon!';
 $_['error_default']    = 'Figyelmeztetés: Ez a súlymérték nem törölhető, mivel jelenleg az alapértelmezett áruház súlymértékeként van hozzárendelve!';
 $_['error_product']    = 'Figyelmeztetés: Ez a súlymérték nem törölhető, mivel jelenleg %s termékhez van hozzárendelve!';

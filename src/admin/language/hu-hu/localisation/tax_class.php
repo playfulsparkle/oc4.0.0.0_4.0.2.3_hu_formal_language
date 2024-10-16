@@ -27,6 +27,6 @@ $_['entry_priority']    = 'Prioritás';
 
 // Error
 $_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága az adó kategóriák módosításához!';
-$_['error_title']       = 'Az adó kategória címének 3 és 32 karakter között kell lennie!';
-$_['error_description'] = 'A leírásnak 3 és 255 karakter között kell lennie!';
+$_['error_title']       = 'Az adó kategória cím legalább 3, és legfeljebb 32 karakterből álljon!';
+$_['error_description'] = 'A leírás legalább 3, és legfeljebb 255 karakterből álljon!';
 $_['error_product']     = 'Figyelmeztetés: Ez az adó kategória nem törölhető, mivel jelenleg %s termékhez van hozzárendelve!';

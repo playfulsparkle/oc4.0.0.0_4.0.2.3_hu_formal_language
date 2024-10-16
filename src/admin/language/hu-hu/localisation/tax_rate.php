@@ -29,5 +29,5 @@ $_['entry_geo_zone']       = 'Adózóna';
 // Error
 $_['error_permission']     = 'Figyelmeztetés: Nincs jogosultsága az áfakulcsok módosításához!';
 $_['error_tax_rule']       = 'Figyelmeztetés: Ez az áfakulcs nem törölhető, mivel jelenleg %s adókategóriához van hozzárendelve!';
-$_['error_name']           = 'Az áfa név 3 és 32 karakter között kell legyen!';
+$_['error_name']           = 'Az áfa név legalább 3, és legfeljebb 32 karakterből álljon!';
 $_['error_rate']           = 'Áfakulcs megadása kötelező!';

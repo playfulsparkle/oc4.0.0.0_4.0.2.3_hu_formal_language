@@ -29,8 +29,8 @@ $_['help_status']       = 'Rejtsd el/Mutasd a nyelvi legördülő menüben';
 // Error
 $_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága a nyelvek módosításához!';
 $_['error_exists']      = 'Figyelmeztetés: Ez a nyelv már hozzá van adva!';
-$_['error_name']        = 'A nyelv név 1 és 32 karakter között kell legyen!';
-$_['error_code']        = 'A nyelv kódja 2 és 5 karakter között kell legyen!';
+$_['error_name']        = 'A nyelv név legalább 1, és legfeljebb 32 karakterből álljon!';
+$_['error_code']        = 'A nyelv kódja legalább 2, és legfeljebb 5 karakterből álljon!';
 $_['error_locale']      = 'Területi beállítás szükséges!';
 $_['error_default']     = 'Figyelmeztetés: Ez a nyelv nem törölhető, mivel jelenleg az alapértelmezett áruház nyelvként van hozzárendelve!';
 $_['error_admin']       = 'Figyelmeztetés: Ez a nyelv nem törölhető, mivel jelenleg az adminisztrációs nyelvként van hozzárendelve!';

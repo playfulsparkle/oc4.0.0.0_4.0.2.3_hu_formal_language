@@ -24,5 +24,5 @@ $_['error_permission']   = 'Figyelmeztetés: Nincs engedélyed a feltöltések m
 $_['error_not_found']    = 'Hiba: A %s fájl nem található!';
 $_['error_headers_sent'] = 'Hiba: A fejlécek már el lettek küldve!';
 $_['error_upload']       = 'A fájl nem tölthető fel!';
-$_['error_filename']     = 'A fájlnév 3 és 128 karakter között kell legyen!';
+$_['error_filename']     = 'A fájlnév legalább 3, és legfeljebb 128 karakterből álljon!';
 $_['error_file_type']    = 'Érvénytelen fájl típus!';

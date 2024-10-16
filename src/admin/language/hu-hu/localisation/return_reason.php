@@ -17,5 +17,5 @@ $_['entry_name']       = 'Reklamációs ok név';
 
 // Error
 $_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a reklamációs okok módosításához!';
-$_['error_name']       = 'A reklamációs ok név 3 és 128 karakter között kell legyen!';
+$_['error_name']       = 'A reklamációs ok név legalább 3, és legfeljebb 128 karakterből álljon!';
 $_['error_return']     = 'Figyelmeztetés: Ez a reklamációs ok nem törölhető, mivel jelenleg %s visszaküldött termékhez van hozzárendelve!';

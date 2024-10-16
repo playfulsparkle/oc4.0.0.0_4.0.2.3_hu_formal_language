@@ -38,6 +38,6 @@ $_['help_example']      = 'Ahhoz, hogy a rendszer nyomon követhesse az ajánlá
 
 // Error
 $_['error_permission']  = 'Figyelem: Nincs jogosultsága a marketing nyomkövetés módosításához!';
-$_['error_name']        = 'A kampány név 1 és 32 karakter között kell, hogy legyen!';
+$_['error_name']        = 'A kampány név legalább 1, és legfeljebb 32 karakterből álljon!';
 $_['error_code']        = 'Nyomkövetési kód megadása kötelező!';
 $_['error_exists']      = 'A nyomkövetési kód már használatban van egy másik kampány által!';

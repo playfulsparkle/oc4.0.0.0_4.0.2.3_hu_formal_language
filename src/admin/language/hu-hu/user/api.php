@@ -26,6 +26,6 @@ $_['entry_ip']             = 'IP cím';
 
 // Error
 $_['error_permission']     = 'Figyelmeztetés: Nincs engedélye az API-k módosítására!';
-$_['error_username']       = 'Az API felhasználónévnek 3 és 20 karakter között kell lennie!';
-$_['error_key']            = 'Az API kulcsnak 64 és 256 karakter között kell lennie!';
+$_['error_username']       = 'Az API felhasználónév legalább 3, és legfeljebb 20 karakterből álljon!';
+$_['error_key']            = 'Az API kulcsn legalább 64, és legfeljebb 256 karakterből álljon!';
 $_['error_ip']             = 'Legalább egy IP-t hozzá kell adnia az engedélyezett listához!';

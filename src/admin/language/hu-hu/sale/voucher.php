@@ -40,9 +40,9 @@ $_['help_code']         = 'A kód, amelyet a vásárló beír az utalvány aktiv
 // Error
 $_['error_permission']  = 'Figyelem: Nincs engedélye az utalványok módosítására!';
 $_['error_exists']      = 'Figyelem: Az utalványkód már használatban van!';
-$_['error_code']        = 'A kódnak 3 és 10 karakter között kell lennie!';
-$_['error_to_name']     = 'A címzett név 1 és 64 karakter között kell legyen!';
-$_['error_from_name']   = 'Az Ön neve 1 és 64 karakter között kell legyen!';
+$_['error_code']        = 'A kód legalább 3, és legfeljebb 10 karakterből álljon!';
+$_['error_to_name']     = 'A címzett név legalább 1, és legfeljebb 64 karakterből álljon!';
+$_['error_from_name']   = 'Az címzett név legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_email']       = 'Az e-mail cím nem tűnik érvényesnek!';
-$_['error_amount']      = 'Az összegnek legalább 1-nek kell lennie!';
+$_['error_amount']      = 'Az összeg legalább 1 karakterből álljon!';
 $_['error_order']       = 'Figyelem: Ez az utalvány nem törölhető, mivel egy <a href="%s">rendelés</a> része!'; 

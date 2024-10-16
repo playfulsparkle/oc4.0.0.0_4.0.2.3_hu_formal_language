@@ -30,6 +30,6 @@ $_['help_comment']     = 'Ez a mező bármilyen különleges megjegyzés számá
 
 // Error
 $_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága az áruház elhelyezkedéseinek módosításához!';
-$_['error_name']       = 'Az áruház név 3 és 32 karakter között kell legyen!';
-$_['error_address']    = 'A címnek 3 és 128 karakter között kell lennie!';
-$_['error_telephone']  = 'A telefonszámnak 3 és 32 karakter között kell lennie!';
+$_['error_name']       = 'Az áruház név legalább 3, és legfeljebb 32 karakterből álljon!';
+$_['error_address']    = 'A cím legalább 3, és legfeljebb 128 karakterből álljon!';
+$_['error_telephone']  = 'A telefonszám legalább 3, és legfeljebb 32 karakterből álljon!';

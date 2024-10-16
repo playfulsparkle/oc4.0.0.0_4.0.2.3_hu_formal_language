@@ -17,5 +17,5 @@ $_['entry_name']       = 'Készletállapot név';
 
 // Error
 $_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a készletállapotok módosításához!';
-$_['error_name']       = 'A készletállapot név 3 és 32 karakter között kell legyen!';
+$_['error_name']       = 'A készletállapot név legalább 3, és legfeljebb 32 karakterből álljon!';
 $_['error_product']    = 'Figyelmeztetés: Ez a készletállapot nem törölhető, mivel jelenleg %s termékhez van hozzárendelve!';

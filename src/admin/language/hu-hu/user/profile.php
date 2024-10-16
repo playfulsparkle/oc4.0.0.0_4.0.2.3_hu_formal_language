@@ -20,10 +20,10 @@ $_['entry_image']           = 'Kép';
 // Error
 $_['error_permission']      = 'Figyelmeztetés: Nincs engedélye a profil módosítására!';
 $_['error_username_exists'] = 'Figyelmeztetés: A felhasználónév már foglalt!';
-$_['error_username']        = 'A felhasználónévnek 3 és 20 karakter között kell lennie!';
-$_['error_password']        = 'A jelszónak 4 és 20 karakter között kell lennie!';
+$_['error_username']        = 'A felhasználónév legalább 3, és legfeljebb 20 karakterből álljon!';
+$_['error_password']        = 'A jelszó legalább 4, és legfeljebb 20 karakterből álljon!';
 $_['error_confirm']         = 'A jelszó és a jelszó megerősítése nem egyezik!';
-$_['error_firstname']       = 'A keresztnévnek 1 és 32 karakter között kell lennie!';
-$_['error_lastname']        = 'A vezetéknévnek 1 és 32 karakter között kell lennie!';
+$_['error_firstname']       = 'A keresztnév legalább 1, és legfeljebb 32 karakterből álljon!';
+$_['error_lastname']        = 'A vezetéknév legalább 1, és legfeljebb 32 karakterből álljon!';
 $_['error_email']           = 'Az e-mail cím nem tűnik érvényesnek!';
 $_['error_email_exists']    = 'Figyelmeztetés: Az e-mail cím már regisztrálva van!';
