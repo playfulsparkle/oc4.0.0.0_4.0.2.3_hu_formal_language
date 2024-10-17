@@ -24,7 +24,7 @@ $_['entry_export']       = 'Exportálás';
 
 // Error
 $_['error_permission']   = 'Figyelmeztetés: Nincs engedélyed a Biztonsági mentés és visszaállítás módosítására!';
-$_['error_export']       = 'Figyelmeztetés: Legalább egy táblát ki kell választanod az exportáláshoz!';
+$_['error_export']       = 'Figyelmeztetés: Legalább egy táblát ki kell választania az exportáláshoz!';
 $_['error_table']        = '%s tábla nem szerepel az engedélyezett listán!';
 $_['error_file']         = 'A fájl nem található!';
 $_['error_directory']    = 'A könyvtár nem található!';

@@ -22,4 +22,4 @@ $_['button_on']        = 'Be';
 $_['button_off']       = 'Ki';
 
 // Error
-$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultságod a fejlesztői beállítások módosításához!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a fejlesztői beállítások módosításához!';

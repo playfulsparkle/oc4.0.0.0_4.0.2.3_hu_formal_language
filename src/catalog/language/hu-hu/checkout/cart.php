@@ -34,4 +34,4 @@ $_['error_stock']                = 'A *** jelöléssel ellátott termékek nem �
 $_['error_minimum']              = 'A(z) %s minimális rendelési összege %s!';
 $_['error_required']             = '%s kötelező!';
 $_['error_product']              = 'Figyelmeztetés: A termék nem található!';
-$_['error_subscription']         = 'Kérjük, válasszon előfizetési tervet!';
+$_['error_subscription']         = 'Kérjük, válasszon előfizetési profilt!';

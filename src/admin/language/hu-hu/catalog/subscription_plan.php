@@ -3,8 +3,8 @@
 $_['heading_title']          = 'Előfizetések';
 
 // Text
-$_['text_success']           = 'Siker: Sikeresen módosította az előfizetési terveket!';
-$_['text_list']              = 'Előfizetési terv lista';
+$_['text_success']           = 'Siker: Sikeresen módosította az előfizetési profilokat!';
+$_['text_list']              = 'Előfizetési profil lista';
 $_['text_add']               = 'Előfizetés hzzáadása';
 $_['text_edit']              = 'Előfizetés szerkesztése';
 $_['text_subscription']      = 'Előfizetés';
@@ -16,7 +16,7 @@ $_['text_month']             = 'Hónap';
 $_['text_year']              = 'Év';
 
 // Entry
-$_['entry_name']            = 'Név';
+$_['entry_name']            = 'Előfizetési profil név';
 $_['entry_trial_duration']  = 'Próbaidőszak időtartama';
 $_['entry_trial_cycle']     = 'Próbaidőszak ciklus';
 $_['entry_trial_frequency'] = 'Próbaidőszak gyakoriság';
@@ -28,7 +28,7 @@ $_['entry_status']          = 'Állapot';
 $_['entry_sort_order']      = 'Sorrend';
 
 // Column
-$_['column_name']           = 'Előfizetési terv név';
+$_['column_name']           = 'Előfizetési profil név';
 $_['column_sort_order']     = 'Sorrend';
 $_['column_action']         = 'Művelet';
 
@@ -42,7 +42,7 @@ $_['help_frequency']        = 'Ha a gyakoriság "hét" és a ciklus "2", akkor a
 
 // Error
 $_['error_warning']         = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
-$_['error_permission']      = 'Figyelmeztetés: Nincs jogosultsága az előfizetési tervek módosításához!';
-$_['error_name']            = 'Az előfizetési terv név legyen nagyobb, mint 3 és kisebb, mint 255 karakter!';
+$_['error_permission']      = 'Figyelmeztetés: Nincs jogosultsága az előfizetési profilok módosításához!';
+$_['error_name']            = 'Az előfizetési profil név legyen nagyobb, mint 3 és kisebb, mint 255 karakter!';
 $_['error_trial_duration']  = 'A próbaidőszak időtartamának nagyobbnak kell lennie, mint 0!';
-$_['error_product']         = 'Figyelmeztetés: Ez az előfizetési terv nem törölhető, mivel jelenleg %s termékhez van rendelve!';
+$_['error_product']         = 'Figyelmeztetés: Ez az előfizetési profil nem törölhető, mivel jelenleg %s termékhez van rendelve!';

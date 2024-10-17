@@ -12,7 +12,7 @@ $_['entry_search']     = 'Keresés..';
 $_['entry_folder']     = 'Könyvtár név';
 
 // Error
-$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultságod!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága!';
 $_['error_filename']   = 'Figyelmeztetés: A fájlnév legalább 3, és legfeljebb 255 karakterből álljon!';
 $_['error_folder']     = 'Figyelmeztetés: A könyvtár név legalább 3, és legfeljebb 255 karakterből álljon!';
 $_['error_exists']     = 'Figyelmeztetés: Már létezik egy fájl vagy könyvtár azonos névvel!';

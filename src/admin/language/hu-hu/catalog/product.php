@@ -101,7 +101,7 @@ $_['entry_related']           = 'Kapcsolódó termékek';
 $_['entry_tag']               = 'Termék címkék';
 $_['entry_reward']            = 'Bónuszpontok';
 $_['entry_layout']            = 'Elrendezés felülírása';
-$_['entry_subscription']      = 'Előfizetési terv';
+$_['entry_subscription']      = 'Előfizetési profil';
 
 // Help
 $_['help_tag']                = 'Vesszővel elválasztva';
