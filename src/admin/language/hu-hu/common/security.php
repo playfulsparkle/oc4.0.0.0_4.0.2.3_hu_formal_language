@@ -25,11 +25,11 @@ $_['button_move']               = 'Áthelyezés';
 $_['button_rename']             = 'Átnevezés';
 
 // Error
-$_['error_permission']          = 'Figyelem: Nincs engedélye a biztonsági beállítások módosítására!';
-$_['error_install']             = 'Figyelem: A telepítési könyvtár nem létezik!';
-$_['error_storage']             = 'Figyelem: A tárolási könyvtár nem létezik!';
-$_['error_storage_exists']      = 'Figyelem: A tárolási könyvtár név már létezik!';
-$_['error_admin']               = 'Figyelem: Az admin könyvtár nem létezik!';
-$_['error_admin_exists']        = 'Figyelem: Az admin könyvtár név már létezik!';
-$_['error_admin_name']          = 'Figyelem: Az admin név nem lehet `admin`, mivel az nyilvánosan elérhető!';
-$_['error_writable']            = 'Figyelem: A config.php és az admin/config.php fájlok írási engedéllyel kell rendelkezzenek!';
+$_['error_permission']          = 'Figyelmeztetés: Nincs engedélye a biztonsági beállítások módosítására!';
+$_['error_install']             = 'Figyelmeztetés: A telepítési könyvtár nem létezik!';
+$_['error_storage']             = 'Figyelmeztetés: A tárolási könyvtár nem létezik!';
+$_['error_storage_exists']      = 'Figyelmeztetés: A tárolási könyvtár név már létezik!';
+$_['error_admin']               = 'Figyelmeztetés: Az admin könyvtár nem létezik!';
+$_['error_admin_exists']        = 'Figyelmeztetés: Az admin könyvtár név már létezik!';
+$_['error_admin_name']          = 'Figyelmeztetés: Az admin név nem lehet `admin`, mivel az nyilvánosan elérhető!';
+$_['error_writable']            = 'Figyelmeztetés: A config.php és az admin/config.php fájlok írási engedéllyel kell rendelkezzenek!';

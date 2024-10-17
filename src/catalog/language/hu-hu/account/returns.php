@@ -52,7 +52,7 @@ $_['entry_fault_detail'] = 'Hibás vagy egyéb részletek';
 
 // Error
 $_['text_error']         = 'A kért reklamációk nem találhatók!';
-$_['error_token']        = 'Figyelem: A visszaállító token érvénytelen!';
+$_['error_token']        = 'Figyelmeztetés: A visszaállító token érvénytelen!';
 $_['error_order_id']     = 'Rendelés azonosító kötelező!';
 $_['error_firstname']    = 'A keresztnév legalább 1, és legfeljebb 32 karakterből álljon!';
 $_['error_lastname']     = 'A vezetéknév legalább 1, és legfeljebb 32 karakterből álljon!';
@@ -61,4 +61,4 @@ $_['error_telephone']    = 'A telefonszám legalább 3, és legfeljebb 32 karakt
 $_['error_product']      = 'A termék név legalább 3, és legfeljebb 255 karakterből álljon!';
 $_['error_model']        = 'A cikkszám legalább 3, és legfeljebb 64 karakterből álljon!';
 $_['error_reason']       = 'Ki kell választania egy reklamációs indokot!';
-$_['error_agree']        = 'Figyelem: El kell fogadnia a %s!';
+$_['error_agree']        = 'Figyelmeztetés: El kell fogadnia a %s!';

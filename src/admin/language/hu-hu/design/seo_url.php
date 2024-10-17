@@ -32,8 +32,8 @@ $_['help_keyword']            = 'Győződjön meg róla, hogy csak a-z vagy 0-9 
 $_['help_sort_order']         = 'A kulcsszavak sorrendje az URL-ben.';
 
 // Error
-$_['error_permission']        = 'Figyelem: Nincs engedélye a SEO URL-ek módosítására!';
-$_['error_exists']            = 'Figyelem: Az áruház, nyelv kulcs, érték és kulcsszó kombináció már létezik!';
+$_['error_permission']        = 'Figyelmeztetés: Nincs engedélye a SEO URL-ek módosítására!';
+$_['error_exists']            = 'Figyelmeztetés: Az áruház, nyelv kulcs, érték és kulcsszó kombináció már létezik!';
 $_['error_key']               = 'A kulcs legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_value']             = 'Az érték legalább 1, és legfeljebb 255 karakterből álljon!';
 $_['error_value_exists']      = 'Az érték már használatban van!';

@@ -27,4 +27,4 @@ $_['entry_status']        = 'Állapot';
 $_['entry_sort_order']    = 'Sorrend';
 
 // Error
-$_['error_permission']    = 'Figyelem: Nincs jogosultsága a reklamáció jelentés módosításához!';
+$_['error_permission']    = 'Figyelmeztetés: Nincs jogosultsága a reklamáció jelentés módosításához!';

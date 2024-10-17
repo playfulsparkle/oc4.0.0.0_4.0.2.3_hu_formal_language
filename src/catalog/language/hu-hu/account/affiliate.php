@@ -27,8 +27,8 @@ $_['entry_bank_account_name']   = 'Számlatulajdonos név';
 $_['entry_bank_account_number'] = 'Számlaszám';
 
 // Error
-$_['error_token']               = 'Figyelem: A partner token érvénytelen!';
-$_['error_agree']               = 'Figyelem: El kell fogadnia a %s-t!';
+$_['error_token']               = 'Figyelmeztetés: A partner token érvénytelen!';
+$_['error_agree']               = 'Figyelmeztetés: El kell fogadnia a %s-t!';
 $_['error_payment_method']      = 'Fizetési mód megadása kötelező!';
 $_['error_cheque']              = 'A csekk kifizetési név megadása kötelező!';
 $_['error_paypal']              = 'A megadott PayPal email cím érvénytelen!';

@@ -22,4 +22,4 @@ $_['entry_ip']          = 'IP';
 $_['entry_customer']    = 'Vásárló';
 
 // Error
-$_['error_permission']  = 'Figyelem: Nincs jogosultsága az online vásárlójelentés módosításához!';
+$_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága az online vásárlójelentés módosításához!';

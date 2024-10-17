@@ -11,4 +11,4 @@ $_['text_edit']        = 'Alapértelmezett téma szerkesztése';
 $_['entry_status']     = 'Állapot';
 
 // Error
-$_['error_permission'] = 'Figyelem: Nincs jogosultsága az alapértelmezett téma módosításához!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága az alapértelmezett téma módosításához!';

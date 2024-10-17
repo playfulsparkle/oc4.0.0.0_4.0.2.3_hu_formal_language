@@ -5,7 +5,7 @@ $_['heading_title']                    = 'Áruházak';
 // Text
 $_['text_settings']                    = 'Beállítások';
 $_['text_success']                     = 'Siker: Módosítottad az Áruházakat!';
-$_['text_list']                        = 'Áruházak listája';
+$_['text_list']                        = 'Áruház lista';
 $_['text_add']                         = 'Hozzáadás';
 $_['text_edit']                        = 'Szerkesztés';
 $_['text_items']                       = 'Tételek';

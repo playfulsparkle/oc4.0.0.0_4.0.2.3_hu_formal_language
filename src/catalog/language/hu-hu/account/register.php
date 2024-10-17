@@ -22,8 +22,8 @@ $_['entry_password']       = 'Jelszó';
 $_['entry_confirm']        = 'Jelszó megerősítése';
 
 // Error
-$_['error_token']          = 'Figyelem: A regisztrációs token érvénytelen!';
-$_['error_exists']         = 'Figyelem: Az e-mail cím már regisztrálva van!';
+$_['error_token']          = 'Figyelmeztetés: A regisztrációs token érvénytelen!';
+$_['error_exists']         = 'Figyelmeztetés: Az e-mail cím már regisztrálva van!';
 $_['error_customer_group'] = 'A Vásárlói csoport nem tűnik érvényesnek!';
 $_['error_firstname']      = 'A keresztnév legalább 1, és legfeljebb 32 karakterből álljon!';
 $_['error_lastname']       = 'A vezetéknév legalább 1, és legfeljebb 32 karakterből álljon!';
@@ -32,4 +32,4 @@ $_['error_telephone']      = 'A telefonszám legalább 3, és legfeljebb 32 kara
 $_['error_custom_field']   = '%s kötelező!';
 $_['error_regex']          = '%s nem érvényes!';
 $_['error_password']       = 'A jelszó legalább 4, és legfeljebb 20 karakterből álljon!';
-$_['error_agree']          = 'Figyelem: El kell fogadnia a %s!';
+$_['error_agree']          = 'Figyelmeztetés: El kell fogadnia a %s!';

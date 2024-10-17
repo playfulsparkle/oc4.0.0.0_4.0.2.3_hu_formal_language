@@ -14,4 +14,4 @@ $_['entry_sort_order'] = 'Sorrend';
 $_['entry_width']      = 'Szélesség';
 
 // Error
-$_['error_permission'] = 'Figyelem: Nincs jogosultsága az összes rendelés módosításához!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága az összes rendelés módosításához!';

@@ -18,4 +18,4 @@ $_['entry_sort_order'] = 'Sorrend';
 $_['help_total']       = 'A megrendelés teljes összegének el kell érnie ezt az összeget, mielőtt az alacsony rendelés extraköltsége deaktiválódik.';
 
 // Error
-$_['error_permission'] = 'Figyelem: Nincs jogosultsága az alacsony rendelés extraköltsége módosításához!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága az alacsony rendelés extraköltsége módosításához!';

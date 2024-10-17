@@ -129,10 +129,10 @@ $_['entry_date_to']              = 'Dátumig';
 $_['help_override']              = 'Ha az ügyfél rendelése blokkolva van az állapot módosításában egy anti-csalás bővítmény miatt, engedélyezze a felülírást.';
        
 // Error       
-$_['error_warning']              = 'Figyelem: Kérjük, ellenőrizze a űrlapot hibák után!';
-$_['error_permission']           = 'Figyelem: Nincs engedélye a rendelések módosítására!';
-$_['error_invoice_no']           = 'Figyelem: Számla Szám már létre lett hozva!';
-$_['error_order']                = 'Figyelem: A rendelés nem létezik!';
-$_['error_affiliate']            = 'Figyelem: A partner nem létezik!';
-$_['error_reward_add']           = 'Figyelem: A hűségpontok már hozzá lettek adva ehhez a rendeléshez!';
-$_['error_commission_add']       = 'Figyelem: A partner bizomány már hozzá lett adva ehhez a rendeléshez!';
+$_['error_warning']              = 'Figyelmeztetés: Kérjük, ellenőrizze a űrlapot hibák után!';
+$_['error_permission']           = 'Figyelmeztetés: Nincs engedélye a rendelések módosítására!';
+$_['error_invoice_no']           = 'Figyelmeztetés: Számla Szám már létre lett hozva!';
+$_['error_order']                = 'Figyelmeztetés: A rendelés nem létezik!';
+$_['error_affiliate']            = 'Figyelmeztetés: A partner nem létezik!';
+$_['error_reward_add']           = 'Figyelmeztetés: A hűségpontok már hozzá lettek adva ehhez a rendeléshez!';
+$_['error_commission_add']       = 'Figyelmeztetés: A partner bizomány már hozzá lett adva ehhez a rendeléshez!';

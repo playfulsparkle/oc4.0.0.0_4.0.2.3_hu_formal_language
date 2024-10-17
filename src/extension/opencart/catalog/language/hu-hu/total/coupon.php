@@ -11,5 +11,5 @@ $_['text_remove']   = 'Siker: A kuponkedvezmény eltávolítva!';
 $_['entry_coupon']  = 'Írja be a kuponkódot itt';
 
 // Error
-$_['error_coupon']  = 'Figyelem: A kupon érvénytelen, lejárt vagy elérte a felhasználási limitet!';
-$_['error_status']  = 'Figyelem: A kuponok nincsenek engedélyezve ezen a áruházban!';
+$_['error_coupon']  = 'Figyelmeztetés: A kupon érvénytelen, lejárt vagy elérte a felhasználási limitet!';
+$_['error_status']  = 'Figyelmeztetés: A kuponok nincsenek engedélyezve ezen a áruházban!';

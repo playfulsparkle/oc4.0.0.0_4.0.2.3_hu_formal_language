@@ -19,12 +19,12 @@ $_['column_action']          = 'Művelet';
 $_['entry_progress']         = 'Folyamat';
 
 // Error
-$_['error_permission']       = 'Figyelem: Nincs jogosultsága a bővítmények módosításához!';
-$_['error_install']          = 'Figyelem: A install.json fájl nem található!';
-$_['error_default']          = 'Figyelem: Az alapértelmezett bővítmény nem távolítható el vagy törölhető!';
-$_['error_extension']        = 'Figyelem: A telepített bővítmény nem található!';
-$_['error_installed']        = 'Figyelem: A bővítmény már telepítve van!';
-$_['error_uninstall']        = 'Figyelem: %s bővítményt kell eltávolítani, mielőtt ez a bővítmény biztonságosan eltávolítható!';
+$_['error_permission']       = 'Figyelmeztetés: Nincs jogosultsága a bővítmények módosításához!';
+$_['error_install']          = 'Figyelmeztetés: A install.json fájl nem található!';
+$_['error_default']          = 'Figyelmeztetés: Az alapértelmezett bővítmény nem távolítható el vagy törölhető!';
+$_['error_extension']        = 'Figyelmeztetés: A telepített bővítmény nem található!';
+$_['error_installed']        = 'Figyelmeztetés: A bővítmény már telepítve van!';
+$_['error_uninstall']        = 'Figyelmeztetés: %s bővítményt kell eltávolítani, mielőtt ez a bővítmény biztonságosan eltávolítható!';
 $_['error_name']             = 'A bővítmény név legalább 3, és legfeljebb 128 karakterből álljon!';
 $_['error_version']          = 'A verzió legalább 3, és legfeljebb 128 karakterből álljon!';
 $_['error_author']           = 'A szerző legalább 3, és legfeljebb 128 karakterből álljon!';

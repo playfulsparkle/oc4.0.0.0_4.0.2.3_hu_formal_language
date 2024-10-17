@@ -6,7 +6,7 @@ $_['text_success']    = 'Siker: Az ajándékutalvány kedvezmény alkalmazva let
 $_['text_remove']     = 'Siker: Az ajándékutalvány kedvezmény eltávolítva!';
 
 // Error
-$_['error_voucher']   = 'Figyelem: Az ajándékutalvány érvénytelen, vagy az egyenleg felhasználásra került!';
+$_['error_voucher']   = 'Figyelmeztetés: Az ajándékutalvány érvénytelen, vagy az egyenleg felhasználásra került!';
 $_['error_to_name']   = 'A címzett név legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_from_name'] = 'A saját név legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_email']     = 'Az e-mail cím nem tűnik érvényesnek!';

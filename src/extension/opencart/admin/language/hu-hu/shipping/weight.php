@@ -18,4 +18,4 @@ $_['entry_sort_order'] = 'Sorrend';
 $_['help_rate']        = 'Példa: 5:10.00,7:12.00 Súly:Költség, Súly:Költség, stb..';
 
 // Error
-$_['error_permission'] = 'Figyelem: Nincs jogosultsága a súly alapú szállítási költség módosításához!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a súly alapú szállítási költség módosításához!';

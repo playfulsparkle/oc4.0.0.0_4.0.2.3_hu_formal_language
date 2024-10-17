@@ -22,4 +22,4 @@ $_['text_remove']       = 'Siker: Az összehasonlítás sikeresen módosítva le
 $_['text_no_results']   = 'Nincs kiválasztott termék az összehasonlításhoz.';
 
 // Error
-$_['error_product']     = 'Figyelem: A termék nem található!';
+$_['error_product']     = 'Figyelmeztetés: A termék nem található!';

@@ -19,5 +19,5 @@ $_['column_date_added'] = 'Hozzáadva';
 $_['column_action']     = 'Művelet';
 
 // Error
-$_['error_permission']  = 'Figyelem: Nincs engedélye a témaszerkesztő módosítására!';
-$_['error_twig']        = 'Figyelem: Csak .twig fájlokat menthet!';
+$_['error_permission']  = 'Figyelmeztetés: Nincs engedélye a témaszerkesztő módosítására!';
+$_['error_twig']        = 'Figyelmeztetés: Csak .twig fájlokat menthet!';

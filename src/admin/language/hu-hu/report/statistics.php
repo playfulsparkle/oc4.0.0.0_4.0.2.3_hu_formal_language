@@ -21,4 +21,4 @@ $_['column_value']          = 'Érték';
 $_['column_action']         = 'Művelet';
 
 // Error
-$_['error_permission']      = 'Figyelem: Nincs engedélye a statisztikák módosítására!';
+$_['error_permission']      = 'Figyelmeztetés: Nincs engedélye a statisztikák módosítására!';

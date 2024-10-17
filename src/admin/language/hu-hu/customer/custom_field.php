@@ -50,7 +50,7 @@ $_['help_regex']           = 'Használjon reguláris kifejezést. Pl.: [^a-zA-Z0
 $_['help_sort_order']      = 'Használjon negatív számot, hogy visszafelé számoljon a mezõk között.';
 
 // Error
-$_['error_permission']     = 'Figyelem: Nincs engedélye az egyéni mezõk módosítására!';
+$_['error_permission']     = 'Figyelmeztetés: Nincs engedélye az egyéni mezõk módosítására!';
 $_['error_name']           = 'Az egyéni mezõ név legalább 1, és legfeljebb 128 karakterből álljon!';
-$_['error_type']           = 'Figyelem: Az egyéni mezõk értékei kötelezõek!';
+$_['error_type']           = 'Figyelmeztetés: Az egyéni mezõk értékei kötelezõek!';
 $_['error_custom_value']   = 'Az egyéni érték név legalább 1, és legfeljebb 128 karakterből álljon!';

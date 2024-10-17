@@ -84,11 +84,11 @@ $_['help_safe']             = 'Állítsa igen-re, hogy elkerülje, hogy a vásá
 $_['help_points']           = 'A mínuszt használja a pontok eltávolításához';
 
 // Error
-$_['error_warning']         = 'Figyelem: Kérjük, alaposan ellenőrizze a formát hibák miatt!';
-$_['error_permission']      = 'Figyelem: Nincs engedélye a vásárlók módosítására!';
-$_['error_customer']        = 'Figyelem: A vásárló nem létezik!';
-$_['error_exists']          = 'Figyelem: Az E-mail cím már regisztrálva van!';
-$_['error_address']         = 'Figyelem: A cím nem létezik!';
+$_['error_warning']         = 'Figyelmeztetés: Kérjük, alaposan ellenőrizze a formát hibák miatt!';
+$_['error_permission']      = 'Figyelmeztetés: Nincs engedélye a vásárlók módosítására!';
+$_['error_customer']        = 'Figyelmeztetés: A vásárló nem létezik!';
+$_['error_exists']          = 'Figyelmeztetés: Az E-mail cím már regisztrálva van!';
+$_['error_address']         = 'Figyelmeztetés: A cím nem létezik!';
 $_['error_firstname']       = 'A keresztné legalább 1, és legfeljebb 32 karakterből álljon!';
 $_['error_lastname']        = 'A vezetéknév legalább 1, és legfeljebb 32 karakterből álljon!';
 $_['error_email']           = 'Az e-Mail cím nem tűnik érvényesnek!';

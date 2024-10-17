@@ -27,12 +27,12 @@ $_['entry_route']         = 'Útvonal';
 $_['entry_module']        = 'Modul';
 
 // Error
-$_['error_permission']    = 'Figyelem: Nincs engedélye az elrendezések módosítására!';
+$_['error_permission']    = 'Figyelmeztetés: Nincs engedélye az elrendezések módosítására!';
 $_['error_name']          = 'Az elrendezés név legalább 3, és legfeljebb 64 karakterből álljon!';
 $_['error_module']        = 'Modul szükséges!';
-$_['error_default']       = 'Figyelem: Ez az elrendezés nem törölhető, mert jelenleg az alapértelmezett áruház elrendezésként van beállítva!';
-$_['error_store']         = 'Figyelem: Ez az elrendezés nem törölhető, mert jelenleg %s áruházhoz van rendelve!';
-$_['error_product']       = 'Figyelem: Ez az elrendezés nem törölhető, mert jelenleg %s termékhez van rendelve!';
-$_['error_category']      = 'Figyelem: Ez az elrendezés nem törölhető, mert jelenleg %s kategóriához van rendelve!';
-$_['error_manufacturer']  = 'Figyelem: Ez az elrendezés nem törölhető, mert jelenleg %s gyártóhoz van rendelve!';
-$_['error_information']   = 'Figyelem: Ez az elrendezés nem törölhető, mert jelenleg %s információs oldalhoz van rendelve!';
+$_['error_default']       = 'Figyelmeztetés: Ez az elrendezés nem törölhető, mert jelenleg az alapértelmezett áruház elrendezésként van beállítva!';
+$_['error_store']         = 'Figyelmeztetés: Ez az elrendezés nem törölhető, mert jelenleg %s áruházhoz van rendelve!';
+$_['error_product']       = 'Figyelmeztetés: Ez az elrendezés nem törölhető, mert jelenleg %s termékhez van rendelve!';
+$_['error_category']      = 'Figyelmeztetés: Ez az elrendezés nem törölhető, mert jelenleg %s kategóriához van rendelve!';
+$_['error_manufacturer']  = 'Figyelmeztetés: Ez az elrendezés nem törölhető, mert jelenleg %s gyártóhoz van rendelve!';
+$_['error_information']   = 'Figyelmeztetés: Ez az elrendezés nem törölhető, mert jelenleg %s információs oldalhoz van rendelve!';

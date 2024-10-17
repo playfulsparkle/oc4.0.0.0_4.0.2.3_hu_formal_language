@@ -4,7 +4,7 @@ $_['heading_title']            = 'Letöltések';
 
 // Text
 $_['text_success']             = 'Siker: Sikeresen módosította a letöltéseket!';
-$_['text_list']                = 'Letöltések listája';
+$_['text_list']                = 'Letöltés lista';
 $_['text_add']                 = 'Letöltés hozzáadása';
 $_['text_edit']                = 'Letöltés szerkesztése';
 $_['text_upload']              = 'A fájl sikeresen feltöltve!';
@@ -29,8 +29,8 @@ $_['help_filename']            = 'Feltöltheti a feltöltés gomb segítségéve
 $_['help_mask']                = 'Ajánlott, hogy a fájlnév és az maszk különböző legyen, hogy megakadályozza az embereket abban, hogy közvetlenül linkeljenek a letöltéseihez.';
 
 // Error
-$_['error_warning']            = 'Figyelem: Kérjük, ellenőrizze alaposan a formanyomtatványt hibákért!';
-$_['error_permission']         = 'Figyelem: Nincs jogosultsága a letöltések módosításához!';
+$_['error_warning']            = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan a formanyomtatványt hibákért!';
+$_['error_permission']         = 'Figyelmeztetés: Nincs jogosultsága a letöltések módosításához!';
 $_['error_name']               = 'Letöltés név legalább 3, és legfeljebb 64 karakterből álljon!';
 $_['error_filename']           = 'Fájlnév legalább 3, és legfeljebb 128 karakterből álljon!';
 $_['error_filename_character'] = 'A fájlnevének csak a-z, 0-9, - és _ karaktereket szabad használnia!';
@@ -39,4 +39,4 @@ $_['error_exists']             = 'A fájl nem létezik!';
 $_['error_mask']               = 'A maszk cím legalább 3, és legfeljebb 128 karakterből álljon!';
 $_['error_mask_character']     = 'Az maszk címében csak a-z, 0-9, - és _ karaktereket használhat!';
 $_['error_file_type']          = 'Érvénytelen fájltípus!';
-$_['error_product']            = 'Figyelem: Ezt a letöltést nem lehet törölni, mivel jelenleg %s termékhez van rendelve!';
+$_['error_product']            = 'Figyelmeztetés: Ezt a letöltést nem lehet törölni, mivel jelenleg %s termékhez van rendelve!';

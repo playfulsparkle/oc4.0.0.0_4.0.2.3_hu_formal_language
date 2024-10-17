@@ -86,10 +86,10 @@ $_['help_frequency']             = 'Ha a gyakoriság "hét" és a ciklus "2", ak
 $_['tab_order']                  = 'Rendelések';
 
 // Error
-$_['error_permission']           = 'Figyelem: Nincs engedélye az előfizetések módosítására!';
+$_['error_permission']           = 'Figyelmeztetés: Nincs engedélye az előfizetések módosítására!';
 $_['error_status']               = 'Hiba: Az előfizetés állapota nem egyezik a áruház állapotával!';
-$_['error_subscription']         = 'Figyelem: Az előfizetés nem létezik!';
-$_['error_subscription_plan']    = 'Figyelem: Az előfizetési terv nem létezik!';
-$_['error_subscription_status']  = 'Figyelem: Az előfizetés állapotát ki kell választani!';
-$_['error_payment_method']       = 'Figyelem: A fizetési módszer nem létezik!';
+$_['error_subscription']         = 'Figyelmeztetés: Az előfizetés nem létezik!';
+$_['error_subscription_plan']    = 'Figyelmeztetés: Az előfizetési terv nem létezik!';
+$_['error_subscription_status']  = 'Figyelmeztetés: Az előfizetés állapotát ki kell választani!';
+$_['error_payment_method']       = 'Figyelmeztetés: A fizetési módszer nem létezik!';
 $_['error_service_type']         = 'A szolgáltatás állapotát nem tartalmazza ez a tranzakció. Ha ezt a hibaüzenetet látja, kérjük, lépjen kapcsolatba az előfizetési szolgáltatásokat kezelő bővítmény fejlesztőjével az ügy megoldása érdekében!';

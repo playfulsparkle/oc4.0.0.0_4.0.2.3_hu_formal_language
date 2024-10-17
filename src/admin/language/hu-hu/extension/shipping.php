@@ -4,7 +4,7 @@ $_['heading_title']     = 'Szállítás';
 
 // Text
 $_['text_success']      = 'Siker: Szállítás módosítva!';
-$_['text_list']         = 'Szállítás listája';
+$_['text_list']         = 'Szállítás lista';
 
 // Column
 $_['column_name']       = 'Szállítás név';

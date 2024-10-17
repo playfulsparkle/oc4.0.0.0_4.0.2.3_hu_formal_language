@@ -15,4 +15,4 @@ $_['column_date_expire']    = 'Lejárati dátum';
 $_['column_action']         = 'Művelet';
 
 // Error
-$_['error_payment_method']  = 'Figyelem: A fizetési módszer nem található!';
+$_['error_payment_method']  = 'Figyelmeztetés: A fizetési módszer nem található!';

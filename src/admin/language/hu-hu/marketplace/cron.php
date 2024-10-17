@@ -25,4 +25,4 @@ $_['entry_cron']           = 'Cron URL';
 $_['entry_description']    = 'Leírás';
 
 // Error
-$_['error_permission']     = 'Figyelem: Nincs jogosultsága a cron feladatok módosításához!';
+$_['error_permission']     = 'Figyelmeztetés: Nincs jogosultsága a cron feladatok módosításához!';

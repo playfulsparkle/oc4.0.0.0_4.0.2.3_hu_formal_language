@@ -13,5 +13,5 @@ $_['entry_api']        = 'API hozzáférési kulcs';
 $_['entry_status']     = 'Állapot';
 
 // Error
-$_['error_permission'] = 'Figyelem: Nincs jogosultsága a Fixer pénznemárfolyamok módosításához!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a Fixer pénznemárfolyamok módosításához!';
 $_['error_api']        = 'API Hozzáférési Kulcs szükséges!';

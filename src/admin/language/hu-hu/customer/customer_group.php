@@ -23,8 +23,8 @@ $_['entry_sort_order']  = 'Sorrend';
 $_['help_approval']     = 'A vásárlóknak adminisztrátori jóváhagyásra van szükségük a bejelentkezés előtt.';
 
 // Error
-$_['error_permission']  = 'Figyelem: Nincs engedélye a Vásárlói csoportok módosítására!';
+$_['error_permission']  = 'Figyelmeztetés: Nincs engedélye a Vásárlói csoportok módosítására!';
 $_['error_name']        = 'A Vásárlói csoport név legalább 3, és legfeljebb 32 karakterből álljon!';
-$_['error_default']     = 'Figyelem: Ez a Vásárlói csoport nem törölhető, mivel jelenleg az alapértelmezett áruház Vásárlói csoportként van beállítva!';
-$_['error_store']       = 'Figyelem: Ez a Vásárlói csoport nem törölhető, mivel jelenleg %s áruházban van hozzárendelve!';
-$_['error_customer']    = 'Figyelem: Ez a Vásárlói csoport nem törölhető, mivel jelenleg %s vásárlóhoz van hozzárendelve!';
+$_['error_default']     = 'Figyelmeztetés: Ez a Vásárlói csoport nem törölhető, mivel jelenleg az alapértelmezett áruház Vásárlói csoportként van beállítva!';
+$_['error_store']       = 'Figyelmeztetés: Ez a Vásárlói csoport nem törölhető, mivel jelenleg %s áruházban van hozzárendelve!';
+$_['error_customer']    = 'Figyelmeztetés: Ez a Vásárlói csoport nem törölhető, mivel jelenleg %s vásárlóhoz van hozzárendelve!';

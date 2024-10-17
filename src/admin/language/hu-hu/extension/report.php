@@ -4,7 +4,7 @@ $_['heading_title']     = 'Jelentések';
 
 // Text
 $_['text_success']      = 'Siker: Jelentések módosítva!';
-$_['text_list']         = 'Jelentések listája';
+$_['text_list']         = 'Jelentés lista';
 
 // Column
 $_['column_name']       = 'Jelentés név';

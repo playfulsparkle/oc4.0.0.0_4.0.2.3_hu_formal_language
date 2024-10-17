@@ -23,6 +23,6 @@ $_['entry_status']     = 'Állapot';
 $_['entry_sort_order'] = 'Sorrend';
 
 // Error
-$_['error_permission'] = 'Figyelem: Nincs engedélye a bannerek módosítására!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs engedélye a bannerek módosítására!';
 $_['error_name']       = 'A banner név legalább 3, és legfeljebb 64 karakterből álljon!';
 $_['error_title']      = 'A banner cím legalább 2, és legfeljebb 64 karakterből álljon!';

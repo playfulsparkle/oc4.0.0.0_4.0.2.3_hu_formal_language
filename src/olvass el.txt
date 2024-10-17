@@ -17,12 +17,12 @@ Telepítés a bővítménytelepítő használatával
 2. Jelentkezzen be az OpenCart 4 adminisztrációs felületére.
 3. Navigáljon az "Extensions" -> "Installer" oldalra.
 4. Kattintson az "Upload" feliratú gombra, és válassza ki a "ps_hu_formal_language.ocmod.zip" fájlt a feltöltéshez.  
-   Figyelem: Ügyeljen rá, hogy a fájlnév pontosan "ps_hu_formal_language.ocmod.zip" legyen, máskülönben a telepítés sikertelen lesz!
+   Figyelmeztetés: Ügyeljen rá, hogy a fájlnév pontosan "ps_hu_formal_language.ocmod.zip" legyen, máskülönben a telepítés sikertelen lesz!
 5. Látni fogja a "Hungarian language (formal)" bővítményt a listán, kattintson az "Install" feliratú gombra.  
-   Figyelem: A telepítés eltarthat egy ideig, amíg a rendszer kicsomagolja a fájlokat; várjon, amíg meg nem jelenik a "Success: You have modified extensions!" üzenet.
+   Figyelmeztetés: A telepítés eltarthat egy ideig, amíg a rendszer kicsomagolja a fájlokat; várjon, amíg meg nem jelenik a "Success: You have modified extensions!" üzenet.
 6. Navigáljon az "Extensions" oldalra, majd a "Choose the extension type" résznél válassza ki a "Languages" lehetőséget.
 7. Látni fogja a "Hungarian language (formal)" bővítményt a listán, kattintson az "Install" feliratú gombra.  
-   Figyelem: A nyelvi beállítások alkalmazása eltarthat egy ideig, amíg a rendszer beállítja az új nyelvet; várjon, amíg meg nem jelenik a "Success: You have modified languages!" üzenet.
+   Figyelmeztetés: A nyelvi beállítások alkalmazása eltarthat egy ideig, amíg a rendszer beállítja az új nyelvet; várjon, amíg meg nem jelenik a "Success: You have modified languages!" üzenet.
 8. Kattintson az "Edit" gombra, ezután engedélyezze a nyelvi bővítményt, majd kattintson a "Save" gombra; ezzel engedélyezte a nyelvi csomagot.
 
 Figyelmeztetés: Ha a nyelvi csomagot a bővítménytelepítő használatával telepítette, és az "Extensions" oldalon a "Languages" szekcióban a nyelvnél rákattint a "Uninstall" feliratú gombra, akkor a rendszer nemcsak a nyelvet távolítja el, hanem minden egyes termék, kategória stb. fordítását is!

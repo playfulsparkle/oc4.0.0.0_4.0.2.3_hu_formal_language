@@ -12,4 +12,4 @@ $_['column_sort_order'] = 'Sorrend';
 $_['column_action']     = 'Művelet';
 
 // Error
-$_['error_permission']  = 'Figyelem: Nincs jogosultsága a üzembe helyezés végrehajtásához!';
+$_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága a üzembe helyezés végrehajtásához!';

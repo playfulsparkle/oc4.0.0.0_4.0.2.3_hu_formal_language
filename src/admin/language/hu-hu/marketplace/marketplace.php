@@ -72,7 +72,7 @@ $_['button_reply']       = 'Válasz';
 $_['button_forgot_pin']  = 'Elfelejtett PIN?';
 
 // Error
-$_['error_permission']   = 'Figyelem: Nincs jogosultsága a bővítmények módosításához!';
-$_['error_api']          = 'Figyelem: A bővítmények letöltéséhez vagy vásárlásához először adja meg OpenCart API információit az <i class="fa-solid fa-triangle-exclamation"></i> ikonra kattintva!';
+$_['error_permission']   = 'Figyelmeztetés: Nincs jogosultsága a bővítmények módosításához!';
+$_['error_api']          = 'Figyelmeztetés: A bővítmények letöltéséhez vagy vásárlásához először adja meg OpenCart API információit az <i class="fa-solid fa-triangle-exclamation"></i> ikonra kattintva!';
 $_['error_purchase']     = 'A bővítmény vásárlása nem sikerült!';
 $_['error_download']     = 'A bővítmény letöltése nem sikerült!';

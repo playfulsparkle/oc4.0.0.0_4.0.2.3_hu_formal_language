@@ -11,4 +11,4 @@ $_['text_edit']        = 'Magyar nyelv szerkesztése';
 $_['entry_status']     = 'Állapot';
 
 // Hiba
-$_['error_permission'] = 'Figyelem: Nincs jogosultsága a magyar nyelv módosításához!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a magyar nyelv módosításához!';

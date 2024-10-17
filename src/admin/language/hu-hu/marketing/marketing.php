@@ -37,7 +37,7 @@ $_['help_code']         = 'A nyomkövetési kód, amelyet a marketing kampányok
 $_['help_example']      = 'Ahhoz, hogy a rendszer nyomon követhesse az ajánlásokat, hozzá kell adni a nyomkövetési kódot az URL végéhez, amely az Ön weboldalára mutat.';
 
 // Error
-$_['error_permission']  = 'Figyelem: Nincs jogosultsága a marketing nyomkövetés módosításához!';
+$_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága a marketing nyomkövetés módosításához!';
 $_['error_name']        = 'A kampány név legalább 1, és legfeljebb 32 karakterből álljon!';
 $_['error_code']        = 'Nyomkövetési kód megadása kötelező!';
 $_['error_exists']      = 'A nyomkövetési kód már használatban van egy másik kampány által!';

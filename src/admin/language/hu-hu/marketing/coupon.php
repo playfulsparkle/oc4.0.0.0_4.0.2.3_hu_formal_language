@@ -51,7 +51,7 @@ $_['help_uses_total']     = 'A kupon maximálisan hány alkalommal használható
 $_['help_uses_customer']  = 'A kupon maximálisan hány alkalommal használható fel egyetlen ügyfél által. Hagyja üresen a korlátlan használathoz.';
 
 // Error
-$_['error_permission']    = 'Figyelem: Nincs jogosultsága a kuponok módosításához!';
-$_['error_exists']        = 'Figyelem: A kuponkód már használatban van!';
+$_['error_permission']    = 'Figyelmeztetés: Nincs jogosultsága a kuponok módosításához!';
+$_['error_exists']        = 'Figyelmeztetés: A kuponkód már használatban van!';
 $_['error_name']          = 'A kupon név legalább 3, és legfeljebb 128 karakterből álljon!';
 $_['error_code']          = 'A kód legalább 3, és legfeljebb 20 karakterből álljon!';

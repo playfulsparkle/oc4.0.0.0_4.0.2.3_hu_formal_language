@@ -14,5 +14,5 @@ $_['entry_description'] = 'Leírás';
 $_['entry_status']      = 'Állapot';
 
 // Error
-$_['error_permission']  = 'Figyelem: Nincs jogosultsága a egyedi HTML kód modul módosításához!';
+$_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága a egyedi HTML kód modul módosításához!';
 $_['error_name']        = 'A modul név legalább 3, és legfeljebb 64 karakterből álljon!';

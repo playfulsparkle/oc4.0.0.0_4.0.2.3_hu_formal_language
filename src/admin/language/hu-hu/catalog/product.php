@@ -5,7 +5,7 @@ $_['heading_title']           = 'Termékek';
 // Text
 $_['text_success']            = 'Siker: Sikeresen módosította a termékeket!';
 $_['text_variant']            = 'Kérjük, vegye figyelembe, hogy mivel ez egy variáns termék, felül kell írnia a <a href="%s" target="_blank" class="alert-link">alaptermék</a> adatokat. Különben az adatok felülíródnak az <a href="%s" target="_blank" class="alert-link">alaptermék</a> adataival mentéskor.';
-$_['text_list']               = 'Termékek listája';
+$_['text_list']               = 'Termék lista';
 $_['text_add']                = 'Termék hozzáadása';
 $_['text_edit']               = 'Termék szerkesztése';
 $_['text_variant_add']        = 'Variáns hozzáadása';
@@ -122,8 +122,8 @@ $_['help_option']             = '(automatikus kitöltés)';
 $_['help_points']             = 'A vásárláshoz szükséges pontok száma. Ha nem szeretné, hogy ezt a terméket pontokkal vásárolják meg, hagyja 0-ra.';
 
 // Error
-$_['error_warning']           = 'Figyelem: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
-$_['error_permission']        = 'Figyelem: Nincs jogosultsága a termékek módosításához!';
+$_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
+$_['error_permission']        = 'Figyelmeztetés: Nincs jogosultsága a termékek módosításához!';
 $_['error_name']              = 'A termék név legalább 1, és legfeljebb 255 karakterből álljon!';
 $_['error_meta_title']        = 'A cím (Title meta tag) legalább 1, és legfeljebb 255 karakterből álljon!';
 $_['error_model']             = 'A termék modellje legalább 1, és legfeljebb 64 karakterből álljon!';

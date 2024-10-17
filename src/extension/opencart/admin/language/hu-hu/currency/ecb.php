@@ -12,4 +12,4 @@ $_['text_support']     = 'Ez a bővítmény megköveteli, hogy az EUR pénznem e
 $_['entry_status']     = 'Állapot';
 
 // Error
-$_['error_permission'] = 'Figyelem: Nincs jogosultsága a Európai Központi Bank valutaátváltása (EKB) módosításához!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a Európai Központi Bank valutaátváltása (EKB) módosításához!';

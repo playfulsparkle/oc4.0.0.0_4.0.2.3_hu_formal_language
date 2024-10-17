@@ -3,7 +3,7 @@
 $_['text_success']         = 'Sikeresen módosította az ügyfeleket';
 
 // Error
-$_['error_customer']       = 'Figyelem: Az ügyfél nem található!';
+$_['error_customer']       = 'Figyelmeztetés: Az ügyfél nem található!';
 $_['error_customer_group'] = 'Az ügyfélcsoport nem tűnik érvényesnek!';
 $_['error_firstname']      = 'A keresztnév legalább 1, és legfeljebb 32 karakterből álljon!';
 $_['error_lastname']       = 'A vezetéknév legalább 1, és legfeljebb 32 karakterből álljon!';

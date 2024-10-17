@@ -19,4 +19,4 @@ $_['entry_trigger']     = 'Indító';
 $_['entry_action']      = 'Művelet';
 
 // Error
-$_['error_permission']  = 'Figyelem: Nincs jogosultsága az események módosításához!';
+$_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága az események módosításához!';

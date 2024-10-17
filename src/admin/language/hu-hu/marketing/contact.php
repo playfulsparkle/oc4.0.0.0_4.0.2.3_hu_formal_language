@@ -31,7 +31,7 @@ $_['help_affiliate']       = '(automatikus kitöltés)';
 $_['help_product']         = 'Csak azoknak az ügyfeleknek küldje, akik rendeltek a listában szereplő termékekből. (Automatikus kitöltés)';
 
 // Error
-$_['error_permission']     = 'Figyelem: Nincs jogosultsága e-mailek küldésére!';
+$_['error_permission']     = 'Figyelmeztetés: Nincs jogosultsága e-mailek küldésére!';
 $_['error_subject']        = 'Az e-mail tárgya kötelező!';
 $_['error_message']        = 'Az e-mail üzenet kötelező!';
 $_['error_email']          = 'Nincsenek e-mail címzettek!';

@@ -33,8 +33,8 @@ $_['entry_keyword']           = 'Kulcsszó';
 $_['entry_layout']            = 'Elrendezés felülírása';
 
 // Error
-$_['error_warning']           = 'Figyelem: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
-$_['error_permission']        = 'Figyelem: Nincs jogosultsága a cikkek módosításához!';
+$_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
+$_['error_permission']        = 'Figyelmeztetés: Nincs jogosultsága a cikkek módosításához!';
 $_['error_name']              = 'A cím legalább 1, és legfeljebb 255 karakterből álljon!';
 $_['error_meta_title']        = 'A cím (Title meta tag) legalább 1, és legfeljebb 255 karakterből álljon!';
 $_['error_keyword']           = 'Az SEO URL-nek legalább 1, és legfeljebb 64 karakterből álljon!';

@@ -19,4 +19,4 @@ $_['entry_sort_order'] = 'Sorrend';
 $_['entry_width']      = 'Szélesség';
 
 // Error
-$_['error_permission'] = 'Figyelem: Nincs jogosultsága az irányítópult diagram módosításához!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága az irányítópult diagram módosításához!';

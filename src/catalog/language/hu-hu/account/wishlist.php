@@ -20,4 +20,4 @@ $_['column_price']    = 'Egységár';
 $_['column_action']   = 'Művelet';
 
 // Error
-$_['error_product']   = 'Figyelem: A termék nem található!';
+$_['error_product']   = 'Figyelmeztetés: A termék nem található!';

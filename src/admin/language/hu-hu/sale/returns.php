@@ -53,13 +53,13 @@ $_['entry_date_to']        = 'Dátumig';
 $_['help_product']         = '(automatikus kitöltés)';
 
 // Error
-$_['error_warning']        = 'Figyelem: Kérjük, ellenőrizze alaposan a űrlapot hibák után!';
-$_['error_permission']     = 'Figyelem: Nincs engedélye a reklamációk módosítására!';
-$_['error_return']         = 'Figyelem: A kiválasztott reklamáció nem található!';
-$_['error_order_id']       = 'Figyelem: Rendelés azonosító szükséges!';
-$_['error_firstname']      = 'Figyelem: A keresztnév legalább 1, és legfeljebb 32 karakterből álljon!';
-$_['error_lastname']       = 'Figyelem: A vezetéknév legalább 1, és legfeljebb 32 karakterből álljon!';
-$_['error_email']          = 'Figyelem: Az e-mail cím érvénytelennek tűnik!';
-$_['error_telephone']      = 'Figyelem: A telefonszám legalább 3, és legfeljebb 32 karakterből álljon!';
-$_['error_product']        = 'Figyelem: A termék név legalább 1, és legfeljebb 255 karakterből álljon!';
-$_['error_model']          = 'Figyelem: A termék cikkszám legalább 1, és legfeljebb 64 karakterből álljon!';
+$_['error_warning']        = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan a űrlapot hibák után!';
+$_['error_permission']     = 'Figyelmeztetés: Nincs engedélye a reklamációk módosítására!';
+$_['error_return']         = 'Figyelmeztetés: A kiválasztott reklamáció nem található!';
+$_['error_order_id']       = 'Figyelmeztetés: Rendelés azonosító szükséges!';
+$_['error_firstname']      = 'Figyelmeztetés: A keresztnév legalább 1, és legfeljebb 32 karakterből álljon!';
+$_['error_lastname']       = 'Figyelmeztetés: A vezetéknév legalább 1, és legfeljebb 32 karakterből álljon!';
+$_['error_email']          = 'Figyelmeztetés: Az e-mail cím érvénytelennek tűnik!';
+$_['error_telephone']      = 'Figyelmeztetés: A telefonszám legalább 3, és legfeljebb 32 karakterből álljon!';
+$_['error_product']        = 'Figyelmeztetés: A termék név legalább 1, és legfeljebb 255 karakterből álljon!';
+$_['error_model']          = 'Figyelmeztetés: A termék cikkszám legalább 1, és legfeljebb 64 karakterből álljon!';

@@ -11,4 +11,4 @@ $_['text_edit']        = 'Fiók szerkesztése';
 $_['entry_status']     = 'Állapot';
 
 // Error
-$_['error_permission'] = 'Figyelem: Nincs jogosultsága a fiók modul módosításához!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a fiók modul módosításához!';

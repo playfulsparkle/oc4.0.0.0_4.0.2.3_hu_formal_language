@@ -18,7 +18,7 @@ $_['entry_code']       = 'Modul';
 $_['entry_name']       = 'Modul név';
 
 // Error
-$_['error_permission'] = 'Figyelem: Nincs jogosultsága a modulok módosításához!';
-$_['error_extension']  = 'Figyelem: A bővítmény nem létezik!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a modulok módosításához!';
+$_['error_extension']  = 'Figyelmeztetés: A bővítmény nem létezik!';
 $_['error_name']       = 'A modul név legalább 3, és legfeljebb 64 karakterből álljon!';
 $_['error_code']       = 'Bővítmény szükséges!';

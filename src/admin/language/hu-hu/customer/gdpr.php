@@ -33,4 +33,4 @@ $_['entry_date_from']   = 'Dátumtól';
 $_['entry_date_to']     = 'Dátumig';
 
 // Error
-$_['error_permission']  = 'Figyelem: Nincs engedélye a GDPR jóváhagyások módosítására!';
+$_['error_permission']  = 'Figyelmeztetés: Nincs engedélye a GDPR jóváhagyások módosítására!';

@@ -4,7 +4,7 @@ $_['heading_title']           = 'Kategóriák';
 
 // Text
 $_['text_success']            = 'Siker: Sikeresen módosította a kategóriákat!';
-$_['text_list']               = 'Kategóriák Listája';
+$_['text_list']               = 'Kategória lista';
 $_['text_add']                = 'Kategória hozzáadása';
 $_['text_edit']               = 'Kategória szerkesztése';
 $_['text_default']            = 'Alapértelmezett';
@@ -39,8 +39,8 @@ $_['help_top']                = 'Megjelenítés a felső menüsorban. Csak a leg
 $_['help_column']             = 'Az alsó 3 kategória oszlopszáma. Csak a legfelső szülő kategóriák esetében működik.';
 
 // Error
-$_['error_warning']           = 'Figyelem: Kérjük, ellenőrizze alaposan a formanyomtatványt hibákért!';
-$_['error_permission']        = 'Figyelem: Nincs jogosultsága a kategóriák módosításához!';
+$_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan a formanyomtatványt hibákért!';
+$_['error_permission']        = 'Figyelmeztetés: Nincs jogosultsága a kategóriák módosításához!';
 $_['error_name']              = 'Kategória név legalább 1, és legfeljebb 255 karakterből álljon!';
 $_['error_meta_title']        = 'Cím (Title meta tag) legalább 1, és legfeljebb 255 karakterből álljon!';
 $_['error_parent']            = 'A választott szülő kategória a jelenlegi kategória gyermeke!';

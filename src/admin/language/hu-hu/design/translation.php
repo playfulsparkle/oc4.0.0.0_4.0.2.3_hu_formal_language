@@ -4,7 +4,7 @@ $_['heading_title']    = 'Nyelvszerkesztő';
 
 // Text
 $_['text_success']     = 'Siker: Sikeresen módosította a nyelvszerkesztőt!';
-$_['text_list']        = 'Fordítások listája';
+$_['text_list']        = 'Fordítás lista';
 $_['text_add']         = 'Fordítás hozzáadása';
 $_['text_edit']        = 'Fordítás szerkesztése';
 $_['text_default']     = 'Alapértelmezett';
@@ -28,5 +28,5 @@ $_['entry_default']    = 'Alapértelmezett';
 $_['entry_value']      = 'Érték';
 
 // Error
-$_['error_permission'] = 'Figyelem: Nincs engedélye a nyelvszerkesztő módosítására!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs engedélye a nyelvszerkesztő módosítására!';
 $_['error_key']        = 'A kulcs legalább 3, és legfeljebb 64 karakterből álljon!';

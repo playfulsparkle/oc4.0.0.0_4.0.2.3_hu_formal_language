@@ -4,7 +4,7 @@ $_['heading_title']    = 'Hibanapló';
 
 // Text
 $_['text_success']     = 'Siker: Sikeresen törölte a hibanaplót!';
-$_['text_list']        = 'Hibák listája';
+$_['text_list']        = 'Hiba lista';
 
 // Error
 $_['error_permission'] = 'Figyelmeztetés: Nincs engedélyed a hibanapló törlésére!';

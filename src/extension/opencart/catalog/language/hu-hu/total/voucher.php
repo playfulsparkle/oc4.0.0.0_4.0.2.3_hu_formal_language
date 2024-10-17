@@ -11,5 +11,5 @@ $_['text_remove']   = 'Siker: Az ajándékutalvány kedvezmény eltávolítva!';
 $_['entry_voucher'] = 'Írja be itt az ajándékutalvány kódját';
 
 // Error
-$_['error_voucher'] = 'Figyelem: Az ajándékutalvány érvénytelen, vagy a teljes összeg már felhasználásra került!';
-$_['error_status']  = 'Figyelem: Az ajándékutalványok nem engedélyezettek ezen az áruházon!';
+$_['error_voucher'] = 'Figyelmeztetés: Az ajándékutalvány érvénytelen, vagy a teljes összeg már felhasználásra került!';
+$_['error_status']  = 'Figyelmeztetés: Az ajándékutalványok nem engedélyezettek ezen az áruházon!';

@@ -4,7 +4,7 @@ $_['heading_title']      = 'Feltöltések';
 
 // Text
 $_['text_success']       = 'Siker: Sikeresen módosította a feltöltéseket!';
-$_['text_list']          = 'Feltöltések listája';
+$_['text_list']          = 'Feltöltés lista';
 $_['text_filter']        = 'Szűrő';
 
 // Column

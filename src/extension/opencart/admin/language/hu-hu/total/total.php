@@ -12,4 +12,4 @@ $_['entry_status']     = 'Állapot';
 $_['entry_sort_order'] = 'Sorrend';
 
 // Error
-$_['error_permission'] = 'Figyelem: Nincs jogosultsága az összesen összeg módosításához!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága az összesen összeg módosításához!';

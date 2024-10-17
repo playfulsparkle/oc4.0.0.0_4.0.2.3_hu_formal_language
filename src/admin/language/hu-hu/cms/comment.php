@@ -4,7 +4,7 @@ $_['heading_title']     = 'Cikk hozzászólások';
 
 // Text
 $_['text_success']      = 'Siker: Sikeresen módosította a cikk hozzászólásokat!';
-$_['text_list']         = 'Cikk hozzászólások listája';
+$_['text_list']         = 'Cikk hozzászólás lista';
 $_['text_filter']       = 'Szűrő';
 
 // Column

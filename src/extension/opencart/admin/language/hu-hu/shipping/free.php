@@ -17,4 +17,4 @@ $_['entry_sort_order'] = 'Sorrend';
 $_['help_total']       = 'Az a minimális vásárlási összeg, amely szükséges ahhoz, hogy az ingyenes szállítás elérhetővé váljon.';
 
 // Error
-$_['error_permission'] = 'Figyelem: Nincs jogosultsága az ingyenes szállítás módosításához!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága az ingyenes szállítás módosításához!';

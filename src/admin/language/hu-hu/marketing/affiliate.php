@@ -4,7 +4,7 @@ $_['heading_title']             = 'Partnerek';
 
 // Text
 $_['text_success']              = 'Siker: A partnerek módosítása sikeresen megtörtént!';
-$_['text_list']                 = 'Partnerek listája';
+$_['text_list']                 = 'Partner lista';
 $_['text_add']                  = 'Partner hozzáadása';
 $_['text_edit']                 = 'Partner szerkesztése';
 $_['text_affiliate']            = 'Partner adatai';
@@ -68,10 +68,10 @@ $_['help_tracking']             = 'A nyomkövetési kód, amelyet a hivatkozáso
 $_['help_commission']           = 'A jutalék százalékos aránya, amelyet a partner kap minden rendelés után.';
 
 // Error
-$_['error_warning']             = 'Figyelem: Kérjük, gondosan ellenőrizze az űrlapot a hibákért!';
-$_['error_permission']          = 'Figyelem: Nincs jogosultsága a partnerek módosításához!';
-$_['error_customer']            = 'Figyelem: Ügyfél megadása szükséges!';
-$_['error_already']             = 'Figyelem: Az ügyfél már regisztrálva van partnerként!';
+$_['error_warning']             = 'Figyelmeztetés: Kérjük, gondosan ellenőrizze az űrlapot a hibákért!';
+$_['error_permission']          = 'Figyelmeztetés: Nincs jogosultsága a partnerek módosításához!';
+$_['error_customer']            = 'Figyelmeztetés: Ügyfél megadása szükséges!';
+$_['error_already']             = 'Figyelmeztetés: Az ügyfél már regisztrálva van partnerként!';
 $_['error_tracking']            = 'Nyomkövetési kód megadása szükséges!';
 $_['error_exists']              = 'A nyomkövetési kódot már egy másik partner használja!';
 $_['error_payment_method']      = 'Fizetési mód megadása szükséges!';

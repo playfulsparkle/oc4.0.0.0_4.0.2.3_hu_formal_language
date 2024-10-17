@@ -24,4 +24,4 @@ $_['entry_status']          = 'Állapot';
 $_['entry_sort_order']      = 'Sorrend';
 
 // Error
-$_['error_permission']      = 'Figyelem: Nincs jogosultsága a vásárlói előfizetés jelentés módosításához!';
+$_['error_permission']      = 'Figyelmeztetés: Nincs jogosultsága a vásárlói előfizetés jelentés módosításához!';

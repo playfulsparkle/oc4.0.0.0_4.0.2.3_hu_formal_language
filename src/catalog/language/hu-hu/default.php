@@ -84,7 +84,7 @@ $_['error_upload_7']        = 'Figyelmeztetés: Nem sikerült fájlt írni a lem
 $_['error_upload_8']        = 'Figyelmeztetés: A fájl feltöltése egy kiterjesztés miatt leállt!';
 $_['error_upload_999']      = 'Figyelmeztetés: Nincs elérhető hibakód!';
 $_['error_upload_size']     = 'Figyelmeztetés: A feltöltött fájl meghaladja a maximális fájlméretet: %sMB!';
-$_['error_curl']            = 'CURL: hibakód (%s): %s';
+$_['error_curl']            = 'cURL: Hibakód (%s): %s';
 $_['error_session']         = 'Figyelmeztetés: A munkamenet lejárt, kérjük küldje be újra az űrlapot!';
 
 /* When doing translations only include the matching language code */

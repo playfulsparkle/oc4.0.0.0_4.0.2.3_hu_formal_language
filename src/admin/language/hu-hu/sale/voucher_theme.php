@@ -18,7 +18,7 @@ $_['entry_description'] = 'Kupon téma leírás';
 $_['entry_image']       = 'Kép';
 
 // Error
-$_['error_permission']  = 'Figyelem: Nincs engedélye a kupon témák módosítására!';
+$_['error_permission']  = 'Figyelmeztetés: Nincs engedélye a kupon témák módosítására!';
 $_['error_name']        = 'A kupon téma név legalább 3, és legfeljebb 32 karakterből álljon!';
 $_['error_image']       = 'Kép kötelező!';
-$_['error_voucher']     = 'Figyelem: Ez a kupon téma nem törölhető, mivel %s kuponhoz van rendelve!';
+$_['error_voucher']     = 'Figyelmeztetés: Ez a kupon téma nem törölhető, mivel %s kuponhoz van rendelve!';

@@ -33,21 +33,21 @@ $_['entry_match']             = 'A szállítási és számlázási címem megegy
 $_['entry_newsletter']        = 'Szeretnék feliratkozni a %s hírlevelére.';
 
 // Error
-$_['error_guest']             = 'Figyelem: A bevásárlókosarában található termékek regisztrált fiókot igényelnek!';
+$_['error_guest']             = 'Figyelmeztetés: A bevásárlókosarában található termékek regisztrált fiókot igényelnek!';
 $_['error_firstname']         = 'A keresztnév legalább 1, és legfeljebb 32 karakterből álljon!';
 $_['error_lastname']          = 'A vezetéknév legalább 1, és legfeljebb 32 karakterből álljon!';
 $_['error_customer_group']    = 'A Vásárlói csoport érvénytelennek tűnik!';
-$_['error_customer_approval'] = 'Figyelem: Ez a Vásárlói csoport jóváhagyást igényel, és nem használható vendégfiókkal.';
+$_['error_customer_approval'] = 'Figyelmeztetés: Ez a Vásárlói csoport jóváhagyást igényel, és nem használható vendégfiókkal.';
 $_['error_email']             = 'Az E-mail cím érvénytelennek tűnik!';
-$_['error_exists']            = 'Figyelem: Az e-mail cím már regisztrálva van!';
+$_['error_exists']            = 'Figyelmeztetés: Az e-mail cím már regisztrálva van!';
 $_['error_telephone']         = 'A telefonszám legalább 3, és legfeljebb 32 karakterből álljon!';
 $_['error_password']          = 'A jelszó legalább 4, és legfeljebb 20 karakterből álljon!';
 $_['error_confirm']           = 'A jelszó megerősítése nem egyezik a jelszóval!';
-$_['error_address_1']         = 'A 1. cím legalább 3, és legfeljebb 128 karakterből álljon!';
+$_['error_address_1']         = 'A cím 1 legalább 3, és legfeljebb 128 karakterből álljon!';
 $_['error_city']              = 'A város legalább 2, és legfeljebb 128 karakterből álljon!';
 $_['error_postcode']          = 'Az irányítószám legalább 2, és legfeljebb 10 karakterből álljon!';
 $_['error_country']           = 'Kérjük, válasszon országot!';
 $_['error_zone']              = 'Kérjük, válasszon régiót / államot!';
-$_['error_agree']             = 'Figyelem: El kell fogadnia a %s!';
+$_['error_agree']             = 'Figyelmeztetés: El kell fogadnia a %s!';
 $_['error_custom_field']      = '%s szükséges!';
 $_['error_regex']             = '%s érvénytelen bemenet!';

@@ -25,13 +25,13 @@ $_['entry_zone']         = 'Megye';
 $_['entry_default']      = 'Alapértelmezett cím';
 
 // Error
-$_['error_token']        = 'Figyelem: A cím token érvénytelen!';
-$_['error_subscription'] = 'Figyelem: A címet még mindig használják %s aktív előfizetések!';
-$_['error_default']      = 'Figyelem: Alapértelmezett cím szükséges!';
-$_['error_delete']       = 'Figyelem: Legalább egy címmel rendelkeznie kell!';
+$_['error_token']        = 'Figyelmeztetés: A cím token érvénytelen!';
+$_['error_subscription'] = 'Figyelmeztetés: A címet még mindig használják %s aktív előfizetések!';
+$_['error_default']      = 'Figyelmeztetés: Alapértelmezett cím szükséges!';
+$_['error_delete']       = 'Figyelmeztetés: Legalább egy címmel rendelkeznie kell!';
 $_['error_firstname']    = 'A keresztnév legalább 1, és legfeljebb 32 karakterből álljon!';
 $_['error_lastname']     = 'A vezetéknév legalább 1, és legfeljebb 32 karakterből álljon!';
-$_['error_address_1']    = 'A cím legalább 3, és legfeljebb 128 karakterből álljon!';
+$_['error_address_1']    = 'A cím 1 legalább 3, és legfeljebb 128 karakterből álljon!';
 $_['error_postcode']     = 'Az irányítószám legalább 2, és legfeljebb 10 karakterből álljon!';
 $_['error_city']         = 'A város név legalább 2, és legfeljebb 128 karakterből álljon!';
 $_['error_country']      = 'Kérjük, válasszon országot!';

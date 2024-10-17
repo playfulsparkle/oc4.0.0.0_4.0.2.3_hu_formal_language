@@ -11,6 +11,6 @@ $_['entry_username']   = 'Felhasználónév';
 $_['entry_secret']     = 'Jelszó';
 
 // Error
-$_['error_permission'] = 'Figyelem: Nincs jogosultsága a piactér API módosításához!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a piactér API módosításához!';
 $_['error_username']   = 'Felhasználónév megadása kötelező!';
 $_['error_secret']     = 'Jelszó megadása kötelező!';

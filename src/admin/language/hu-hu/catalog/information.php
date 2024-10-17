@@ -4,7 +4,7 @@ $_['heading_title']           = 'Információk';
 
 // Text
 $_['text_success']            = 'Siker: Sikeresen módosította az információkat!';
-$_['text_list']               = 'Információk listája';
+$_['text_list']               = 'Információ lista';
 $_['text_add']                = 'Információ hozzáadása';
 $_['text_edit']               = 'Információ hzerkesztése';
 $_['text_default']            = 'Alapértelmezett';
@@ -32,16 +32,16 @@ $_['entry_layout']            = 'Elrendezés felülírása';
 $_['help_bottom']             = 'Megjelenítés az alsó láblécben.';
 
 // Error
-$_['error_warning']           = 'Figyelem: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
-$_['error_permission']        = 'Figyelem: Nincs jogosultsága az információk módosításához!';
+$_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
+$_['error_permission']        = 'Figyelmeztetés: Nincs jogosultsága az információk módosításához!';
 $_['error_title']             = 'Információ címe legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_description']       = 'Leírásnak több mint 3 karakter hosszúnak kell lennie!';
 $_['error_meta_title']        = 'Cím (Title meta tag) legalább 1, és legfeljebb 255 karakterből álljon!';
 $_['error_keyword']           = 'SEO URL-nak legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_keyword_exists']    = 'SEO URL-nak egyedinek kell lennie!';
 $_['error_keyword_character'] = 'A kulcsszavak megadásánál csak a-z, 0-9, - és _ karaktereket használhat!';
-$_['error_account']           = 'Figyelem: Ezt az információs oldalt nem lehet törölni, mivel jelenleg az áruház fiók feltételeiként van hozzárendelve!';
-$_['error_checkout']          = 'Figyelem: Ezt az információs oldalt nem lehet törölni, mivel jelenleg az áruház vásárlási feltételeiként van hozzárendelve!';
-$_['error_affiliate']         = 'Figyelem: Ezt az információs oldalt nem lehet törölni, mivel jelenleg az áruház áruházpartneri feltételeiként van hozzárendelve!';
-$_['error_return']            = 'Figyelem: Ezt az információs oldalt nem lehet törölni, mivel jelenleg az áruház visszatérítési feltételeiként van hozzárendelve!';
-$_['error_store']             = 'Figyelem: Ezt az információs oldalt nem lehet törölni, mivel jelenleg %s áruház használja!';
+$_['error_account']           = 'Figyelmeztetés: Ezt az információs oldalt nem lehet törölni, mivel jelenleg az áruház fiók feltételeiként van hozzárendelve!';
+$_['error_checkout']          = 'Figyelmeztetés: Ezt az információs oldalt nem lehet törölni, mivel jelenleg az áruház vásárlási feltételeiként van hozzárendelve!';
+$_['error_affiliate']         = 'Figyelmeztetés: Ezt az információs oldalt nem lehet törölni, mivel jelenleg az áruház áruházpartneri feltételeiként van hozzárendelve!';
+$_['error_return']            = 'Figyelmeztetés: Ezt az információs oldalt nem lehet törölni, mivel jelenleg az áruház visszatérítési feltételeiként van hozzárendelve!';
+$_['error_store']             = 'Figyelmeztetés: Ezt az információs oldalt nem lehet törölni, mivel jelenleg %s áruház használja!';

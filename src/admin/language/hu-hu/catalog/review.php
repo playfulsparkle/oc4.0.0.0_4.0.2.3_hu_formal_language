@@ -5,7 +5,7 @@ $_['heading_title']     = 'Értékelések';
 // Text
 $_['text_success']      = 'Siker: Sikeresen módosította az értékeléseket!';
 $_['text_next']         = 'Siker: %s termék értékelését módosította a %s-ból!';
-$_['text_list']         = 'Értékelések listája';
+$_['text_list']         = 'Értékelés lista';
 $_['text_add']          = 'Értékelés hozzáadása';
 $_['text_edit']         = 'Értékelés szerkesztése';
 $_['text_filter']       = 'Szűrő';
@@ -34,8 +34,8 @@ $_['help_product']      = '(automatikus kitöltés)';
 $_['button_rating']     = 'Termék értékelések szinkronizálása';
 
 // Error
-$_['error_warning']     = 'Figyelem: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
-$_['error_permission']  = 'Figyelem: Nincs jogosultsága az értékelések módosításához!';
+$_['error_warning']     = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
+$_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága az értékelések módosításához!';
 $_['error_product']     = 'Termék kötelező!';
 $_['error_author']      = 'A szerző név legalább 3, és legfeljebb 64 karakterből álljon!';
 $_['error_text']        = 'Az értékelés szövegének legalább 1 karakter hosszúnak kell lennie!';

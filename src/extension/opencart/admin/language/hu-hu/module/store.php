@@ -12,4 +12,4 @@ $_['entry_admin']      = 'Csak adminsztráto felhasználók';
 $_['entry_status']     = 'Állapot';
 
 // Error
-$_['error_permission'] = 'Figyelem: Nincs jogosultsága az áruház modul módosításához!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága az áruház modul módosításához!';

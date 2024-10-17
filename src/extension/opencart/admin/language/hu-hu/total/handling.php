@@ -18,4 +18,4 @@ $_['entry_sort_order'] = 'Sorrend';
 $_['help_total']       = 'A megrendelés teljes összegének el kell érnie ezt az összeget, mielőtt a kezelési költség érvénybe lépne.';
 
 // Error
-$_['error_permission'] = 'Figyelem: Nincs jogosultsága a kezelési költség összeg módosításához!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a kezelési költség összeg módosításához!';
