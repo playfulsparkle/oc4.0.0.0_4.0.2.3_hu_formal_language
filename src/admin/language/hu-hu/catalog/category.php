@@ -8,7 +8,7 @@ $_['text_list']               = 'Kategória lista';
 $_['text_add']                = 'Kategória hozzáadása';
 $_['text_edit']               = 'Kategória szerkesztése';
 $_['text_default']            = 'Alapértelmezett';
-$_['text_keyword']            = 'Ne használjon szóközöket, helyette használjon - jelet, és győződjön meg arról, hogy az SEO URL egyedülálló az egész világon.';
+$_['text_keyword']            = 'Ne használjon szóközöket, helyettük használjon "-" karaktert, és győződjön meg arról, hogy a SEO URL teljesen egyedi legyen.';
 
 // Column
 $_['column_name']             = 'Kategória név';

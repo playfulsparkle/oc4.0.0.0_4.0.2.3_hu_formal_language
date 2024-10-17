@@ -117,7 +117,7 @@ $_['entry_currency']             = 'Valuta';
 $_['entry_affiliate']            = 'Partner';
 $_['entry_coupon']               = 'Kupon';
 $_['entry_voucher']              = 'Ajándékutalvány';
-$_['entry_reward']               = 'Bónusz';
+$_['entry_reward']               = 'Bónuszpont';
 $_['entry_shipping_method']      = 'Szállítási módja';
 $_['entry_payment_method']       = 'Fizetési módja';
 $_['entry_order_id']             = 'Rendelés azonosító';
@@ -129,7 +129,7 @@ $_['entry_date_to']              = 'Dátumig';
 $_['help_override']              = 'Ha az ügyfél rendelése blokkolva van az állapot módosításában egy anti-csalás bővítmény miatt, engedélyezze a felülírást.';
        
 // Error       
-$_['error_warning']              = 'Figyelmeztetés: Kérjük, ellenőrizze a űrlapot hibák után!';
+$_['error_warning']              = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']           = 'Figyelmeztetés: Nincs engedélye a rendelések módosítására!';
 $_['error_invoice_no']           = 'Figyelmeztetés: Számla Szám már létre lett hozva!';
 $_['error_order']                = 'Figyelmeztetés: A rendelés nem létezik!';

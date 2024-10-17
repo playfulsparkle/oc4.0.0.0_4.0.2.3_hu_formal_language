@@ -34,7 +34,7 @@ $_['help_product']      = '(automatikus kitöltés)';
 $_['button_rating']     = 'Termék értékelések szinkronizálása';
 
 // Error
-$_['error_warning']     = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
+$_['error_warning']     = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága az értékelések módosításához!';
 $_['error_product']     = 'Termék kötelező!';
 $_['error_author']      = 'A szerző név legalább 3, és legfeljebb 64 karakterből álljon!';

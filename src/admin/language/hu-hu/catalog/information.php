@@ -8,7 +8,7 @@ $_['text_list']               = 'Információ lista';
 $_['text_add']                = 'Információ hozzáadása';
 $_['text_edit']               = 'Információ hzerkesztése';
 $_['text_default']            = 'Alapértelmezett';
-$_['text_keyword']            = 'Ne használjon szóközöket, helyette használjon - jelet, és győződjön meg arról, hogy az SEO URL egyedülálló az egész világon.';
+$_['text_keyword']            = 'Ne használjon szóközöket, helyettük használjon "-" karaktert, és győződjön meg arról, hogy a SEO URL teljesen egyedi legyen.';
 
 // Column
 $_['column_title']            = 'Információ címe';
@@ -32,7 +32,7 @@ $_['entry_layout']            = 'Elrendezés felülírása';
 $_['help_bottom']             = 'Megjelenítés az alsó láblécben.';
 
 // Error
-$_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
+$_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']        = 'Figyelmeztetés: Nincs jogosultsága az információk módosításához!';
 $_['error_title']             = 'Információ címe legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_description']       = 'Leírásnak több mint 3 karakter hosszúnak kell lennie!';

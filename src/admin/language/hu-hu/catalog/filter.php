@@ -21,7 +21,7 @@ $_['entry_name']        = 'Szűrő név';
 $_['entry_sort_order']  = 'Sorrend';
 
 // Error
-$_['error_warning']     = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan a űrlapot hibákért!';
+$_['error_warning']     = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága a szűrők módosításához!';
 $_['error_group']       = 'Szűrő csoport név legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_name']        = 'Szűrő név legalább 1, és legfeljebb 64 karakterből álljon!';

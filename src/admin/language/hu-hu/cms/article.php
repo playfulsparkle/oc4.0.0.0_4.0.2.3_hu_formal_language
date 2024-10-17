@@ -8,7 +8,7 @@ $_['text_list']               = 'Cikk lista';
 $_['text_add']                = 'Cikk hozzáadása';
 $_['text_edit']               = 'Cikk szerkesztése';
 $_['text_default']            = 'Alapértelmezett';
-$_['text_keyword']            = 'Ne használjon szóközöket, helyette cserélje le őket - karakterekre, és ügyeljen arra, hogy az SEO URL globálisan egyedi legyen.';
+$_['text_keyword']            = 'Ne használjon szóközöket, helyettük használjon "-" karaktert, és győződjön meg arról, hogy a SEO URL teljesen egyedi legyen.';
 
 // Column
 $_['column_name']             = 'Cím';
@@ -33,11 +33,11 @@ $_['entry_keyword']           = 'Kulcsszó';
 $_['entry_layout']            = 'Elrendezés felülírása';
 
 // Error
-$_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
+$_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']        = 'Figyelmeztetés: Nincs jogosultsága a cikkek módosításához!';
 $_['error_name']              = 'A cím legalább 1, és legfeljebb 255 karakterből álljon!';
 $_['error_meta_title']        = 'A cím (Title meta tag) legalább 1, és legfeljebb 255 karakterből álljon!';
-$_['error_keyword']           = 'Az SEO URL-nek legalább 1, és legfeljebb 64 karakterből álljon!';
-$_['error_keyword_exists']    = 'Az SEO URL-nek egyedinek kell lennie!';
+$_['error_keyword']           = 'SEO URL-nek legalább 1, és legfeljebb 64 karakterből álljon!';
+$_['error_keyword_exists']    = 'SEO URL-nek egyedinek kell lennie!';
 $_['error_keyword_character'] = 'A kulcsszó megadásánál a-z, 0-9, - és _ karaktereket használhat!';
 $_['error_author']            = 'A szerző név legalább 3, és legfeljebb 64 karakterből álljon!';

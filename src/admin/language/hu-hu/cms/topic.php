@@ -8,7 +8,7 @@ $_['text_list']               = 'Téma jista';
 $_['text_add']                = 'Hozzáadás';
 $_['text_edit']               = 'Módosítás';
 $_['text_default']            = 'Alapértelmezett';
-$_['text_keyword']            = 'Ne használjon szóközöket, helyette használjon - karaktert, és győződjön meg róla, hogy az SEO URL globálisan egyedi.';
+$_['text_keyword']            = 'Ne használjon szóközöket, helyettük használjon "-" karaktert, és győződjön meg arról, hogy a SEO URL teljesen egyedi legyen.';
 
 // Column
 $_['column_name']             = 'Téma név';
@@ -28,7 +28,7 @@ $_['entry_status']            = 'Állapot';
 $_['entry_keyword']           = 'Kulcsszó';
 
 // Error
-$_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan a űrlapot hibák után!';
+$_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']        = 'Figyelmeztetés: Nincs engedélye a témák módosítására!';
 $_['error_name']              = 'A téma név legalább 1, és legfeljebb 255 karakterből álljon!';
 $_['error_meta_title']        = 'A Cím (Title meta tag) legalább 1, és legfeljebb 255 karakterből álljon!';

@@ -20,8 +20,8 @@ $_['column_total']          = 'Összesen';
 $_['column_action']         = 'Művelet';
 
 // Entry
-$_['entry_date_start']      = 'Kezdő dátum';
-$_['entry_date_end']        = 'Záró dátum';
+$_['entry_date_start']      = 'Kezdés dátuma';
+$_['entry_date_end']        = 'Befejezés dátuma';
 $_['entry_customer']        = 'Vásárló';
 $_['entry_order_status']    = 'Rendelés állapot';
 $_['entry_status']          = 'Állapot';

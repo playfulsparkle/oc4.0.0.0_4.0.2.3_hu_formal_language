@@ -101,7 +101,7 @@ $_['help_stock_checkout']              = 'Engedélyezi a vásárlók számára, 
 $_['help_product_count']               = 'A kategóriákon belüli termékek számának megjelenítése az áruház fejléce kategória menüjében. Figyelmeztetés: Ez jelentős teljesítményproblémákat okozhat sok al-kategóriával rendelkező áruházak számára!';
 
 // Error
-$_['error_warning']                    = 'Figyelmeztetés: Kérjük, alaposan ellenőrizd az űrlapot hibák után!';
+$_['error_warning']                    = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']                 = 'Figyelmeztetés: Nincs engedélyed az áruházak módosítására!';
 $_['error_url']                        = 'Áruház URL szükséges!';
 $_['error_meta_title']                 = 'Cím (Title meta tag) legalább 3, és legfeljebb 32 karakterből álljon!';

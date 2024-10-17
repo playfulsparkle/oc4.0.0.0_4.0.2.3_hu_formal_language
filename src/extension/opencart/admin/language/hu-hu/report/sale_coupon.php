@@ -16,8 +16,8 @@ $_['column_total']     = 'Összeg';
 $_['column_action']    = 'Művelet';
 
 // Entry
-$_['entry_date_start'] = 'Dátum kezdete';
-$_['entry_date_end']   = 'Dátum vége';
+$_['entry_date_start'] = 'Kezdés dátuma';
+$_['entry_date_end']   = 'Befejezés dátuma';
 $_['entry_status']     = 'Állapot';
 $_['entry_sort_order'] = 'Sorrend';
 

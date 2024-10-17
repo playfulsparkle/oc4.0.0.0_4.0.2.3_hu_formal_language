@@ -53,7 +53,7 @@ $_['entry_date_to']        = 'Dátumig';
 $_['help_product']         = '(automatikus kitöltés)';
 
 // Error
-$_['error_warning']        = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan a űrlapot hibák után!';
+$_['error_warning']        = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']     = 'Figyelmeztetés: Nincs engedélye a reklamációk módosítására!';
 $_['error_return']         = 'Figyelmeztetés: A kiválasztott reklamáció nem található!';
 $_['error_order_id']       = 'Figyelmeztetés: Rendelés azonosító szükséges!';

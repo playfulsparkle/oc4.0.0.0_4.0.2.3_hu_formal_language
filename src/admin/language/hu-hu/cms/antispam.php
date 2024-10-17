@@ -16,7 +16,7 @@ $_['column_action']        = 'Művelet';
 $_['entry_keyword']        = 'Kulcsszó';
 
 // Error
-$_['error_warning']        = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
+$_['error_warning']        = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']     = 'Figyelmeztetés: Nincs jogosultsága az anti-spam beállítások módosításához!';
 $_['error_keyword']        = 'A kulcsszó legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_keyword_exists'] = 'A kulcsszónak egyedinek kell lennie!';

@@ -33,8 +33,8 @@ $_['column_date_added']            = 'Hozzáadva';
 // Entry
 $_['entry_customer']               = 'Vásárló';
 $_['entry_ip']                     = 'IP';
-$_['entry_date_start']             = 'Kezdő dátum';
-$_['entry_date_end']               = 'Záró dátum';
+$_['entry_date_start']             = 'Kezdés dátuma';
+$_['entry_date_end']               = 'Befejezés dátuma';
 $_['entry_status']                 = 'Állapot';
 $_['entry_sort_order']             = 'Sorrend';
 

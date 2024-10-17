@@ -41,7 +41,7 @@ $_['help_cycle']            = 'Az előfizetési összegek a gyakoriság és a ci
 $_['help_frequency']        = 'Ha a gyakoriság "hét" és a ciklus "2", akkor a felhasználót minden 2. héten számlázzák.';
 
 // Error
-$_['error_warning']         = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
+$_['error_warning']         = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']      = 'Figyelmeztetés: Nincs jogosultsága az előfizetési tervek módosításához!';
 $_['error_name']            = 'Az előfizetési terv név legyen nagyobb, mint 3 és kisebb, mint 255 karakter!';
 $_['error_trial_duration']  = 'A próbaidőszak időtartamának nagyobbnak kell lennie, mint 0!';

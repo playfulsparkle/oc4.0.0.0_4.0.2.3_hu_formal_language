@@ -22,6 +22,6 @@ $_['entry_status']      = 'Állapot';
 $_['entry_date_added']  = 'Hozzáadva';
 
 // Error
-$_['error_warning']     = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan a űrlapot hibák után!';
+$_['error_warning']     = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']  = 'Figyelmeztetés: Nincs engedélye a cikk hozzászólások módosítására!';
 $_['error_keyword']     = 'A kulcsszó legalább 1, és legfeljebb 64 karakterből álljon!';

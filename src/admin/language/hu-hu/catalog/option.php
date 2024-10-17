@@ -29,15 +29,15 @@ $_['column_action']      = 'Művelet';
 // Entry
 $_['entry_name']         = 'Opció név';
 $_['entry_type']         = 'Típus';
-$_['entry_option_value'] = 'Opció Érték név';
+$_['entry_option_value'] = 'Opció érték név';
 $_['entry_image']        = 'Kép';
 $_['entry_sort_order']   = 'Sorrend';
 
 // Error
-$_['error_warning']      = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
+$_['error_warning']      = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']   = 'Figyelmeztetés: Nincs jogosultsága az opciók módosításához!';
 $_['error_name']         = 'Opció név legalább 1, és legfeljebb 128 karakterből álljon!';
-$_['error_type']         = 'Figyelmeztetés: Opció Értékek megadása kötelező!';
-$_['error_option_value'] = 'Opció Érték név legalább 1, és legfeljebb 128 karakterből álljon!';
+$_['error_type']         = 'Figyelmeztetés: Opció értékek megadása kötelező!';
+$_['error_option_value'] = 'Opció érték név legalább 1, és legfeljebb 128 karakterből álljon!';
 $_['error_value']        = 'Figyelmeztetés: Ezt az opció értéket nem lehet törölni, mivel jelenleg %s termékhez van rendelve!';
 $_['error_product']      = 'Figyelmeztetés: Ezt az opciót nem lehet törölni, mivel jelenleg %s termékhez van rendelve!';

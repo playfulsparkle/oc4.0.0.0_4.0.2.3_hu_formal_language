@@ -14,16 +14,16 @@ $_['text_day']          = 'Napok';
 $_['text_all_status']   = 'Összes állapot';
 
 // Column
-$_['column_date_start'] = 'Dátum kezdete';
-$_['column_date_end']   = 'Dátum vége';
+$_['column_date_start'] = 'Kezdés dátuma';
+$_['column_date_end']   = 'Befejezés dátuma';
 $_['column_orders']     = 'Rendelések száma';
 $_['column_products']   = 'Termékek száma';
 $_['column_tax']        = 'Áfa';
 $_['column_total']      = 'Összeg';
 
 // Entry
-$_['entry_date_start']  = 'Dátum kezdete';
-$_['entry_date_end']    = 'Dátum vége';
+$_['entry_date_start']  = 'Kezdés dátuma';
+$_['entry_date_end']    = 'Befejezés dátuma';
 $_['entry_group']       = 'Csoportosítás';
 $_['entry_order_status'] = 'Rendelés állapot';
 $_['entry_status']      = 'Állapot';

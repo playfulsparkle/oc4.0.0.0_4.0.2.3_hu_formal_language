@@ -249,7 +249,7 @@ $_['help_encryption']                     = 'Kérjük, adjon meg egy titkos kulc
 $_['help_compression']                    = 'GZIP a hatékonyabb átvitelhez a kérő kliensek számára. A tömörítési szintnek 0 és 9 között kell lennie.';
 
 // Error
-$_['error_warning']                       = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan a űrlapot hibákért!';
+$_['error_warning']                       = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']                    = 'Figyelmeztetés: Nincs jogosultsága a beállítások módosításához!';
 $_['error_meta_title']                    = 'A cím (Title meta tag) legalább 3, és legfeljebb 32 karakterből álljon!';
 $_['error_name']                          = 'A áruház név legalább 3, és legfeljebb 32 karakterből álljon!';

@@ -14,13 +14,13 @@ $_['text_day']          = 'Napok';
 $_['text_all_status']   = 'Minden állapot';
 
 // Column
-$_['column_date_start'] = 'Kezdő dátum';
-$_['column_date_end']   = 'Záró dátum';
+$_['column_date_start'] = 'Kezdés dátuma';
+$_['column_date_end']   = 'Befejezés dátuma';
 $_['column_total']      = 'Vásárlók száma';
 
 // Entry
-$_['entry_date_start']  = 'Kezdő dátum';
-$_['entry_date_end']    = 'Záró dátum';
+$_['entry_date_start']  = 'Kezdés dátuma';
+$_['entry_date_end']    = 'Befejezés dátuma';
 $_['entry_group']       = 'Csoportosítás';
 $_['entry_status']      = 'Állapot';
 $_['entry_sort_order']  = 'Sorrend';

@@ -68,7 +68,7 @@ $_['help_tracking']             = 'A nyomkövetési kód, amelyet a hivatkozáso
 $_['help_commission']           = 'A jutalék százalékos aránya, amelyet a partner kap minden rendelés után.';
 
 // Error
-$_['error_warning']             = 'Figyelmeztetés: Kérjük, gondosan ellenőrizze az űrlapot a hibákért!';
+$_['error_warning']             = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']          = 'Figyelmeztetés: Nincs jogosultsága a partnerek módosításához!';
 $_['error_customer']            = 'Figyelmeztetés: Ügyfél megadása szükséges!';
 $_['error_already']             = 'Figyelmeztetés: Az ügyfél már regisztrálva van partnerként!';

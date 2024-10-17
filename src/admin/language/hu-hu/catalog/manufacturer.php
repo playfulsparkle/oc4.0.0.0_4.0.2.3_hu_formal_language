@@ -8,7 +8,7 @@ $_['text_list']               = 'Gyártó lista';
 $_['text_add']                = 'Gyártó hozzáadása';
 $_['text_edit']               = 'Gyártó hzerkesztése';
 $_['text_default']            = 'Alapértelmezett';
-$_['text_keyword']            = 'Ne használjon szóközöket, helyette használjon - jelet, és győződjön meg arról, hogy az SEO URL egyedülálló az egész világon.';
+$_['text_keyword']            = 'Ne használjon szóközöket, helyettük használjon "-" karaktert, és győződjön meg arról, hogy a SEO URL teljesen egyedi legyen.';
 
 // Column
 $_['column_name']             = 'Gyártó név';
@@ -24,7 +24,7 @@ $_['entry_sort_order']        = 'Sorrend';
 $_['entry_layout']            = 'Elrendezés felülírása';
 
 // Error
-$_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan az űrlapot hibákért!';
+$_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']        = 'Figyelmeztetés: Nincs jogosultsága a gyártók módosításához!';
 $_['error_name']              = 'Gyártó név legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_keyword']           = 'SEO URL-nek legalább 1, és legfeljebb 64 karakterből álljon!';
