@@ -4,7 +4,7 @@ $_['heading_title']     = 'Legújabb megrendelések';
 
 // Text
 $_['text_extension']    = 'Bővítmények';
-$_['text_success']      = 'Siker: Az legújabb megrendelések módosítása sikeresen megtörtént!';
+$_['text_success']      = 'Siker: Az legújabb megrendelés sikeresen módosítva lett!';
 $_['text_edit']         = 'Legújabb megrendelések szerkesztése';
 
 // Column

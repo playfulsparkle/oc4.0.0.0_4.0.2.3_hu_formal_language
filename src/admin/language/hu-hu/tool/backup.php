@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Biztonsági mentés és visszaállítás';
 
 // Text
-$_['text_success']       = 'Siker: Sikeresen módosította az adatbázisát!';
+$_['text_success']       = 'Siker:  A biztonsági mentés és visszaállítás sikeresen módosítva lett!';
 
 $_['text_backup']        = 'Adatok biztonsági mentése: %s tábla, %s rekord, %s rekordig';
 $_['text_restore']       = 'Visszaállítás: %s / %s';
@@ -23,7 +23,7 @@ $_['entry_progress']     = 'Folyamat';
 $_['entry_export']       = 'Exportálás';
 
 // Error
-$_['error_permission']   = 'Figyelmeztetés: Nincs engedélyed a Biztonsági mentés és visszaállítás módosítására!';
+$_['error_permission']   = 'Figyelmeztetés: Nincs jogosultsága a biztonsági mentés és visszaállítás módosításához!';
 $_['error_export']       = 'Figyelmeztetés: Legalább egy táblát ki kell választania az exportáláshoz!';
 $_['error_table']        = '%s tábla nem szerepel az engedélyezett listán!';
 $_['error_file']         = 'A fájl nem található!';

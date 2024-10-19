@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Adózónák';
 
 // Text
-$_['text_success']       = 'Siker: Módosította az adózónákat!';
+$_['text_success']       = 'Siker: Az adózóna sikeresen módosítva lett!';
 $_['text_list']          = 'Adózóna lista';
 $_['text_add']           = 'Adózóna hozzáadása';
 $_['text_edit']          = 'Adózóna szerkesztése';

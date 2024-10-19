@@ -3,7 +3,7 @@
 $_['heading_title']       = 'Kuponok';
 
 // Text
-$_['text_success']        = 'Siker: A kuponok sikeresen módosítva lettek!';
+$_['text_success']        = 'Siker: A kupon sikeresen módosítva lett!';
 $_['text_list']           = 'Kuponlista';
 $_['text_add']            = 'Kupon hozzáadása';
 $_['text_edit']           = 'Kupon szerkesztése';

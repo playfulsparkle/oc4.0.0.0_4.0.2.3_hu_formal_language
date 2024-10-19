@@ -4,7 +4,7 @@ $_['heading_title']    = 'Online vásárlók';
 
 // Text
 $_['text_extension']   = 'Bővítmények';
-$_['text_success']     = 'Siker: Az online vásárlók módosítása sikeresen megtörtént!';
+$_['text_success']     = 'Siker: Az online vásárlók sikeresen módosítva lett!';
 $_['text_edit']        = 'Online vásárlók szerkesztése';
 $_['text_view']        = 'Továbbiak megtekintése...';
 

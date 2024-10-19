@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Értékelések';
 
 // Text
-$_['text_success']      = 'Siker: Sikeresen módosította az értékeléseket!';
+$_['text_success']      = 'Siker: Az értékelés sikeresen módosítva lett!';
 $_['text_next']         = 'Siker: %s termék értékelését módosította a %s-ból!';
 $_['text_list']         = 'Értékelés lista';
 $_['text_add']          = 'Értékelés hozzáadása';

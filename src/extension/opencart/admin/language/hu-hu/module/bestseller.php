@@ -24,7 +24,7 @@ $_['entry_height']     = 'Kép magassága';
 $_['entry_status']     = 'Állapot';
 
 // Button
-$_['button_sync']      = 'Legtöbbet eladott Lista Generálása';
+$_['button_sync']      = 'Legtöbbet eladott lista generálása';
 
 // Error
 $_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a legtöbbet eladott modul módosításához!';

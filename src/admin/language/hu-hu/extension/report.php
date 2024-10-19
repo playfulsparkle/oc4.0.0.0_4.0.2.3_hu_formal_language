@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Jelentések';
 
 // Text
-$_['text_success']      = 'Siker: Jelentések módosítva!';
+$_['text_success']      = 'Siker: Jelentés sikeresen módosítva lett!';
 $_['text_list']         = 'Jelentés lista';
 
 // Column

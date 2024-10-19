@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Attribútumcsoportok';
 
 // Text
-$_['text_success']      = 'Siker: Sikeresen módosította az attribútumcsoportokat!';
+$_['text_success']      = 'Siker: Az attribútumcsoport sikeresen módosítva lett!';
 $_['text_list']         = 'Attribútumcsoport lista';
 $_['text_add']          = 'Attribútumcsoport hozzáadása';
 $_['text_edit']         = 'Attribútumcsoport azerkesztése';

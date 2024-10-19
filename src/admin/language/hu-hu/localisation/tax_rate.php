@@ -3,7 +3,7 @@
 $_['heading_title']        = 'Áfakulcsok';
 
 // Text
-$_['text_success']         = 'Siker: Módosította az áfakulcsokat!';
+$_['text_success']         = 'Siker: Az áfakulcs sikeresen módosítva lett!';
 $_['text_list']            = 'Áfakulcs lista';
 $_['text_add']             = 'Áfakulcs hozzáadása';
 $_['text_edit']            = 'Áfakulcs szerkesztése';

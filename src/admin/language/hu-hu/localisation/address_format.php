@@ -3,7 +3,7 @@
 $_['heading_title']           = 'Cím formátum';
 
 // Text
-$_['text_success']            = 'Siker: Módosította a cím formátumokat!';
+$_['text_success']            = 'Siker: A cím formátum sikeresen módosítva lett!';
 $_['text_list']               = 'Cím formátum lista';
 $_['text_add']                = 'Cím formátum hozzáadása';
 $_['text_edit']               = 'Cím formátum szerkesztése';

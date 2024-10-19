@@ -3,8 +3,8 @@
 $_['heading_title']         = 'Vásárlók';
 
 // Text
-$_['text_success']          = 'Siker: Sikeresen módosította a vásárlókat!';
-$_['text_list']             = 'Vásárlók Lista';
+$_['text_success']          = 'Siker: A vásárló sikeresen módosítva lett!';
+$_['text_list']             = 'Vásárlók lista';
 $_['text_add']              = 'Vásárló hozzáadása';
 $_['text_edit']             = 'Vásárló szerkesztése';
 $_['text_default']          = 'Alapértelmezett';
@@ -80,18 +80,18 @@ $_['entry_date_to']         = 'Dátumig';
 $_['button_order']          = 'Rendelések';
 
 // Help
-$_['help_safe']             = 'Állítsa igen-re, hogy elkerülje, hogy a vásárlót az anti-csalás rendszer elkapja';
+$_['help_safe']             = 'Állítsa "igaz"-ra, hogy elkerülje, hogy ezt az ügyfelet az átverés elleni rendszer kiszűrje';
 $_['help_points']           = 'A mínuszt használja a pontok eltávolításához';
 
 // Error
 $_['error_warning']         = 'Figyelmeztetés: Kérjük, alaposan ellenőrizze a formát hibák miatt!';
-$_['error_permission']      = 'Figyelmeztetés: Nincs engedélye a vásárlók módosítására!';
+$_['error_permission']      = 'Figyelmeztetés: Nincs jogosultsága a vásárló módosításához!';
 $_['error_customer']        = 'Figyelmeztetés: A vásárló nem létezik!';
 $_['error_exists']          = 'Figyelmeztetés: Az E-mail cím már regisztrálva van!';
 $_['error_address']         = 'Figyelmeztetés: A cím nem létezik!';
 $_['error_firstname']       = 'A keresztné legalább 1, és legfeljebb 32 karakterből álljon!';
 $_['error_lastname']        = 'A vezetéknév legalább 1, és legfeljebb 32 karakterből álljon!';
-$_['error_email']           = 'Az e-Mail cím nem tűnik érvényesnek!';
+$_['error_email']           = 'Az e-mail cím nem tűnik érvényesnek!';
 $_['error_telephone']       = 'A telefonszám legalább 3, és legfeljebb 32 karakterből álljon!';
 $_['error_password']        = 'A jelszó legalább 4, és legfeljebb 20 karakterből álljon!';
 $_['error_confirm']         = 'A jelszó és a jelszó megerősítése nem egyezik!';

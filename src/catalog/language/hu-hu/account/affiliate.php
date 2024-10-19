@@ -10,7 +10,7 @@ $_['text_payment']              = 'Fizetési információk';
 $_['text_cheque']               = 'Csekk';
 $_['text_paypal']               = 'PayPal';
 $_['text_bank']                 = 'Banki átutalás';
-$_['text_success']              = 'Siker: A partnerfiókja sikeresen frissítésre került.';
+$_['text_success']              = 'Siker: A partnerfiók sikeresen módosítva lett!';
 $_['text_agree']                = 'Elolvastam és elfogadom a következőket: <a href="%s" class="modal-link"><b>%s</b></a>';
 
 // Entry

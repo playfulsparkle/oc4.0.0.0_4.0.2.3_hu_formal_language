@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Hosszmértékek';
 
 // Text
-$_['text_success']     = 'Siker: Módosította a hosszmértékeket!';
+$_['text_success']     = 'Siker: A hosszmérték sikeresen módosítva lett!';
 $_['text_list']        = 'Hosszmértékek lista';
 $_['text_add']         = 'Hosszmérték hozzáadása';
 $_['text_edit']        = 'Hosszmérték szerkesztése';

@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Áruház elhelyezkedése';
 
 // Text
-$_['text_success']     = 'Siker: Módosította az áruház elhelyezkedéseit!';
+$_['text_success']     = 'Siker: Az áruház elhelyezkedése sikeresen módosítva lett!';
 $_['text_list']        = 'Áruház elhelyezkedés lista';
 $_['text_add']         = 'Áruház elhelyezkedés hozzáadása';
 $_['text_edit']        = 'Áruház elhelyezkedés szerkesztése';

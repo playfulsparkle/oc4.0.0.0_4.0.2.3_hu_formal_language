@@ -4,7 +4,7 @@ $_['heading_title']    = 'Összes rendelés';
 
 // Text
 $_['text_extension']   = 'Bővítmények';
-$_['text_success']     = 'Siker: Az összes rendelés módosítása sikeresen megtörtént!';
+$_['text_success']     = 'Siker: Az összes rendelés sikeresen módosítva lett!';
 $_['text_edit']        = 'Összes rendelés szerkesztése';
 $_['text_view']        = 'Továbbiak megtekintése...';
 

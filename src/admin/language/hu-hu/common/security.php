@@ -25,7 +25,7 @@ $_['button_move']               = 'Áthelyezés';
 $_['button_rename']             = 'Átnevezés';
 
 // Error
-$_['error_permission']          = 'Figyelmeztetés: Nincs engedélye a biztonsági beállítások módosítására!';
+$_['error_permission']          = 'Figyelmeztetés: Nincs jogosultsága az biztonsági beállítások módosításához!';
 $_['error_install']             = 'Figyelmeztetés: A telepítési könyvtár nem létezik!';
 $_['error_storage']             = 'Figyelmeztetés: A tárolási könyvtár nem létezik!';
 $_['error_storage_exists']      = 'Figyelmeztetés: A tárolási könyvtár név már létezik!';

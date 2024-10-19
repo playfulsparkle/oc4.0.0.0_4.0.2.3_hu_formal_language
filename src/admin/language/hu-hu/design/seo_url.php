@@ -3,8 +3,8 @@
 $_['heading_title']           = 'SEO URL';
 
 // Text
-$_['text_success']            = 'Siker: Sikeresen módosította a SEO URL-eket!';
-$_['text_list']               = 'SEO URL Lista';
+$_['text_success']            = 'Siker: A SEO URL sikeresen módosítva lett!';
+$_['text_list']               = 'SEO URL lista';
 $_['text_add']                = 'SEO URL hozzáadása';
 $_['text_edit']               = 'SEO URL szerkesztése';
 $_['text_filter']             = 'Szűrés';
@@ -32,7 +32,7 @@ $_['help_keyword']            = 'Győződjön meg róla, hogy csak a-z vagy 0-9 
 $_['help_sort_order']         = 'A kulcsszavak sorrendje az URL-ben.';
 
 // Error
-$_['error_permission']        = 'Figyelmeztetés: Nincs engedélye a SEO URL-ek módosítására!';
+$_['error_permission']        = 'Figyelmeztetés: Nincs jogosultsága a SEO URL módosításához!';
 $_['error_exists']            = 'Figyelmeztetés: Az áruház, nyelv kulcs, érték és kulcsszó kombináció már létezik!';
 $_['error_key']               = 'A kulcs legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_value']             = 'Az érték legalább 1, és legfeljebb 255 karakterből álljon!';

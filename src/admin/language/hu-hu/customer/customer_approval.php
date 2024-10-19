@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Vásárlói jogosultságok';
 
 // Text
-$_['text_success']          = 'Siker: Sikeresen módosította a vásárlói jogosultságokat!';
+$_['text_success']          = 'Siker: A vásárlói jogosultság sikeresen módosítva lett!';
 $_['text_list']             = 'Vásárlói jogosultság lista';
 $_['text_default']          = 'Alapértelmezett';
 $_['text_customer']         = 'Vásárló';
@@ -29,4 +29,4 @@ $_['entry_date_from']       = 'Dátumtól';
 $_['entry_date_to']         = 'Dátumig';
 
 // Error
-$_['error_permission']      = 'Figyelmeztetés: Nincs engedélye a vásárlói jogosultságok módosítására!';
+$_['error_permission']      = 'Figyelmeztetés: Nincs jogosultsága a vásárlói jogosultságok módosításához!';

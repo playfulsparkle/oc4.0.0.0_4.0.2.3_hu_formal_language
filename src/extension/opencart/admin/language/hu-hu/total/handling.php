@@ -4,7 +4,7 @@ $_['heading_title']    = 'Kezelési költség';
 
 // Text
 $_['text_extension']   = 'Bővítmények';
-$_['text_success']     = 'Siker: A kezelési költség összeg sikeresen módosítva lett!';
+$_['text_success']     = 'Siker: A kezelési költség sikeresen módosítva lett!';
 $_['text_edit']        = 'Kezelési költség szerkesztése';
 
 // Entry

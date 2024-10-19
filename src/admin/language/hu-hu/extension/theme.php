@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Témák';
 
 // Text
-$_['text_success']     = 'Siker: Témák módosítva!';
+$_['text_success']     = 'Siker: Téma sikeresen módosítva lett!';
 
 // Column
 $_['column_name']      = 'Téma név';

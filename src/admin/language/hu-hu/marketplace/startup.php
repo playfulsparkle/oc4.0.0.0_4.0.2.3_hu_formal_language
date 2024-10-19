@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Üzembe helyezés';
 
 // Text
-$_['text_success']      = 'Siker: Sikeresen módosította a üzembe helyezéseket!';
+$_['text_success']      = 'Siker: Az üzembe helyezés sikeresen módosítva lett!';
 $_['text_list']         = 'Üzembe helyezés lista';
 
 // Column

@@ -4,7 +4,7 @@ $_['heading_title']      = 'Csekk / Pénzutalvány';
 
 // Text
 $_['text_extension']     = 'Bővítmények';
-$_['text_success']       = 'Siker: A csekk / Pénzutalvány részletei sikeresen módosítva lettek!';
+$_['text_success']       = 'Siker: A csekk / Pénzutalvány sikeresen módosítva lett!';
 $_['text_edit']          = 'Csekk szerkesztése';
 
 // Entry

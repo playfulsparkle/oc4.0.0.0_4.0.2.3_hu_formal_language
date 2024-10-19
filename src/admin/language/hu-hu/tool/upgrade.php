@@ -20,7 +20,7 @@ $_['text_patch']           = 'Javítások alkalmazása...';
 $_['button_upgrade']       = 'Frissítés';
 
 // Error
-$_['error_permission']     = 'Figyelmeztetés: Nincs engedélyed a frissítések módosítására!';
+$_['error_permission']     = 'Figyelmeztetés: Nincs jogosultsága a frissítés módosításához!';
 $_['error_connection']     = 'Nem sikerült csatlakozni a frissítési szerverhez!';
 $_['error_version']        = 'A verzió alacsonyabb, mint a jelenlegi verzió!';
 $_['error_download']       = 'A frissítés nem tölthető le!';

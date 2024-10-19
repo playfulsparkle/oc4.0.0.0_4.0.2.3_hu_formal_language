@@ -3,8 +3,8 @@
 $_['heading_title']         = 'Statisztikák';
 
 // Text
-$_['text_success']          = 'Siker: Sikeresen módosította a statisztikákat!';
-$_['text_list']             = 'Statisztikák Lista';
+$_['text_success']          = 'Siker: A statisztika sikeresen módosítva lett!';
+$_['text_list']             = 'Statisztikák lista';
 $_['text_order_sale']       = 'Rendelések - akciók';
 $_['text_order_processing'] = 'Rendelések - feldolgozás alatt lévő';
 $_['text_order_complete']   = 'Rendelések - teljesített';
@@ -21,4 +21,4 @@ $_['column_value']          = 'Érték';
 $_['column_action']         = 'Művelet';
 
 // Error
-$_['error_permission']      = 'Figyelmeztetés: Nincs engedélye a statisztikák módosítására!';
+$_['error_permission']      = 'Figyelmeztetés: Nincs jogosultsága a statisztika módosításához!';

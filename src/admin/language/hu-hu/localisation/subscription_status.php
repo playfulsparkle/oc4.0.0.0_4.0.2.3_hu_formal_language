@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Előfizetés állapotok';
 
 // Text
-$_['text_success']       = 'Siker: Módosította az előfizetés állapotokat!';
+$_['text_success']       = 'Siker: Az előfizetés állapot sikeresen módosítva lett!';
 $_['text_list']          = 'Előfizetés állapotok lista';
 $_['text_add']           = 'Előfizetés állapot hozzáadása';
 $_['text_edit']          = 'Előfizetés állapot szerkesztése';

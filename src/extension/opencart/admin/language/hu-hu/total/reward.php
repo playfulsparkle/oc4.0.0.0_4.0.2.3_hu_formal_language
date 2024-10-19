@@ -4,7 +4,7 @@ $_['heading_title']    = 'Bónuszpontok';
 
 // Text
 $_['text_extension']   = 'Bővítmények';
-$_['text_success']     = 'Siker: A bónuszpontok összeg sikeresen módosítva lett!';
+$_['text_success']     = 'Siker: A bónuszpont sikeresen módosítva lett!';
 $_['text_edit']        = 'Bónuszpontok szerkesztése';
 
 // Entry

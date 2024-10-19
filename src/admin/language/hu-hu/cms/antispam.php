@@ -3,7 +3,7 @@
 $_['heading_title']        = 'Anti-Spam';
 
 // Text
-$_['text_success']         = 'Siker: Sikeresen módosította az anti-spam beállításokat!';
+$_['text_success']         = 'Siker: Az anti-spam sikeresen módosítva lett!';
 $_['text_list']            = 'Anti-Spam lista';
 $_['text_add']             = 'Anti-Spam hozzáadása';
 $_['text_edit']            = 'Anti-Spam szerkesztése';

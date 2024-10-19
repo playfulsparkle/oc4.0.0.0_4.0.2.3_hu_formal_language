@@ -3,7 +3,7 @@
 $_['heading_title']        = 'Reklamációk';
 
 // Text
-$_['text_success']         = 'Siker: Sikeresen módosította a reklamációkat!';
+$_['text_success']         = 'Siker: A reklamáció sikeresen módosítva lett!';
 $_['text_list']            = 'Termék reklamáció lista';
 $_['text_add']             = 'Termék reklamáció hozzáadása';
 $_['text_edit']            = 'Termék reklamáció szerkesztése';
@@ -54,7 +54,7 @@ $_['help_product']         = '(automatikus kitöltés)';
 
 // Error
 $_['error_warning']        = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
-$_['error_permission']     = 'Figyelmeztetés: Nincs engedélye a reklamációk módosítására!';
+$_['error_permission']     = 'Figyelmeztetés: Nincs jogosultsága a reklamáció módosításához!';
 $_['error_return']         = 'Figyelmeztetés: A kiválasztott reklamáció nem található!';
 $_['error_order_id']       = 'Figyelmeztetés: Rendelés azonosító szükséges!';
 $_['error_firstname']      = 'Figyelmeztetés: A keresztnév legalább 1, és legfeljebb 32 karakterből álljon!';

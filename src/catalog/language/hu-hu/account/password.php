@@ -5,7 +5,7 @@ $_['heading_title']  = 'Jelszó módosítása';
 // Text
 $_['text_account']   = 'Fiók';
 $_['text_password']  = 'Jelszó';
-$_['text_success']   = 'Siker: A jelszó sikeresen frissítve lett.';
+$_['text_success']   = 'Siker: A jelszó sikeresen módosítva lett!';
 
 // Entry
 $_['entry_password'] = 'Jelszó';

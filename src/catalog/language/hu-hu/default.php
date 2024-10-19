@@ -69,7 +69,7 @@ $_['button_reward']         = 'Bónuszpont beváltása';
 $_['button_choose']         = 'Kiválasztás';
 $_['button_shipping']       = 'Szállítás kalkuláció';
 $_['button_quote']          = 'Ajánlatkérés';
-$_['button_list']           = 'Listanézet';
+$_['button_list']           = 'listanézet';
 $_['button_grid']           = 'Rácsnézet';
 $_['button_map']            = 'Google térkép megtekintése';
 

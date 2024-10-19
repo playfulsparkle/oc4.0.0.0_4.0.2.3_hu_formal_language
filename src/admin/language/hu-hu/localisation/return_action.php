@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Reklamáció';
 
 // Text
-$_['text_success']     = 'Siker: Módosította a reklamációs akciókat!';
+$_['text_success']     = 'Siker: A reklamáció művelet sikeresen módosítva lett!';
 $_['text_list']        = 'Reklamáció lista';
 $_['text_add']         = 'Reklamáció hozzáadása';
 $_['text_edit']        = 'Reklamáció szerkesztése';
@@ -16,6 +16,6 @@ $_['column_action']    = 'Művelet';
 $_['entry_name']       = 'Reklamációs név';
 
 // Error
-$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a reklamációs akciók módosításához!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a reklamáció művelet módosításához!';
 $_['error_name']       = 'A reklamáció név legalább 3, és legfeljebb 64 karakterből álljon!';
-$_['error_return']     = 'Figyelmeztetés: Ez a reklamációs akció nem törölhető, mivel jelenleg %s visszaküldött termékhez van hozzárendelve!';
+$_['error_return']     = 'Figyelmeztetés: Ez a reklamáció művelet nem törölhető, mivel jelenleg %s visszaküldött termékhez van hozzárendelve!';

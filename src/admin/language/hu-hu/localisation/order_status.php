@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Rendelés állapotok';
 
 // Text
-$_['text_success']     = 'Siker: Módosította a rendelés állapotokat!';
+$_['text_success']     = 'Siker: A rendelés állapot sikeresen módosítva lett!';
 $_['text_list']        = 'Rendelés állapot lista';
 $_['text_add']         = 'Rendelés állapot hozzáadása';
 $_['text_edit']        = 'Rendelés állapot szerkesztése';

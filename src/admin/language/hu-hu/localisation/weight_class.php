@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Súlymérték';
 
 // Text
-$_['text_success']     = 'Siker: Módosította a súlymértékeket!';
+$_['text_success']     = 'Siker: A súlymérték sikeresen módosítva lett!';
 $_['text_list']        = 'Súlymérték lista';
 $_['text_add']         = 'Súlymérték hozzáadása';
 $_['text_edit']        = 'Súlymérték szerkesztése';

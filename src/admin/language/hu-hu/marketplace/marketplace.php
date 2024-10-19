@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Bővítmények piactere';
 
 // Text
-$_['text_success']       = 'Siker: A bővítmények sikeresen módosítva lettek!';
+$_['text_success']       = 'Siker: A bővítmény sikeresen módosítva lett!';
 $_['text_list']          = 'Bővítmény lista';
 $_['text_filter']        = 'Szűrő';
 $_['text_search']        = 'Keresés bővítmények és sablonok között';

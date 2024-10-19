@@ -9,7 +9,7 @@ $_['text_forgotten']     = 'Elfelejtett jelszó';
 $_['text_your_email']    = 'Az Ön e-mail címe';
 $_['text_email']         = 'Adja meg a fiókjához tartozó e-mail címet. Kattintson a küldésre, hogy egy jelszó-visszaállító linket kapjon e-mailben.';
 $_['text_password']      = 'Adja meg az új jelszót, amelyet használni szeretne.';
-$_['text_success']       = 'Siker: A jelszava sikeresen frissítve lett.';
+$_['text_success']       = 'Siker: A jelszót sikeresen módosítva lett!';
 
 // Entry
 $_['entry_email']        = 'E-mail cím';

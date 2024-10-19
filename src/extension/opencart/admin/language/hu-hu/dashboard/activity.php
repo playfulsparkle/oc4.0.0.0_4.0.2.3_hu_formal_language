@@ -4,7 +4,7 @@ $_['heading_title']                = 'Legutóbbi Tevékenységek';
 
 // Text
 $_['text_extension']               = 'Bővítmények';
-$_['text_success']                 = 'Siker: Az irányítópult tevékenységei sikeresen módosítva lettek!';
+$_['text_success']                 = 'Siker: Az irányítópult tevékenység sikeresen módosítva lett!';
 $_['text_edit']                    = 'Legutóbbi Tevékenységek szerkesztése';
 $_['text_activity_register']       = '<a href="customer_id=%d">%s</a> új fiókot regisztrált.';
 $_['text_activity_edit']           = '<a href="customer_id=%d">%s</a> frissítette fiókadatait.';

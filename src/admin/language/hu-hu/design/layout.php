@@ -3,7 +3,7 @@
 $_['heading_title']       = 'Elrendezések';
 
 // Text
-$_['text_success']        = 'Siker: Sikeresen módosította az elrendezéseket!';
+$_['text_success']        = 'Siker: Az elrendezés sikeresen módosítva lett!';
 $_['text_list']           = 'Elrendezés lista';
 $_['text_add']            = 'Elrendezés hozzáadása';
 $_['text_edit']           = 'Elrendezés szerkesztése';
@@ -27,7 +27,7 @@ $_['entry_route']         = 'Útvonal';
 $_['entry_module']        = 'Modul';
 
 // Error
-$_['error_permission']    = 'Figyelmeztetés: Nincs engedélye az elrendezések módosítására!';
+$_['error_permission']    = 'Figyelmeztetés: Nincs jogosultsága az elrendezés módosításához!';
 $_['error_name']          = 'Az elrendezés név legalább 3, és legfeljebb 64 karakterből álljon!';
 $_['error_module']        = 'Modul szükséges!';
 $_['error_default']       = 'Figyelmeztetés: Ez az elrendezés nem törölhető, mert jelenleg az alapértelmezett áruház elrendezésként van beállítva!';

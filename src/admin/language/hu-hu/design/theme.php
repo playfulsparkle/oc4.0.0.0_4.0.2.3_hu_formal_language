@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Témaszerkesztő';
 
 // Text
-$_['text_success']      = 'Siker: Sikeresen módosította a témákat!';
+$_['text_success']      = 'Siker: A téma sikeresen módosítva lett!';
 $_['text_edit']         = 'Téma szerkesztése';
 $_['text_store']        = 'Válassza ki az áruházát';
 $_['text_template']     = 'Válasszon sablont';
@@ -19,5 +19,5 @@ $_['column_date_added'] = 'Hozzáadva';
 $_['column_action']     = 'Művelet';
 
 // Error
-$_['error_permission']  = 'Figyelmeztetés: Nincs engedélye a témaszerkesztő módosítására!';
+$_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága a témaszerkesztő módosításához!';
 $_['error_twig']        = 'Figyelmeztetés: Csak .twig fájlokat menthet!';

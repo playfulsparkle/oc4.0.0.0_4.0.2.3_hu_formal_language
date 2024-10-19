@@ -6,7 +6,7 @@ $_['heading_title']      = 'Saját fiók információk';
 $_['text_account']       = 'Fiók';
 $_['text_edit']          = 'Saját fiók információk szerkesztése';
 $_['text_your_details']  = 'Személyes adatai';
-$_['text_success']       = 'Siker: A fiókja sikeresen frissítve lett.';
+$_['text_success']       = 'Siker: A fiók sikeresen módosítva lett!';
 
 // Entry
 $_['entry_firstname']    = 'Keresztnév';

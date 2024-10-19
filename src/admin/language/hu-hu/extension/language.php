@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Nyelvek';
 
 // Text
-$_['text_success']     = 'Siker: A nyelvek sikeresen módosítva lettek!';
+$_['text_success']     = 'Siker: A nyelv sikeresen módosítva lett!';
 $_['text_list']        = 'Nyelvi lista';
 
 // Column

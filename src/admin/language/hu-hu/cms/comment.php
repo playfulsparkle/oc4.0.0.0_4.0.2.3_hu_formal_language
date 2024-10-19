@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Cikk hozzászólások';
 
 // Text
-$_['text_success']      = 'Siker: Sikeresen módosította a cikk hozzászólásokat!';
+$_['text_success']      = 'Siker: A cikk hozzászólás sikeresen módosítva lett!';
 $_['text_list']         = 'Cikk hozzászólás lista';
 $_['text_filter']       = 'Szűrő';
 
@@ -23,5 +23,5 @@ $_['entry_date_added']  = 'Hozzáadva';
 
 // Error
 $_['error_warning']     = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
-$_['error_permission']  = 'Figyelmeztetés: Nincs engedélye a cikk hozzászólások módosítására!';
+$_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága a cikk hozzászólás módosításához!';
 $_['error_keyword']     = 'A kulcsszó legalább 1, és legfeljebb 64 karakterből álljon!';

@@ -3,7 +3,7 @@
 $_['heading_title']              = 'Előfizetések';
 
 // Text
-$_['text_success']               = 'Siker: Sikeresen módosította az előfizetéseket!';
+$_['text_success']               = 'Siker: Az előfizetés sikeresen módosítva lett!';
 $_['text_list']                  = 'Előfizetés lista';
 $_['text_add']                   = 'Hozzáadás';
 $_['text_edit']                  = 'Előfizetés (#%s)';
@@ -86,7 +86,7 @@ $_['help_frequency']             = 'Ha a gyakoriság "hét" és a ciklus "2", ak
 $_['tab_order']                  = 'Rendelések';
 
 // Error
-$_['error_permission']           = 'Figyelmeztetés: Nincs engedélye az előfizetések módosítására!';
+$_['error_permission']           = 'Figyelmeztetés: Nincs jogosultsága az előfizetés módosításához!';
 $_['error_status']               = 'Hiba: Az előfizetés állapota nem egyezik a áruház állapotával!';
 $_['error_subscription']         = 'Figyelmeztetés: Az előfizetés nem létezik!';
 $_['error_subscription_plan']    = 'Figyelmeztetés: Az előfizetési profil nem létezik!';

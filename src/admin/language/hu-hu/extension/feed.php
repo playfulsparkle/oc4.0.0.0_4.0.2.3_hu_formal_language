@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Adatfolyamok';
 
 // Text
-$_['text_success']     = 'Siker: Az adatfolyamok sikeresen módosítva lettek!';
+$_['text_success']     = 'Siker: Az adatfolyam sikeresen módosítva lett!';
 $_['text_list']        = 'Adatfolyam lista';
 
 // Column

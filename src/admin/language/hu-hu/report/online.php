@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']     = 'Online jelentés';
+$_['heading_title']     = 'Online ügyféljelentés';
 
 // Text
 $_['text_extension']    = 'Bővítmények';
-$_['text_success']      = 'Siker: Sikeresen módosította az online ügyféljelentést!';
+$_['text_success']      = 'Siker: Az online ügyféljelentés sikeresen módosítva lett!';
 $_['text_list']         = 'Online lista';
 $_['text_filter']       = 'Szűrő';
 $_['text_guest']        = 'Vendég';
@@ -22,4 +22,4 @@ $_['entry_ip']          = 'IP';
 $_['entry_customer']    = 'Vásárló';
 
 // Error
-$_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága az online vásárlójelentés módosításához!';
+$_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága az online ügyféljelentés módosításához!';

@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success']       = 'Siker: A szállítási cím beállítva lett!';
+$_['text_success']       = 'Siker: A szállítási cím sikeressen beállítva';
 
 // Error
 $_['error_firstname']    = 'A keresztnév legalább 1, és legfeljebb 32 karakterből álljon!';

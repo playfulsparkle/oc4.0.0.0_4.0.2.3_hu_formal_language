@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Profil';
 
 // Text
-$_['text_success']          = 'Siker: Sikeresen módosította a profilját!';
+$_['text_success']          = 'Siker: A profil sikeresen módosítva lett!';
 $_['text_edit']             = 'Profil szerkesztése';
 $_['text_user']             = 'Felhasználói adatok';
 $_['text_password']         = 'Jelszó';
@@ -18,7 +18,7 @@ $_['entry_email']           = 'E-mail';
 $_['entry_image']           = 'Kép';
 
 // Error
-$_['error_permission']      = 'Figyelmeztetés: Nincs engedélye a profil módosítására!';
+$_['error_permission']      = 'Figyelmeztetés: Nincs jogosultsága a profil módosításához!';
 $_['error_username_exists'] = 'Figyelmeztetés: A felhasználónév már foglalt!';
 $_['error_username']        = 'A felhasználónév legalább 3, és legfeljebb 20 karakterből álljon!';
 $_['error_password']        = 'A jelszó legalább 4, és legfeljebb 20 karakterből álljon!';

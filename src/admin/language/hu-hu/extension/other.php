@@ -3,7 +3,7 @@
 $_['heading_title']    = 'További bővítmények';
 
 // Text
-$_['text_success']     = 'Siker: A további bővítmények sikeresen módosítva lettek!';
+$_['text_success']     = 'Siker: A további bővítmény sikeresen módosítva lett!';
 $_['text_list']        = 'További bővítmények lista';
 
 // Column

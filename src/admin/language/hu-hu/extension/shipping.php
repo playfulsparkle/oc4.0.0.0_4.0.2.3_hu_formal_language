@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Szállítás';
 
 // Text
-$_['text_success']      = 'Siker: Szállítás módosítva!';
+$_['text_success']      = 'Siker: Szállítás sikeresen módosítva lett!';
 $_['text_list']         = 'Szállítás lista';
 
 // Column

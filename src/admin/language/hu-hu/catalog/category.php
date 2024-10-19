@@ -3,7 +3,7 @@
 $_['heading_title']           = 'Kategóriák';
 
 // Text
-$_['text_success']            = 'Siker: Sikeresen módosította a kategóriákat!';
+$_['text_success']            = 'Siker: A kategória sikeresen módosítva lett!';
 $_['text_list']               = 'Kategória lista';
 $_['text_add']                = 'Kategória hozzáadása';
 $_['text_edit']               = 'Kategória szerkesztése';

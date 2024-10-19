@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Analitika';
 
 // Text
-$_['text_success']     = 'Siker: Az analitikai beállítások sikeresen módosítva lettek!';
+$_['text_success']     = 'Siker: Az analitika sikeresen módosítva lett!';
 $_['text_list']        = 'Analitika lista';
 
 // Column

@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Feltöltések';
 
 // Text
-$_['text_success']       = 'Siker: Sikeresen módosította a feltöltéseket!';
+$_['text_success']       = 'Siker: A feltöltés sikeresen módosítva lett!';
 $_['text_list']          = 'Feltöltés lista';
 $_['text_filter']        = 'Szűrő';
 
@@ -20,7 +20,7 @@ $_['entry_date_from']    = 'Dátumtól';
 $_['entry_date_to']      = 'Dátumig';
 
 // Error
-$_['error_permission']   = 'Figyelmeztetés: Nincs engedélyed a feltöltések módosítására!';
+$_['error_permission']   = 'Figyelmeztetés: Nincs jogosultsága a feltöltés módosításához!';
 $_['error_not_found']    = 'Hiba: A %s fájl nem található!';
 $_['error_headers_sent'] = 'Hiba: A fejlécek már el lettek küldve!';
 $_['error_upload']       = 'A fájl nem tölthető fel!';

@@ -3,8 +3,8 @@
 $_['heading_title']          = 'Zónák';
 
 // Text
-$_['text_success']           = 'Siker: Módosította a zónákat!';
-$_['text_list']              = 'Zóna Lista';
+$_['text_success']           = 'Siker: A zóna sikeresen módosítva lett!';
+$_['text_list']              = 'Zóna lista';
 $_['text_add']               = 'Zóna hozzáadása';
 $_['text_edit']              = 'Zóna szerkesztése';
 $_['text_filter']            = 'Szűrés';

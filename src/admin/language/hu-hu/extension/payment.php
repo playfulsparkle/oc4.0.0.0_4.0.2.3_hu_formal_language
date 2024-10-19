@@ -3,8 +3,8 @@
 $_['heading_title']     = 'Fizetési lehetőségek';
 
 // Text
-$_['text_success']      = 'Siker: A fizetési lehetőségek sikeresen módosítva lettek!';
-$_['text_list']         = 'Fizetési lehetőségek Lista';
+$_['text_success']      = 'Siker: A fizetési lehetőség sikeresen módosítva lett!';
+$_['text_list']         = 'Fizetési lehetőségek lista';
 
 // Column
 $_['column_name']       = 'Fizetési Módszer';

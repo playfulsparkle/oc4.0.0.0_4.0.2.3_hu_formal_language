@@ -4,7 +4,7 @@ $_['heading_title']      = 'Banki átutalás';
 
 // Text
 $_['text_extension']     = 'Bővítmények';
-$_['text_success']       = 'Siker: A banki átutalás részletei sikeresen módosítva lettek!';
+$_['text_success']       = 'Siker: A banki átutalás sikeresen módosítva lett!';
 $_['text_edit']          = 'Banki átutalás szerkesztése';
 
 // Entry

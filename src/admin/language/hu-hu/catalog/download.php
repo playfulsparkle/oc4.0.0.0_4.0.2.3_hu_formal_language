@@ -3,7 +3,7 @@
 $_['heading_title']            = 'Letöltések';
 
 // Text
-$_['text_success']             = 'Siker: Sikeresen módosította a letöltéseket!';
+$_['text_success']             = 'Siker: A letöltés sikeresen módosítva lett!';
 $_['text_list']                = 'Letöltés lista';
 $_['text_add']                 = 'Letöltés hozzáadása';
 $_['text_edit']                = 'Letöltés szerkesztése';

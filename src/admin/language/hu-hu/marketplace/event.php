@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Események';
 
 // Text
-$_['text_success']      = 'Siker: Az események sikeresen módosítva lettek!';
+$_['text_success']      = 'Siker: Az esemény sikeresen módosítva lett!';
 $_['text_list']         = 'Esemény lista';
 $_['text_event']        = 'Az események kiterjesztések által használhatók az alapértelmezett áruház funkcióinak felülírására. Ha problémái vannak, itt letilthatja vagy engedélyezheti az eseményeket.';
 $_['text_info']         = 'Esemény információ';

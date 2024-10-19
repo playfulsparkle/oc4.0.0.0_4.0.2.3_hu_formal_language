@@ -4,7 +4,7 @@ $_['heading_title']          = 'Bővítmény telepítő';
 
 // Text
 $_['text_upload']            = 'Siker: A bővítmény sikeresen feltöltve!';
-$_['text_success']           = 'Siker: A bővítmények sikeresen módosítva lettek!';
+$_['text_success']           = 'Siker: A bővítmény sikeresen módosítva lett!';
 $_['text_progress']          = 'Telepítési folyamat';
 $_['text_installed']         = 'Telepített bővítmények';
 

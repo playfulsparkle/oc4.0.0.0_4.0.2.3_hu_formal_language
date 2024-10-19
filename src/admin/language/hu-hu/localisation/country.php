@@ -3,7 +3,7 @@
 $_['heading_title']           = 'Országok';
 
 // Text
-$_['text_success']            = 'Siker: Módosította az országokat!';
+$_['text_success']            = 'Siker: Az ország sikeresen módosítva lett!';
 $_['text_list']               = 'Ország lista';
 $_['text_add']                = 'Ország hozzáadása';
 $_['text_edit']               = 'Ország szerkesztése';

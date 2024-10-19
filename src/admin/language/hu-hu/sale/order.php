@@ -3,7 +3,7 @@
 $_['heading_title']              = 'Rendelések';
 
 // Text
-$_['text_success']               = 'Siker: Sikeresen módosította a rendeléseket!';
+$_['text_success']               = 'Siker: A rendelés sikeresen módosítva lett!';
 $_['text_list']                  = 'Rendelések lista';
 $_['text_add']                   = 'Hozzáadás';
 $_['text_edit']                  = 'Rendelés (#%s)';
@@ -130,7 +130,7 @@ $_['help_override']              = 'Ha az ügyfél rendelése blokkolva van az �
        
 // Error       
 $_['error_warning']              = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
-$_['error_permission']           = 'Figyelmeztetés: Nincs engedélye a rendelések módosítására!';
+$_['error_permission']           = 'Figyelmeztetés: Nincs jogosultsága a rendelés módosításához!';
 $_['error_invoice_no']           = 'Figyelmeztetés: Számla Szám már létre lett hozva!';
 $_['error_order']                = 'Figyelmeztetés: A rendelés nem létezik!';
 $_['error_affiliate']            = 'Figyelmeztetés: A partner nem létezik!';

@@ -3,7 +3,7 @@
 $_['heading_title']     = 'GDPR jóváhagyások';
 
 // Text
-$_['text_success']      = 'Siker: Sikeresen módosította a GDPR jóváhagyásokat!';
+$_['text_success']      = 'Siker: A GDPR jóváhagyás sikeresen módosítva lett!';
 $_['text_list']         = 'GDPR jóváhagyások lista';
 $_['text_info']         = '<strong>GDPR</strong> fiók törlési kérelmek feldolgozása <strong>%s nap</strong> elteltével történik, hogy bármilyen csalás észlelés, visszaterhelés vagy visszatérítés feldolgozható legyen.';
 $_['text_approve']      = 'Jóváhagyás';
@@ -33,4 +33,4 @@ $_['entry_date_from']   = 'Dátumtól';
 $_['entry_date_to']     = 'Dátumig';
 
 // Error
-$_['error_permission']  = 'Figyelmeztetés: Nincs engedélye a GDPR jóváhagyások módosítására!';
+$_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága a GDPR jóváhagyás módosításához!';

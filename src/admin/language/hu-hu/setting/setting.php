@@ -4,7 +4,7 @@ $_['heading_title']                       = 'Beállítások';
 
 // Text
 $_['text_stores']                         = 'Áruházak';
-$_['text_success']                        = 'Siker: A beállítások sikeresen módosítva lettek!';
+$_['text_success']                        = 'Siker: A beállítások sikeresen módosítva lett!';
 $_['text_edit']                           = 'Beállítás szerkesztése';
 $_['text_register']                       = 'Regisztráció';
 $_['text_guest']                          = 'Vendég vásárlás';

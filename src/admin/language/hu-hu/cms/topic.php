@@ -3,7 +3,7 @@
 $_['heading_title']           = 'Témák';
 
 // Text
-$_['text_success']            = 'Siker: Sikeresen módosította a témákat!';
+$_['text_success']            = 'Siker: A téma sikeresen módosítva lett!';
 $_['text_list']               = 'Téma jista';
 $_['text_add']                = 'Hozzáadás';
 $_['text_edit']               = 'Módosítás';
@@ -29,7 +29,7 @@ $_['entry_keyword']           = 'Kulcsszó';
 
 // Error
 $_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
-$_['error_permission']        = 'Figyelmeztetés: Nincs engedélye a témák módosítására!';
+$_['error_permission']        = 'Figyelmeztetés: Nincs jogosultsága a téma módosításához!';
 $_['error_name']              = 'A téma név legalább 1, és legfeljebb 255 karakterből álljon!';
 $_['error_meta_title']        = 'A Cím (Title meta tag) legalább 1, és legfeljebb 255 karakterből álljon!';
 $_['error_keyword']           = 'SEO URL-nek legalább 1, és legfeljebb 64 karakterből álljon!';

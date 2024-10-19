@@ -4,7 +4,7 @@ $_['heading_title']    = 'Részösszeg (netto)';
 
 // Text
 $_['text_extension']   = 'Bővítmények';
-$_['text_success']     = 'Siker: A részösszeg összegét sikeresen módosítva lett!';
+$_['text_success']     = 'Siker: A részösszeg sikeresen módosítva lett!';
 $_['text_edit']        = 'Részösszeg szerkesztése';
 
 // Entry

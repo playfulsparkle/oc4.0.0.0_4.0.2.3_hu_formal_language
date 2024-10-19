@@ -4,7 +4,7 @@ $_['heading_title']      = 'Ingyenes fizetés';
 
 // Text
 $_['text_extension']     = 'Bővítmények';
-$_['text_success']       = 'Siker: Az ingyenes fizetés modul sikeresen módosítva lett!';
+$_['text_success']       = 'Siker: Az ingyenes fizetés sikeresen módosítva lett!';
 $_['text_edit']          = 'Ingyenes fizetés szerkesztése';
 
 // Entry

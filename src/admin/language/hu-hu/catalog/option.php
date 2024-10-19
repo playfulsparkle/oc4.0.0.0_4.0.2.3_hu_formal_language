@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Opciók';
 
 // Text
-$_['text_success']       = 'Siker: Sikeresen módosította az opciókat!';
+$_['text_success']       = 'Siker: Az opció sikeresen módosítva lett!';
 $_['text_list']          = 'Opció lista';
 $_['text_add']           = 'Opció hozzáadása';
 $_['text_edit']          = 'Opció szerkesztése';

@@ -4,7 +4,7 @@ $_['heading_title']      = 'Utánvétes fizetés';
 
 // Text
 $_['text_extension']     = 'Bővítmények';
-$_['text_success']       = 'Siker: A utánvétes fizetés modul sikeresen módosítva lett!';
+$_['text_success']       = 'Siker: A utánvétes fizetés sikeresen módosítva lett!';
 $_['text_edit']          = 'Utánvétes fizetés szerkesztése';
 
 // Entry

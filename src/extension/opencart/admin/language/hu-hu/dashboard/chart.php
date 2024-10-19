@@ -4,7 +4,7 @@ $_['heading_title']    = 'Értékesítési elemzés diagram';
 
 // Text
 $_['text_extension']   = 'Bővítmények';
-$_['text_success']     = 'Siker: Az irányítópult diagramja sikeresen módosítva lett!';
+$_['text_success']     = 'Siker: Az irányítópult diagram sikeresen módosítva lett!';
 $_['text_edit']        = 'Értékesítési elemzés diagram szerkesztése';
 $_['text_order']       = 'Rendelések';
 $_['text_customer']    = 'Vásárlók';

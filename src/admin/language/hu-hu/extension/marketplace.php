@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Piacterek';
 
 // Text
-$_['text_success']     = 'Siker: A piacterek sikeresen módosítva lettek!';
+$_['text_success']     = 'Siker: A piactér sikeresen módosítva lett!';
 $_['text_list']        = 'Piacterek lista';
 
 // Column

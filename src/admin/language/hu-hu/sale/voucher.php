@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Ajándékutalványok';
 
 // Text
-$_['text_success']      = 'Siker: Sikeresen módosította az utalványokat!';
+$_['text_success']      = 'Siker: Az utalvány sikeresen módosítva lett!';
 $_['text_list']         = 'Ajándékutalvány lista';
 $_['text_add']          = 'Ajándékutalvány hozzáadása';
 $_['text_edit']         = 'Ajándékutalvány szerkesztése';
@@ -38,7 +38,7 @@ $_['entry_status']      = 'Állapot';
 $_['help_code']         = 'A kód, amelyet a vásárló beír az utalvány aktiválásához.';
 
 // Error
-$_['error_permission']  = 'Figyelmeztetés: Nincs engedélye az utalványok módosítására!';
+$_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága az utalvány módosításához!';
 $_['error_exists']      = 'Figyelmeztetés: Az utalványkód már használatban van!';
 $_['error_code']        = 'A kód legalább 3, és legfeljebb 10 karakterből álljon!';
 $_['error_to_name']     = 'A címzett név legalább 1, és legfeljebb 64 karakterből álljon!';

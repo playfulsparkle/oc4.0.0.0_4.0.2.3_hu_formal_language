@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_cart']       = 'Siker: Módosította a bevásárlókosarat!';
+$_['text_cart']       = 'Siker: A bevásárlókosár sikeresen módosítva lett!';
 $_['text_for']        = '%s Ajándékutalvány %s számára';
 $_['text_success']    = 'Siker: Az ajándékutalvány kedvezmény alkalmazva lett!';
 $_['text_remove']     = 'Siker: Az ajándékutalvány kedvezmény eltávolítva!';

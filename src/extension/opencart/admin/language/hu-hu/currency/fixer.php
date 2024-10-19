@@ -4,7 +4,7 @@ $_['heading_title']    = 'Árfolyam rögzítés';
 
 // Text
 $_['text_extension']   = 'Bővítmények';
-$_['text_success']     = 'Siker: Az árfolyam rögzítés pénznemárfolyamok sikeresen módosítva lettek!';
+$_['text_success']     = 'Siker: Az árfolyam rögzítés pénznemárfolyam sikeresen módosítva lett!';
 $_['text_edit']        = 'Árfolyam rögzítés szerkesztése';
 $_['text_signup']      = 'A Fixer.io egy pénznemkonverziós szolgáltatás, <a href="https://fixer.io/" target="_blank" class="alert-link">itt regisztrálhat</a>.';
 

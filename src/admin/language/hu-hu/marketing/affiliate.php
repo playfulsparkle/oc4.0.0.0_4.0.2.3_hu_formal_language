@@ -3,7 +3,7 @@
 $_['heading_title']             = 'Partnerek';
 
 // Text
-$_['text_success']              = 'Siker: A partnerek módosítása sikeresen megtörtént!';
+$_['text_success']              = 'Siker: A partner sikeresen módosítva lett!';
 $_['text_list']                 = 'Partner lista';
 $_['text_add']                  = 'Partner hozzáadása';
 $_['text_edit']                 = 'Partner szerkesztése';
@@ -14,8 +14,8 @@ $_['text_balance']              = 'Egyenleg';
 $_['text_cheque']               = 'Csekk';
 $_['text_paypal']               = 'PayPal';
 $_['text_bank']                 = 'Banki átutalás';
-$_['text_history']              = 'Történelem';
-$_['text_history_add']          = 'Történelem hozzáadása';
+$_['text_history']              = 'Előzmény';
+$_['text_history_add']          = 'Előzmény hozzáadása';
 $_['text_transaction']          = 'Tranzakciók';
 $_['text_transaction_add']      = 'Tranzakció hozzáadása';
 $_['text_report']               = 'Jelentések';
@@ -53,7 +53,7 @@ $_['entry_paypal']              = 'PayPal e-mail cím';
 $_['entry_bank_name']           = 'Bank név';
 $_['entry_bank_branch_number']  = 'ABA/BSB szám (Fiók száma)';
 $_['entry_bank_swift_code']     = 'SWIFT kód';
-$_['entry_bank_account_name']   = 'Számla név';
+$_['entry_bank_account_name']   = 'Számlatulajdonos név';
 $_['entry_bank_account_number'] = 'Számlaszám';
 $_['entry_comment']             = 'Megjegyzés';
 $_['entry_description']         = 'Leírás';

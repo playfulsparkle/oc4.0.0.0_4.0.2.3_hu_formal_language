@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Marketing nyomkövetés';
 
 // Text
-$_['text_success']      = 'Siker: A marketing nyomkövetés sikeresen módosítva lettek!';
+$_['text_success']      = 'Siker: A marketing nyomkövetés sikeresen módosítva lett!';
 $_['text_list']         = 'Marketing nyomkövetési lista';
 $_['text_add']          = 'Marketing nyomkövetés hozzáadása';
 $_['text_edit']         = 'Marketing nyomkövetés szerkesztése';

@@ -11,4 +11,4 @@ $_['text_edit']        = 'Serkesztés';
 $_['entry_status']     = 'Állapot';
 
 // Error
-$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága az Alap CAPTCHA módosításához!';
+$_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága az alap CAPTCHA módosításához!';

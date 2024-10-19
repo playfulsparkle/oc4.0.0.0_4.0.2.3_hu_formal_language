@@ -5,7 +5,7 @@ $_['heading_title']         = 'Fizetési módszerek';
 // Text
 $_['text_account']          = 'Fiók';
 $_['text_payment_method']   = 'Fizetési módszer bejegyzések';
-$_['text_success']          = 'Siker: A fizetési módszer sikeresen törölve lett.';
+$_['text_success']          = 'Siker: A fizetési módszer sikeresen törölve lett!';
 $_['text_no_results']       = 'Nincsenek fizetési módszerek a fiókjában.';
 
 // Column

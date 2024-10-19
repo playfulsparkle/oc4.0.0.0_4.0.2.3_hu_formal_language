@@ -3,7 +3,7 @@
 $_['heading_title']        = 'Valuták';
 
 // Text
-$_['text_success']         = 'Siker: Módosította a valutákat!';
+$_['text_success']         = 'Siker: A valuta sikeresen módosítva lett!';
 $_['text_list']            = 'Valuta lista';
 $_['text_add']             = 'Valuta hozzáadása';
 $_['text_edit']            = 'Valuta szerkesztése';

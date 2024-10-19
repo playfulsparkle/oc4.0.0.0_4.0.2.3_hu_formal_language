@@ -3,7 +3,7 @@
 $_['heading_title']           = 'Termékek';
 
 // Text
-$_['text_success']            = 'Siker: Sikeresen módosította a termékeket!';
+$_['text_success']            = 'Siker: A termék sikeresen módosítva lett!';
 $_['text_variant']            = 'Kérjük, vegye figyelembe, hogy mivel ez egy variáns termék, felül kell írnia a <a href="%s" target="_blank" class="alert-link">alaptermék</a> adatokat. Különben az adatok felülíródnak az <a href="%s" target="_blank" class="alert-link">alaptermék</a> adataival mentéskor.';
 $_['text_list']               = 'Termék lista';
 $_['text_add']                = 'Termék hozzáadása';

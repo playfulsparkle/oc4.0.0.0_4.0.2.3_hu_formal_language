@@ -4,7 +4,7 @@ $_['heading_title']    = 'Világtérkép';
 
 // Text
 $_['text_extension']   = 'Bővítmények';
-$_['text_success']     = 'Siker: Az világtérkép módosítása sikeresen megtörtént!';
+$_['text_success']     = 'Siker: Az világtérkép sikeresen módosítva lett!';
 $_['text_edit']        = 'Világtérkép szerkesztése';
 $_['text_order']       = 'Rendelések';
 $_['text_sale']        = 'Akciók';

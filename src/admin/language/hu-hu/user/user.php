@@ -3,8 +3,8 @@
 $_['heading_title']         = 'Felhasználók';
 
 // Text
-$_['text_success']          = 'Siker: Sikeresen módosította a felhasználókat!';
-$_['text_list']             = 'Felhasználói Lista';
+$_['text_success']          = 'Siker: A felhasználó sikeresen módosítva lett!';
+$_['text_list']             = 'Felhasználói lista';
 $_['text_add']              = 'Felhasználó hozzáadása';
 $_['text_edit']             = 'Felhasználó szerkesztése';
 $_['text_user']             = 'Felhasználói adatok';
@@ -37,7 +37,7 @@ $_['tab_authorize']         = 'Engedélyezés';
 $_['tab_login']             = 'Bejelentkezés';
 
 // Error
-$_['error_permission']      = 'Figyelmeztetés: Nincs engedélye a felhasználók módosítására!';
+$_['error_permission']      = 'Figyelmeztetés: Nincs jogosultsága a felhasználó módosításához!';
 $_['error_account']         = 'Figyelmeztetés: Nem törölheti a saját fiókját!';
 $_['error_login']           = 'Figyelmeztetés: A felhasználói bejelentkezés nem létezik!';
 $_['error_username']        = 'A felhasználónév legalább 3, és legfeljebb 20 karakterből álljon!';

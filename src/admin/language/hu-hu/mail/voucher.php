@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success']  = 'Siker: A kuponok módosítása sikeresen megtörtént!';
+$_['text_success']  = 'Siker: A kupon sikeresen módosítva lett!';
 $_['text_subject']  = 'Ajándékutalványt kapott %s-től';
 $_['text_greeting'] = 'Gratulálunk, Ön egy %s értékű Ajándékutalványt kapott!';
 $_['text_from']     = 'Ezt az Ajándékutalványt %s küldte Önnek';

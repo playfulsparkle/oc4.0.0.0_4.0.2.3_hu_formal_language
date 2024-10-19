@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Fejlesztői beállítások';
 
 // Text
-$_['text_success']     = 'Siker: A fejlesztői beállítások módosítása sikeres!';
+$_['text_success']     = 'Siker: A fejlesztői beállítás sikeresen módosítva lett!';
 $_['text_theme']       = 'Téma';
 $_['text_sass']        = 'SASS';
 $_['text_cache']       = 'Siker: A(z) %s gyorsítótár törlése megtörtént!';

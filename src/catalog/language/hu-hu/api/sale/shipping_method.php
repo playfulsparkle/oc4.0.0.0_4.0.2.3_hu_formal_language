@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success']           = 'Siker: A szállítási mód beállítva lett!';
+$_['text_success']           = 'Siker: A szállítási mód sikeressen beállítva!';
 
 // Error
 $_['error_shipping_address'] = 'Figyelmeztetés: Szállítási cím kötelező!';

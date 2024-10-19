@@ -3,7 +3,7 @@
 $_['heading_title']           = 'Cikkek';
 
 // Text
-$_['text_success']            = 'Siker: Sikeresen módosította a cikkeket!';
+$_['text_success']            = 'Siker: A cikk sikeresen módosítva lett!';
 $_['text_list']               = 'Cikk lista';
 $_['text_add']                = 'Cikk hozzáadása';
 $_['text_edit']               = 'Cikk szerkesztése';

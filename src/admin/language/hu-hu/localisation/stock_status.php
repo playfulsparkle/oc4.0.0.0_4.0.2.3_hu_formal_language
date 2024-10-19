@@ -3,8 +3,8 @@
 $_['heading_title']    = 'Készletállapotok';
 
 // Text
-$_['text_success']     = 'Siker: Módosította a készletállapotokat!';
-$_['text_list']        = 'Készletállapotok Lista';
+$_['text_success']     = 'Siker: A készletállapot sikeresen módosítva lett!';
+$_['text_list']        = 'Készletállapotok lista';
 $_['text_add']         = 'Készletállapot hozzáadása';
 $_['text_edit']        = 'Készletállapot szerkesztése';
 

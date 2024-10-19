@@ -4,7 +4,7 @@ $_['heading_title']                    = 'Áruházak';
 
 // Text
 $_['text_settings']                    = 'Beállítások';
-$_['text_success']                     = 'Siker: Módosítottad az Áruházakat!';
+$_['text_success']                     = 'Siker: Az áruház sikeresen módosítva lett!';
 $_['text_list']                        = 'Áruház lista';
 $_['text_add']                         = 'Hozzáadás';
 $_['text_edit']                        = 'Szerkesztés';
@@ -45,7 +45,7 @@ $_['entry_country']                    = 'Ország';
 $_['entry_zone']                       = 'Megye';
 $_['entry_language']                   = 'Nyelv';
 $_['entry_currency']                   = 'Valuta';
-$_['entry_product_description_length'] = 'Lista leírás hossza';
+$_['entry_product_description_length'] = 'lista leírás hossza';
 $_['entry_pagination']                 = 'Alapértelmezett tételek oldalonként';
 $_['entry_product_count']              = 'Kategória termékszáma';
 $_['entry_cookie']                     = 'Süti szabályzat';
@@ -102,7 +102,7 @@ $_['help_product_count']               = 'A kategóriákon belüli termékek sz�
 
 // Error
 $_['error_warning']                    = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
-$_['error_permission']                 = 'Figyelmeztetés: Nincs engedélyed az áruházak módosítására!';
+$_['error_permission']                 = 'Figyelmeztetés: Nincs jogosultsága az áruház módosításához!';
 $_['error_url']                        = 'Áruház URL szükséges!';
 $_['error_meta_title']                 = 'Cím (Title meta tag) legalább 3, és legfeljebb 32 karakterből álljon!';
 $_['error_name']                       = 'Áruház név legalább 3, és legfeljebb 32 karakterből álljon!';
@@ -111,7 +111,7 @@ $_['error_address']                    = 'Áruház cím legalább 10, és legfel
 $_['error_email']                      = 'Az E-mail cím nem tűnik érvényesnek!';
 $_['error_telephone']                  = 'Telefonszám legalább 3, és legfeljebb 32 karakterből álljon!';
 $_['error_product_description_length'] = 'Termék leírás hossza szükséges!';
-$_['error_pagination']                 = 'Oldalazás szükséges!';
+$_['error_pagination']                 = 'Lapozás szükséges!';
 $_['error_customer_group_display']     = 'Be kell vonnia az alapértelmezett Vásárlói csoportot, ha ezt a funkciót használni kívánja!';
 $_['error_default']                    = 'Figyelmeztetés: Az alapértelmezett áruházat nem törölheted!';
 $_['error_order']                      = 'Figyelmeztetés: Ez az áruház nem törölhető, mivel jelenleg %s rendeléshez van rendelve!';

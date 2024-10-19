@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Adó kategóriák';
 
 // Text
-$_['text_success']      = 'Siker: Módosította az adó kategóriákat!';
+$_['text_success']      = 'Siker: Az adó kategória sikeresen módosítva lett!';
 $_['text_list']         = 'Adó kategória lista';
 $_['text_add']          = 'Adó kategória hozzáadása';
 $_['text_edit']         = 'Adó kategória szerkesztése';

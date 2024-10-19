@@ -3,7 +3,7 @@
 $_['heading_title']           = 'Információk';
 
 // Text
-$_['text_success']            = 'Siker: Sikeresen módosította az információkat!';
+$_['text_success']            = 'Siker: Az információ sikeresen módosítva lett!';
 $_['text_list']               = 'Információ lista';
 $_['text_add']                = 'Információ hozzáadása';
 $_['text_edit']               = 'Információ hzerkesztése';

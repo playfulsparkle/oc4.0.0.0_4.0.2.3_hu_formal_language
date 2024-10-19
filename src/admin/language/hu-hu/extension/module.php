@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Modulok';
 
 // Text
-$_['text_success']     = 'Siker: A modulok sikeresen módosítva lettek!';
+$_['text_success']     = 'Siker: A modul sikeresen módosítva lett!';
 $_['text_layout']      = 'Miután telepítette és konfigurálta a modult, hozzáadhatja egy elrendezéshez <a href="%s" class="alert-link">itt</a>!';
 $_['text_add']         = 'Hozzáadás';
 $_['text_list']        = 'Modulok lista';

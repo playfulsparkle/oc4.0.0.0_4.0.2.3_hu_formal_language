@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Nyelvek';
 
 // Text
-$_['text_success']      = 'Siker: Módosította a nyelveket!';
+$_['text_success']      = 'Siker: A nyelv sikeresen módosítva lett!';
 $_['text_list']         = 'Nyelvek lista';
 $_['text_add']          = 'Nyelv hozzáadása';
 $_['text_edit']         = 'Nyelv szerkesztése';

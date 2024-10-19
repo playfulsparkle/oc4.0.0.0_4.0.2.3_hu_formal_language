@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Szűrők';
 
 // Text
-$_['text_success']      = 'Siker: Sikeresen módosította a szűrőket!';
+$_['text_success']      = 'Siker: A szűrő sikeresen módosítva lett!';
 $_['text_list']         = 'Szűrő lista';
 $_['text_add']          = 'Szűrő hozzáadása';
 $_['text_edit']         = 'Szűrő szerkesztése';

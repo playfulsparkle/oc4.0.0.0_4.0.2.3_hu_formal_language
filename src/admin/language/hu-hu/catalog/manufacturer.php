@@ -3,7 +3,7 @@
 $_['heading_title']           = 'Gyártók';
 
 // Text
-$_['text_success']            = 'Siker: Sikeresen módosította a gyártókat!';
+$_['text_success']            = 'Siker: A gyártó sikeresen módosítva lett!';
 $_['text_list']               = 'Gyártó lista';
 $_['text_add']                = 'Gyártó hozzáadása';
 $_['text_edit']               = 'Gyártó hzerkesztése';

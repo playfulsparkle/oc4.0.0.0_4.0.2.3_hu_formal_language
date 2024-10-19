@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success']           = 'Siker: Sikeresen módosította a rendeléseket!';
+$_['text_success']           = 'Siker: A rendelés sikeresen módosítva lett!';
 
 // Error
 $_['error_order']            = 'Figyelmeztetés: A rendelés nem található!';
