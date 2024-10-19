@@ -20,7 +20,7 @@ $_['entry_unit']       = 'Hosszmérték egység';
 $_['entry_value']      = 'Érték';
 
 // Help
-$_['help_value']       = 'Az alapértelmezett hosszmérték értéke az aktuális hosszmérték egységben. Állítsa 1-re az alapértelmezett hosszmértékhez.';
+$_['help_value']       = 'Az alapértelmezett hosszmérték értéke az aktuális hosszmérték egységben. Állítsa 1.00000-re az alapértelmezett hosszmértékhez.';
 
 // Error
 $_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a hosszmértékek módosításához!';

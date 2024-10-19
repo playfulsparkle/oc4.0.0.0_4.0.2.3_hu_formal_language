@@ -8,7 +8,7 @@ $_['text_success']     = 'Siker: Az átvétel az áruházban sikeresen módosít
 $_['text_edit']        = 'Átvétel az áruházban szerkesztése';
 
 // Entry
-$_['entry_geo_zone']   = 'Adózónák';
+$_['entry_geo_zone']   = 'Adózóna';
 $_['entry_status']     = 'Állapot';
 $_['entry_sort_order'] = 'Sorrend';
 

@@ -10,7 +10,7 @@ $_['text_edit']        = 'Átalánydíj szerkesztése';
 // Entry
 $_['entry_cost']       = 'Költség';
 $_['entry_tax_class']  = 'Adóosztály';
-$_['entry_geo_zone']   = 'Adózónák';
+$_['entry_geo_zone']   = 'Adózóna';
 $_['entry_status']     = 'Állapot';
 $_['entry_sort_order'] = 'Sorrend';
 

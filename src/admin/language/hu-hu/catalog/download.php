@@ -29,7 +29,7 @@ $_['help_filename']            = 'Feltöltheti a feltöltés gomb segítségéve
 $_['help_mask']                = 'Ajánlott, hogy a fájlnév és az maszk különböző legyen, hogy megakadályozza az embereket abban, hogy közvetlenül linkeljenek a letöltéseihez.';
 
 // Error
-$_['error_warning']            = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan a formanyomtatványt hibákért!';
+$_['error_warning']            = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']         = 'Figyelmeztetés: Nincs jogosultsága a letöltések módosításához!';
 $_['error_name']               = 'Letöltés név legalább 3, és legfeljebb 64 karakterből álljon!';
 $_['error_filename']           = 'Fájlnév legalább 3, és legfeljebb 128 karakterből álljon!';

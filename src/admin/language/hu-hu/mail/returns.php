@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_subject']       = '%s - Reklamáció Frissítés %s';
+$_['text_subject']       = '%s - Reklamáció frissítés %s';
 $_['text_return_id']     = 'Reklamáció azonosító:';
 $_['text_date_added']    = 'Reklamáció dátuma:';
 $_['text_return_status'] = 'A reklamációja a következő státuszra lett frissítve:';

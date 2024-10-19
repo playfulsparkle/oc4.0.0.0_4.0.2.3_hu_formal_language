@@ -39,7 +39,7 @@ $_['help_top']                = 'Megjelenítés a felső menüsorban. Csak a leg
 $_['help_column']             = 'Az alsó 3 kategória oszlopszáma. Csak a legfelső szülő kategóriák esetében működik.';
 
 // Error
-$_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan a formanyomtatványt hibákért!';
+$_['error_warning']           = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']        = 'Figyelmeztetés: Nincs jogosultsága a kategóriák módosításához!';
 $_['error_name']              = 'Kategória név legalább 1, és legfeljebb 255 karakterből álljon!';
 $_['error_meta_title']        = 'Cím (Title meta tag) legalább 1, és legfeljebb 255 karakterből álljon!';

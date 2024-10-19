@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title']      = 'Adózónák';
+$_['heading_title']      = 'Adózóna';
 
 // Text
 $_['text_success']       = 'Siker: Az adózóna sikeresen módosítva lett!';
 $_['text_list']          = 'Adózóna lista';
 $_['text_add']           = 'Adózóna hozzáadása';
 $_['text_edit']          = 'Adózóna szerkesztése';
-$_['text_geo_zone']      = 'Adózónák';
+$_['text_geo_zone']      = 'Adózóna';
 
 // Column
 $_['column_name']        = 'Adózóna név';

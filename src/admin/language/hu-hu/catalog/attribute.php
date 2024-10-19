@@ -20,7 +20,7 @@ $_['entry_attribute_group']  = 'Attribútumcsoport';
 $_['entry_sort_order']       = 'Sorrend';
 
 // Error
-$_['error_warning']          = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan a formanyomtatványt hibákért!';
+$_['error_warning']          = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']       = 'Figyelmeztetés: Nincs jogosultsága az attribútumok módosításához!';
 $_['error_attribute_group']  = 'Attribútumcsoport megadása kötelező!';
 $_['error_name']             = 'Attribútum név legalább 1, és legfeljebb 64 karakterből álljon!';

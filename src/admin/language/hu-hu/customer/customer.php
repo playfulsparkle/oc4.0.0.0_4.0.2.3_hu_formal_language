@@ -84,7 +84,7 @@ $_['help_safe']             = 'Állítsa "igaz"-ra, hogy elkerülje, hogy ezt az
 $_['help_points']           = 'A mínuszt használja a pontok eltávolításához';
 
 // Error
-$_['error_warning']         = 'Figyelmeztetés: Kérjük, alaposan ellenőrizze a formát hibák miatt!';
+$_['error_warning']         = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']      = 'Figyelmeztetés: Nincs jogosultsága a vásárló módosításához!';
 $_['error_customer']        = 'Figyelmeztetés: A vásárló nem létezik!';
 $_['error_exists']          = 'Figyelmeztetés: Az E-mail cím már regisztrálva van!';

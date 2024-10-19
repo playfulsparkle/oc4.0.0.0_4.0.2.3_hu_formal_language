@@ -18,7 +18,7 @@ $_['entry_name']        = 'Attribútumcsoport név';
 $_['entry_sort_order']  = 'Sorrend';
 
 // Error
-$_['error_warning']     = 'Figyelmeztetés: Kérjük, ellenőrizze alaposan a formanyomtatványt hibákért!';
+$_['error_warning']     = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága az attribútumcsoportok módosításához!';
 $_['error_name']        = 'Attribútumcsoport név legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_attribute']   = 'Figyelmeztetés: Ezt az attribútumcsoportot nem lehet törölni, mivel jelenleg %s attribútumhoz van rendelve!';

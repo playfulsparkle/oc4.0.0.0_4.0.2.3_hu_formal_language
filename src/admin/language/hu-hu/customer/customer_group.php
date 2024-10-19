@@ -26,5 +26,5 @@ $_['help_approval']     = 'A vásárlóknak adminisztrátori jóváhagyásra van
 $_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága a vásárlói csoportok módosításához!';
 $_['error_name']        = 'A Vásárlói csoport név legalább 3, és legfeljebb 32 karakterből álljon!';
 $_['error_default']     = 'Figyelmeztetés: Ez a Vásárlói csoport nem törölhető, mivel jelenleg az alapértelmezett áruház Vásárlói csoportként van beállítva!';
-$_['error_store']       = 'Figyelmeztetés: Ez a Vásárlói csoport nem törölhető, mivel jelenleg %s áruházban van hozzárendelve!';
+$_['error_store']       = 'Figyelmeztetés: Ez a Vásárlói csoport nem törölhető, mivel jelenleg %s áruházhoz van hozzárendelve!';
 $_['error_customer']    = 'Figyelmeztetés: Ez a Vásárlói csoport nem törölhető, mivel jelenleg %s vásárlóhoz van hozzárendelve!';

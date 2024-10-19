@@ -36,5 +36,5 @@ $_['error_extension']      = 'Figyelmeztetés: A valuta bővítmény nem találh
 $_['error_title']          = 'A valuta legalább 3, és legfeljebb 32 karakterből álljon!';
 $_['error_code']           = 'A valuta kódjának 3 karakterből kell állnia!';
 $_['error_default']        = 'Figyelmeztetés: Ez a valuta nem törölhető, mivel jelenleg alapértelmezett áruház valutaként van beállítva!';
-$_['error_store']          = 'Figyelmeztetés: Ez a valuta nem törölhető, mivel jelenleg %s áruházban van hozzárendelve!';
+$_['error_store']          = 'Figyelmeztetés: Ez a valuta nem törölhető, mivel jelenleg %s áruházhoz van hozzárendelve!';
 $_['error_order']          = 'Figyelmeztetés: Ez a valuta nem törölhető, mivel jelenleg %s rendeléshez van hozzárendelve!';

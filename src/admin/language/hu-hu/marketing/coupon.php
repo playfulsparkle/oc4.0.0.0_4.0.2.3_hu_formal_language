@@ -9,7 +9,7 @@ $_['text_add']            = 'Kupon hozzáadása';
 $_['text_edit']           = 'Kupon szerkesztése';
 $_['text_percent']        = 'Százalékos';
 $_['text_amount']         = 'Fix összeg';
-$_['text_coupon']         = 'Történet';
+$_['text_coupon']         = 'Kupon előzmények';
 
 // Column
 $_['column_name']         = 'Kupon név';

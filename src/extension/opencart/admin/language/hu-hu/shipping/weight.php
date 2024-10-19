@@ -8,9 +8,9 @@ $_['text_success']     = 'Siker: A súly alapú szállítási költség sikerese
 $_['text_edit']        = 'Súly alapú szállítási költség szerkesztése';
 
 // Entry
-$_['entry_rate']       = 'Árfolyamok';
+$_['entry_rate']       = 'Tarifák';
 $_['entry_tax_class']  = 'Adóosztály';
-$_['entry_geo_zone']   = 'Adózónák';
+$_['entry_geo_zone']   = 'Adózóna';
 $_['entry_status']     = 'Állapot';
 $_['entry_sort_order'] = 'Sorrend';
 

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Reklamáció';
+$_['heading_title']    = 'Reklamáció műveletek';
 
 // Text
 $_['text_success']     = 'Siker: A reklamáció művelet sikeresen módosítva lett!';

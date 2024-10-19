@@ -34,5 +34,5 @@ $_['error_code']        = 'A nyelv kódja legalább 2, és legfeljebb 5 karakter
 $_['error_locale']      = 'Területi beállítás szükséges!';
 $_['error_default']     = 'Figyelmeztetés: Ez a nyelv nem törölhető, mivel jelenleg az alapértelmezett áruház nyelvként van hozzárendelve!';
 $_['error_admin']       = 'Figyelmeztetés: Ez a nyelv nem törölhető, mivel jelenleg az adminisztrációs nyelvként van hozzárendelve!';
-$_['error_store']       = 'Figyelmeztetés: Ez a nyelv nem törölhető, mivel jelenleg %s áruházban van hozzárendelve!';
+$_['error_store']       = 'Figyelmeztetés: Ez a nyelv nem törölhető, mivel jelenleg %s áruházhoz van hozzárendelve!';
 $_['error_order']       = 'Figyelmeztetés: Ez a nyelv nem törölhető, mivel jelenleg %s rendeléshez van hozzárendelve!';

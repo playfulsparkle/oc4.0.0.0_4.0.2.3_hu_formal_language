@@ -10,7 +10,7 @@ $_['text_edit']          = 'Banki átutalás szerkesztése';
 // Entry
 $_['entry_bank']         = 'Banki átutalási utasítások';
 $_['entry_order_status'] = 'Rendelés állapot';
-$_['entry_geo_zone']     = 'Adózónák';
+$_['entry_geo_zone']     = 'Adózóna';
 $_['entry_status']       = 'Állapot';
 $_['entry_sort_order']   = 'Sorrend';
 

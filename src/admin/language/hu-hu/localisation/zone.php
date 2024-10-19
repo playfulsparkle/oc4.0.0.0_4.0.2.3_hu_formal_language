@@ -25,6 +25,6 @@ $_['entry_status']           = 'Állapot';
 $_['error_permission']       = 'Figyelmeztetés: Nincs jogosultsága a zónák módosításához!';
 $_['error_name']             = 'A zóna név legalább 1, és legfeljebb 128 karakterből álljon!';
 $_['error_default']          = 'Figyelmeztetés: Ez a zóna nem törölhető, mivel jelenleg az alapértelmezett áruház zónájaként van hozzárendelve!';
-$_['error_store']            = 'Figyelmeztetés: Ez a zóna nem törölhető, mivel jelenleg %s áruházban van hozzárendelve!';
+$_['error_store']            = 'Figyelmeztetés: Ez a zóna nem törölhető, mivel jelenleg %s áruházhoz van hozzárendelve!';
 $_['error_address']          = 'Figyelmeztetés: Ez a zóna nem törölhető, mivel jelenleg %s címkönyvi bejegyzéshez van hozzárendelve!';
 $_['error_zone_to_geo_zone'] = 'Figyelmeztetés: Ez a zóna nem törölhető, mivel jelenleg %s zóna van hozzárendelve földrajzi zónákhoz!';
