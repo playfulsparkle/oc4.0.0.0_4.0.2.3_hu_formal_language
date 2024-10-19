@@ -12,9 +12,9 @@ $_['text_vertical']    = 'Vertikális';
 // Entry
 $_['entry_name']       = 'Modul név';
 $_['entry_axis']       = 'Tengely';
-$_['entry_limit']      = 'Korlátozás';
-$_['entry_width']      = 'Kép szélessége';
-$_['entry_height']     = 'Kép magassága';
+$_['entry_limit']      = 'Korlát';
+$_['entry_width']      = 'Szélesség';
+$_['entry_height']     = 'Magasság';
 $_['entry_status']     = 'Állapot';
 
 // Error

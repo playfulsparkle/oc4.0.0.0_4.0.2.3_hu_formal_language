@@ -21,4 +21,4 @@ $_['entry_name']       = 'Modul név';
 $_['error_permission'] = 'Figyelmeztetés: Nincs jogosultsága a modulok módosításához!';
 $_['error_extension']  = 'Figyelmeztetés: A bővítmény nem létezik!';
 $_['error_name']       = 'A modul név legalább 3, és legfeljebb 64 karakterből álljon!';
-$_['error_code']       = 'Bővítmény szükséges!';
+$_['error_code']       = 'Kiterjesztés szükséges!';

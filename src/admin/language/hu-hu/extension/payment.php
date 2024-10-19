@@ -7,7 +7,7 @@ $_['text_success']      = 'Siker: A fizetési lehetőség sikeresen módosítva 
 $_['text_list']         = 'Fizetési lehetőségek lista';
 
 // Column
-$_['column_name']       = 'Fizetési Módszer';
+$_['column_name']       = 'Fizetési módszer';
 $_['column_vendor']     = 'Szállító';
 $_['column_status']     = 'Állapot';
 $_['column_sort_order'] = 'Sorrend';

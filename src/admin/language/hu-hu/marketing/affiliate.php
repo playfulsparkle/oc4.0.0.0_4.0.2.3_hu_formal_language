@@ -61,7 +61,7 @@ $_['entry_amount']              = 'Összeg';
 $_['entry_date_from']           = 'Dátumtól';
 $_['entry_date_to']             = 'Dátumig';
 $_['entry_status']              = 'Állapot';
-$_['entry_limit']               = 'Limit';
+$_['entry_limit']               = 'Korlát';
 
 // Help
 $_['help_tracking']             = 'A nyomkövetési kód, amelyet a hivatkozások nyomon követésére használnak.';

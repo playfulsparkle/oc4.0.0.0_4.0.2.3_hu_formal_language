@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_captcha']  = 'Captcha';
+$_['text_Captcha']  = 'Captcha';
 
 // Entry
-$_['entry_captcha'] = 'Írja be a kódot az alábbi mezőbe';
+$_['entry_Captcha'] = 'Írja be a kódot az alábbi mezőbe';
 
 // Error
-$_['error_captcha'] = 'A megerősítő kód nem egyezik a képen láthatóval!';
+$_['error_Captcha'] = 'A megerősítő kód nem egyezik a képen láthatóval!';

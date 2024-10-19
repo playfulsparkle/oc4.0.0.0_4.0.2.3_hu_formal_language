@@ -1,12 +1,12 @@
 <?php
 // Heading
-$_['heading_title']     = 'Marketing nyomkövetés';
+$_['heading_title']     = 'Kampány nyomkövetés';
 
 // Text
-$_['text_success']      = 'Siker: A marketing nyomkövetés sikeresen módosítva lett!';
-$_['text_list']         = 'Marketing nyomkövetési lista';
-$_['text_add']          = 'Marketing nyomkövetés hozzáadása';
-$_['text_edit']         = 'Marketing nyomkövetés szerkesztése';
+$_['text_success']      = 'Siker: A kampány nyomkövetés sikeresen módosítva lett!';
+$_['text_list']         = 'Kampány nyomkövetési lista';
+$_['text_add']          = 'Kampány nyomkövetés hozzáadása';
+$_['text_edit']         = 'Kampány nyomkövetés szerkesztése';
 $_['text_filter']       = 'Szűrő';
 $_['text_history']      = 'Előzmény';
 $_['text_history_add']  = 'Hozzáadás';
@@ -33,11 +33,11 @@ $_['entry_date_from']   = 'Dátumtól';
 $_['entry_date_to']     = 'Dátumig';
 
 // Help
-$_['help_code']         = 'A nyomkövetési kód, amelyet a marketing kampányok követésére használunk.';
+$_['help_code']         = 'A nyomkövetési kód, amelyet a kampány kampányok követésére használunk.';
 $_['help_example']      = 'Ahhoz, hogy a rendszer nyomon követhesse az ajánlásokat, hozzá kell adni a nyomkövetési kódot az URL végéhez, amely az Ön weboldalára mutat.';
 
 // Error
-$_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága a marketing nyomkövetés módosításához!';
+$_['error_permission']  = 'Figyelmeztetés: Nincs jogosultsága a kampány nyomkövetés módosításához!';
 $_['error_name']        = 'A kampány név legalább 1, és legfeljebb 32 karakterből álljon!';
 $_['error_code']        = 'Nyomkövetési kód megadása kötelező!';
 $_['error_exists']      = 'A nyomkövetési kód már használatban van egy másik kampány által!';

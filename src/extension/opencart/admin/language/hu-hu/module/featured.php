@@ -13,8 +13,8 @@ $_['text_vertical']    = 'Függőleges';
 $_['entry_name']       = 'Modul név';
 $_['entry_product']    = 'Termékek';
 $_['entry_axis']       = 'Tengely';
-$_['entry_width']      = 'Kép szélessége';
-$_['entry_height']     = 'Kép magassága';
+$_['entry_width']      = 'Szélesség';
+$_['entry_height']     = 'Magasság';
 $_['entry_status']     = 'Állapot';
 
 // Help

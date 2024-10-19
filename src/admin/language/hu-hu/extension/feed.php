@@ -7,7 +7,7 @@ $_['text_success']     = 'Siker: Az adatfolyam sikeresen módosítva lett!';
 $_['text_list']        = 'Adatfolyam lista';
 
 // Column
-$_['column_name']      = 'Termék adatfolyam neve';
+$_['column_name']      = 'Termék adatfolyam név';
 $_['column_status']    = 'Állapot';
 $_['column_action']    = 'Művelet';
 

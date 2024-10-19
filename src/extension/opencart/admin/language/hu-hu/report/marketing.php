@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']      = 'Marketing jelentés';
+$_['heading_title']      = 'Kampány jelentés';
 
 // Text
 $_['text_extension']     = 'Bővítmények';
-$_['text_edit']          = 'Marketing jelentés szerkesztése';
-$_['text_success']       = 'Siker: A marketing jelentés sikeresen módosítva lett!';
+$_['text_edit']          = 'Kampány jelentés szerkesztése';
+$_['text_success']       = 'Siker: A kampány jelentés sikeresen módosítva lett!';
 $_['text_filter']        = 'Szűrő';
 $_['text_all_status']    = 'Minden állapot';
 
@@ -24,4 +24,4 @@ $_['entry_status']       = 'Állapot';
 $_['entry_sort_order']   = 'Sorrend';
 
 // Error
-$_['error_permission']   = 'Figyelmeztetés: Nincs jogosultsága a marketing jelentés módosításához!';
+$_['error_permission']   = 'Figyelmeztetés: Nincs jogosultsága a kampány jelentés módosításához!';

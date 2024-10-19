@@ -7,7 +7,7 @@ $_['text_success']     = 'Siker: A valutaárfolyam sikeresen módosítva lett!';
 $_['text_list']        = 'Valutaárfolyam lista';
 
 // Column
-$_['column_name']      = 'Valutaárfolyam neve';
+$_['column_name']      = 'Valutaárfolyam név';
 $_['column_status']    = 'Állapot';
 $_['column_action']    = 'Művelet';
 

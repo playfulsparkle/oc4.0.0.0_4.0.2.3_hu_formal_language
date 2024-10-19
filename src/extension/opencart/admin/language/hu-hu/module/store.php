@@ -8,7 +8,7 @@ $_['text_success']     = 'Siker: Az áruház modul sikeresen módosítva lett!';
 $_['text_edit']        = 'Áruház szerkesztése';
 
 // Entry
-$_['entry_admin']      = 'Csak adminsztráto felhasználók';
+$_['entry_admin']      = 'Csak adminsztrátor felhasználók';
 $_['entry_status']     = 'Állapot';
 
 // Error
