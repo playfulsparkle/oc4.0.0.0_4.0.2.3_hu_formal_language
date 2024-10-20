@@ -21,11 +21,11 @@ $_['text_image']                       = 'Kép méretek';
 
 // Column
 $_['column_name']                      = 'Áruház név';
-$_['column_url']                       = 'Áruház URL';
+$_['column_url']                       = 'Áruház címe (URL)';
 $_['column_action']                    = 'Művelet';
 
 // Entry
-$_['entry_url']                        = 'Áruház URL';
+$_['entry_url']                        = 'Áruház címe (URL)';
 $_['entry_meta_title']                 = 'Cím (Title meta tag)';
 $_['entry_meta_description']           = 'Leírás (Description meta tag)';
 $_['entry_meta_keyword']               = 'Kulcsszavak (Keywords meta tag)';
@@ -78,12 +78,12 @@ $_['entry_width']                      = 'Szélesség';
 $_['entry_height']                     = 'Magasság';
 
 // Help
-$_['help_url']                         = 'Add meg az áruházad teljes URL-jét. Ügyelj arra, hogy a végére „/” karaktert tegyél. Példa: http://www.domainod.hu/útvonal/<br/><br/>Ne használj könyvtárakat új áruház létrehozására. Mindig egy másik domaint vagy aldomainet kell az otthoni tárhelyedhez irányítani.';
-$_['help_geocode']                     = 'Kérjük, manuálisan add meg az áruházad helyének GPS kódját.';
-$_['help_open']                        = 'Add meg az áruházad nyitvatartási idejét.';
-$_['help_comment']                     = 'Ez a mező bármilyen különleges megjegyzés számára van, amit szeretnél közölni a vásárlóval, például: Az áruház nem fogad el csekkeket.';
-$_['help_location']                    = 'Az áruház helyeinek listája, amelyeket meg szeretnél jeleníteni a kapcsolatfelvételi űrlapon.';
-$_['help_currency']                    = 'Változtasd meg az alapértelmezett valutát. Tisztítsd meg a böngésződ gyorsítótárát, hogy lásd a változást, és állítsd vissza a meglévő sütit.';
+$_['help_url']                         = 'Adja meg áruháza teljes URL-jét. Győződjön meg róla, hogy „/” karaktert ad a végére. Példa: http://www.yourdomain.com/path/<br /><br />Ne használjon könyvtárakat új áruház létrehozásához. Mindig egy másik domain-t vagy aldomain-t kell a hosztolásához irányítania.';
+$_['help_geocode']                     = 'Kérjük, manuálisan adja meg áruháza helyének geokódját.';
+$_['help_open']                        = 'Töltse ki áruháza nyitvatartási idejét.';
+$_['help_comment']                     = 'Ez a mező bármilyen egyedi megjegyzés számára szolgál, amelyet szeretne közölni az ügyféllel, pl. áruházunk nem fogad el csekkeket.';
+$_['help_location']                    = 'Azok a különböző áruháza helyszínek, amelyeket meg szeretne jeleníteni a kapcsolatfelvételi űrlapon.';
+$_['help_currency']                    = 'Változtassa meg az alapértelmezett valutát. Törölje a böngészője gyorsítótárát a változás megtekintéséhez, és állítsa vissza a meglévő sütijét.';
 $_['help_pagination']                  = 'Meghatározza, hány katalogus elem jelenjen meg egy oldalon (termékek, kategóriák stb.)';
 $_['help_product_description_length']  = 'A lista nézetben a rövid leírás karakterkorlátozása (kategóriák, akciók stb.)';
 $_['help_cookie']                      = 'A süti politika megjelenítése az EU törvényeknek megfelelően.';
@@ -103,7 +103,7 @@ $_['help_product_count']               = 'A kategóriákon belüli termékek sz�
 // Error
 $_['error_warning']                    = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']                 = 'Figyelmeztetés: Nincs jogosultsága az áruház módosításához!';
-$_['error_url']                        = 'Áruház URL szükséges!';
+$_['error_url']                        = 'Áruház címe (URL) szükséges!';
 $_['error_meta_title']                 = 'Cím (Title meta tag) legalább 3, és legfeljebb 32 karakterből álljon!';
 $_['error_name']                       = 'Áruház név legalább 3, és legfeljebb 32 karakterből álljon!';
 $_['error_owner']                      = 'Áruház tulajdonos legalább 3, és legfeljebb 64 karakterből álljon!';

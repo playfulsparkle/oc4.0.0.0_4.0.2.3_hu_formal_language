@@ -3,7 +3,7 @@
 $_['heading_title']          = 'Telepítés - kezdő lépések';
 
 // Text
-$_['text_step_2']            = 'Ellenőrizze, hogy a szerver megfelelően van beállítva';
+$_['text_step_2']            = 'Ellenőrizze, hogy a kiszolgáló megfelelően van beállítva';
 $_['text_install_php']       = '1. Kérjük, állítsa be a PHP beállításait az alábbiak szerint.';
 $_['text_install_extension'] = '2. Kérjük, győződjön meg arról, hogy az alábbi PHP kiterjesztések telepítve vannak.';
 $_['text_install_file']      = '3. Kérjük, ellenőrizze, hogy a következő fájlokon a megfelelő engedélyek vannak beállítva.';

@@ -21,7 +21,7 @@ $_['button_upgrade']       = 'Frissítés';
 
 // Error
 $_['error_permission']     = 'Figyelmeztetés: Nincs jogosultsága a frissítés módosításához!';
-$_['error_connection']     = 'Nem sikerült csatlakozni a frissítési szerverhez!';
+$_['error_connection']     = 'Nem sikerült csatlakozni a frissítési kiszolgálóhoz!';
 $_['error_version']        = 'A verzió alacsonyabb, mint a jelenlegi verzió!';
 $_['error_download']       = 'A frissítés nem tölthető le!';
 $_['error_file']           = 'A frissítési fájl nem található!';

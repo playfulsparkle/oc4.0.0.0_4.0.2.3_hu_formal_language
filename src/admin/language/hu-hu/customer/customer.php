@@ -72,7 +72,7 @@ $_['entry_description']     = 'Leírás';
 $_['entry_amount']          = 'Összeg';
 $_['entry_points']          = 'Pontok';
 $_['entry_name']            = 'Vásárló név';
-$_['entry_ip']              = 'IP';
+$_['entry_ip']              = 'IP cím';
 $_['entry_date_from']       = 'Dátumtól';
 $_['entry_date_to']         = 'Dátumig';
 

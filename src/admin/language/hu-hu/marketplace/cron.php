@@ -6,7 +6,7 @@ $_['heading_title']        = 'Cron feladatok';
 $_['text_success']         = 'Siker: A cron feladat sikeresen módosítva lett!';
 $_['text_instruction']     = 'CRON utasítások';
 $_['text_list']            = 'Cron feladat lista';
-$_['text_cron_1']          = 'A Cron feladatok ütemezett feladatok, amelyek időszakonként futnak. A szerverek cron feladatokkal történő beállításához olvassa el a <a href="http://docs.opencart.com/extension/cron/" target="_blank" class="alert-link">OpenCart dokumentációt</a>.';
+$_['text_cron_1']          = 'A Cron feladatok ütemezett feladatok, amelyek időszakonként futnak. A kiszolgáló cron feladatokkal történő beállításához olvassa el a <a href="http://docs.opencart.com/extension/cron/" target="_blank" class="alert-link">OpenCart dokumentációt</a>.';
 $_['text_cron_2']          = 'A cron feladatot óránként kell futtatni.';
 $_['text_info']            = 'CRON információ';
 $_['text_hour']            = 'Óra';

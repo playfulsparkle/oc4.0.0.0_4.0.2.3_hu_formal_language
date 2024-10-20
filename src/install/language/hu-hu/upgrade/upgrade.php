@@ -4,7 +4,7 @@ $_['heading_title']     = 'Frissítés';
 
 // Text
 $_['text_upgrade']      = 'Készüljön fel a frissítésre';
-$_['text_server']       = 'Ellenőrizze, hogy a szerver megfelelően van-e beállítva';
+$_['text_server']       = 'Ellenőrizze, hogy a kiszolgáló megfelelően van-e beállítva';
 $_['text_steps']        = 'Frissítési előrehaladás';
 $_['text_error']        = 'Bármilyen frissítési script hibát a fórumokon jelezzen';
 $_['text_clear']        = 'A frissítés után törölje a böngészőben lévő sütiket, hogy elkerülje a token hibákat.';
