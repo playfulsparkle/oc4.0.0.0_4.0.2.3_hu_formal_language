@@ -4,7 +4,7 @@ $_['heading_title']    = 'OpenCart piactér API';
 
 // Text
 $_['text_success']     = 'Siker: Az API sikeresen módosítva lett!';
-$_['text_signup']      = 'Kérjük, adja meg OpenCart API információit, amelyeket <a href="https://www.opencart.com/index.php?route=account/store" target="_blank" class="alert-link">itt</a> szerezhet be.';
+$_['text_signup']      = 'Kérjük, adja meg OpenCart API információit, amelyeket <a href="https://www.opencart.com/index.php?route=account/store" target="_blank" rel="external noopener noreferrer" class="alert-link">itt</a> szerezhet be.';
 
 // Entry
 $_['entry_username']   = 'Felhasználónév';

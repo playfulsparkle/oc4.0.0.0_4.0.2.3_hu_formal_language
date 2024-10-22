@@ -7,7 +7,7 @@ $_['text_success']         = 'Siker: A valuta sikeresen módosítva lett!';
 $_['text_list']            = 'Valuta lista';
 $_['text_add']             = 'Valuta hozzáadása';
 $_['text_edit']            = 'Valuta szerkesztése';
-$_['text_iso']             = 'Teljes listát talál az ISO valuta kódokról és beállításokról <a href="http://www.xe.com/iso4217.php" target="_blank" class="alert-link">itt</a>.';
+$_['text_iso']             = 'Teljes listát talál az ISO valuta kódokról és beállításokról <a href="http://www.xe.com/iso4217.php" target="_blank" rel="external noopener noreferrer" class="alert-link">itt</a>.';
 
 // Column
 $_['column_title']         = 'Valuta';

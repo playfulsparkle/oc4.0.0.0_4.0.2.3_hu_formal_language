@@ -10,7 +10,7 @@ $_['text_template']     = 'Válasszon sablont';
 $_['text_default']      = 'Alapértelmezett';
 $_['text_extension']    = 'Bővítmény';
 $_['text_history']      = 'Téma előzmények';
-$_['text_twig']         = 'A témaszerkesztő a Twig sablonnyelvet használja. A <a href="https://twig.symfony.com/doc/" target="_blank" class="alert-link">Twig szintaxisról itt olvashat</a>.';
+$_['text_twig']         = 'A témaszerkesztő a Twig sablonnyelvet használja. A <a href="https://twig.symfony.com/doc/" target="_blank" rel="external noopener noreferrer" class="alert-link">Twig szintaxisról itt olvashat</a>.';
 
 // Column
 $_['column_store']      = 'Áruház';

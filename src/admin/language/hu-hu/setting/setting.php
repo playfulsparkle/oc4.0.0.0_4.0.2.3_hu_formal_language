@@ -232,7 +232,7 @@ $_['help_Captcha']                        = 'Captcha használata regisztrációh
 $_['help_mail_engine']                    = 'Csak a \'Mail\' lehetőséget válassza, hacsak a szolgáltatója nem tiltotta le a PHP mail funkciót.';
 $_['help_mail_parameter']                 = 'Ha a \'Mail\' opciót használja, további e-mail paramétereket adhat meg itt (pl. -f email@storeaddress.com).';
 $_['help_mail_smtp_hostname']             = 'Adja hozzá a \'tls://\' vagy \'ssl://\' előtagot, ha biztonságos kapcsolat szükséges. (pl. tls://smtp.gmail.com, ssl://smtp.gmail.com).';
-$_['help_mail_smtp_password']             = 'Gmail esetén szükség lehet alkalmazás-specifikus jelszó beállítására itt: <a href="https://security.google.com/settings/security/apppasswords" target="_blank">https://security.google.com/settings/security/apppasswords</a>.';
+$_['help_mail_smtp_password']             = 'Gmail esetén szükség lehet alkalmazás-specifikus jelszó beállítására itt: <a href="https://security.google.com/settings/security/apppasswords" target="_blank" rel="external noopener noreferrer">https://security.google.com/settings/security/apppasswords</a>.';
 $_['help_mail_alert']                     = 'Válassza ki, mely funkciók esetén szeretne értesítő e-mailt kapni, amikor egy vásárló használja azokat.';
 $_['help_mail_alert_email']               = 'Bármilyen további e-mail cím, amelyre értesítő e-mailt szeretne kapni, a fő áruház e-mail címe mellett. (Vesszővel elválasztva).';
 $_['help_session_expire']                 = 'Állítsa be a PHP munkamenet élettartamát másodpercekben (pl. 3600 = 1 óra).';
