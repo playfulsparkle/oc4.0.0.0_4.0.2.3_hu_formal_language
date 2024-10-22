@@ -2,8 +2,8 @@ OpenCart 4 Magyar nyelv (magázó)
 
 Teljes körű magyar nyelvi csomag (magázó) OpenCart 4-verzióhoz! Ez a csomag tartalmazza az összes szükséges nyelvi fájlt az admin felülethez, frontend felülethez, bővítményekhez és a telepítési folyamathoz. A fordítás elérhető az OpenCart 4+ verzióihoz.
 
-Demo frontend - https://demo.playfulsparkle.com/opencart4/  
-Demo backend - https://demo.playfulsparkle.com/opencart4/admin/
+Demo frontend - https://opencart4.playfulsparkle.com/  
+Demo backend - https://opencart4.playfulsparkle.com/admin/
 
 Főbb jellemzők
 
