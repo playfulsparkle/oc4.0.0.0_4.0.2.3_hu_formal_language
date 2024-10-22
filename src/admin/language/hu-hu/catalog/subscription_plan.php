@@ -11,7 +11,7 @@ $_['text_subscription']      = 'Előfizetés';
 $_['text_trial']             = 'Próbaidőszak';
 $_['text_day']               = 'Nap';
 $_['text_week']              = 'Hét';
-$_['text_semi_month']        = 'Félév';
+$_['text_semi_month']        = 'Fél hónap';
 $_['text_month']             = 'Hónap';
 $_['text_year']              = 'Év';
 

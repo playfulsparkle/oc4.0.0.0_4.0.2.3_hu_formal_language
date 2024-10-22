@@ -12,9 +12,9 @@ $_['text_next']                  = 'Mit szeretne tenni következő lépésként?
 $_['text_next_choice']           = 'Válassza ki, ha kedvezménykóddal vagy bónuszpontokkal rendelkezik, amelyeket fel szeretne használni, vagy ha szeretné megbecsülni a szállítási költséget.';
 $_['text_points']                = 'Bónuszpontok';
 $_['text_subscription']          = 'Előfizetés';
-$_['text_subscription_trial']    = '%s minden %d %s(s) során %d kifizetés után, majd ';
-$_['text_subscription_duration'] = '%s minden %d %s(s) során %d kifizetésig';
-$_['text_subscription_cancel']   = '%s minden %d %s(s) amíg le nem mondja';
+$_['text_subscription_trial']    = '%s minden %d %s időszakonként %d fizetésig, majd';
+$_['text_subscription_duration'] = '%s minden %d %s időszakonként %d fizetésig';
+$_['text_subscription_cancel']   = '%s minden %d %s időszakonként a lemondásig';
 $_['text_day']                   = 'nap';
 $_['text_week']                  = 'hét';
 $_['text_semi_month']            = 'fél hónap';
@@ -30,7 +30,7 @@ $_['column_price']               = 'Egységár';
 $_['column_total']               = 'Összesen';
 
 // Error
-$_['error_stock']                = 'A *** jelöléssel ellátott termékek nem állnak rendelkezésre a kívánt mennyiségben, vagy nincsenek készleten!';
+$_['error_stock']                = 'A ***-al megjelölt termékek nem állnak rendelkezésre a kívánt mennyiségben vagy nincsenek készleten!';
 $_['error_minimum']              = 'A(z) %s minimális rendelési összege %s!';
 $_['error_required']             = '%s kötelező!';
 $_['error_product']              = 'Figyelmeztetés: A termék nem található!';

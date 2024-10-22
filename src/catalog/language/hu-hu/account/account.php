@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = 'Saját Fiókom';
+$_['heading_title']       = 'Saját fiókom';
 
 // Text
 $_['text_account']        = 'Fiók';
@@ -19,8 +19,8 @@ $_['text_download']       = 'Letöltéseim';
 $_['text_reward']         = 'Bónuszpontjaim';
 $_['text_return']         = 'Reklamációs kérelmeim';
 $_['text_transaction']    = 'Tranzakcióim';
-$_['text_newsletter']     = 'Feliratkozás/leiratkozás a hírlevélről';
+$_['text_newsletter']     = 'Feliratkozás/Leiratkozás a hírlevélről';
 $_['text_transactions']   = 'Tranzakcióim';
 $_['text_affiliate_add']  = 'Partnerfiók regisztrálása';
-$_['text_affiliate_edit'] = 'Partnerinformációinak szerkesztése';
+$_['text_affiliate_edit'] = 'Partnerfiók szerkesztése';
 $_['text_tracking']       = 'Egyéni partnerkövetési kód';

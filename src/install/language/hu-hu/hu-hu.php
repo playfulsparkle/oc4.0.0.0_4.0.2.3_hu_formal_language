@@ -8,4 +8,4 @@ $_['button_continue'] = 'Tovább';
 $_['button_back']     = 'Vissza';
 
 // Error
-$_['error_exception'] = 'Hibakód (%s): %s itt: %s a %s sorban';
+$_['error_exception'] = 'Hibakód (%s): %s a %s fájlban, a(z) %s sorban';

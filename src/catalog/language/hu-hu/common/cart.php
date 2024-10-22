@@ -1,14 +1,14 @@
 <?php
 // Text
-$_['text_items']                 = '%s tétel(es) - %s';
+$_['text_items']                 = '%s tétel(ek) - %s';
 $_['text_points']                = 'Jutalompontok';
 $_['text_subscription']          = 'Előfizetés';
-$_['text_subscription_trial']    = '%s minden %d %s(s) %-ban %d kifizetés(es) után ';
-$_['text_subscription_duration'] = '%s minden %d %s(s) %-ban %d kifizetés(es)';
-$_['text_subscription_cancel']   = '%s minden %d %s(s) amíg le nem mondják';
+$_['text_subscription_trial']    = '%s minden %d %s időszakonként %d fizetésig, majd';
+$_['text_subscription_duration'] = '%s minden %d %s időszakonként %d fizetésig';
+$_['text_subscription_cancel']   = '%s minden %d %s időszakonként a lemondásig';
 $_['text_day']                   = 'nap';
 $_['text_week']                  = 'hét';
-$_['text_semi_month']            = 'fél-hónap';
+$_['text_semi_month']            = 'fél hónap';
 $_['text_month']                 = 'hónap';
 $_['text_year']                  = 'év';
 $_['text_no_results']            = 'A bevásárlókosár üres!';

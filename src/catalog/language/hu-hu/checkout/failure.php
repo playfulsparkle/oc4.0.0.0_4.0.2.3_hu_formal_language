@@ -1,20 +1,16 @@
 <?php
 // Heading
-$_['heading_title'] = 'Sikertelen Fizetés!';
+$_['heading_title'] = 'Sikertelen fizetés!';
 
 // Text
 $_['text_basket']   = 'Bevásárlókosár';
 $_['text_checkout'] = 'Pénztár';
 $_['text_failure']  = 'Sikertelen fizetés';
-$_['text_message']  = '<p>Probléma adódott a fizetés feldolgozása során, ezért a rendelés nem teljesült.</p>
-
+$_['text_message']  = '<p>Probléma merült fel a fizetés feldolgozása során, így a rendelés nem sikerült.</p>
 <p>Lehetséges okok:</p>
 <ul>
-  <li>Fedezethiány</li>
-  <li>Az ellenőrzés nem sikerült</li>
+  <li>Elégtelen egyenleg</li>
+  <li>Sikertelen hitelesítés</li>
 </ul>
-
-<p>Kérjük, próbálja meg újra rendelni egy másik fizetési móddal.</p>
-
-<p>Ha a probléma továbbra is fennáll, kérjük, <a href="%s">lépjen kapcsolatba velünk</a> az Ön által leadni kívánt rendelés részleteivel.</p>
-';
+<p>Kérjük, próbálja meg újra más fizetési móddal.</p>
+<p>Ha a probléma továbbra is fennáll, kérjük, <a href="%s">lépjen kapcsolatba velünk</a> és adja meg a rendelés adatait.</p>';

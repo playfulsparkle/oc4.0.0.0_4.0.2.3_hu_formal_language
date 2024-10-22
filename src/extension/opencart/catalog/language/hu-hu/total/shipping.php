@@ -16,6 +16,6 @@ $_['entry_postcode']       = 'Irányítószám';
 // Error
 $_['error_postcode']       = 'Az irányítószám legalább 2, és legfeljebb 10 karakterből álljon!';
 $_['error_country']        = 'Kérjük, válasszon országot!';
-$_['error_zone']           = 'Kérjük, válasszon régiót / államot!';
+$_['error_zone']           = 'Kérjük, válasszon megyét!';
 $_['error_shipping']       = 'Figyelmeztetés: Szállítási mód szükséges!';
 $_['error_no_shipping']    = 'Figyelmeztetés: Nincs elérhető szállítási lehetőség. Kérjük, <a href="%s">lépjen kapcsolatba velünk</a> segítségért!';

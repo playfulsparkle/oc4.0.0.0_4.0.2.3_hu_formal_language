@@ -9,8 +9,8 @@ $_['text_add']          = 'Adó kategória hozzáadása';
 $_['text_edit']         = 'Adó kategória szerkesztése';
 $_['text_tax_class']    = 'Adóosztály';
 $_['text_tax_rate']     = 'Áfakulcs';
-$_['text_shipping']     = 'Szállítási Cím';
-$_['text_payment']      = 'Fizetési Cím';
+$_['text_shipping']     = 'Szállítási cím';
+$_['text_payment']      = 'Fizetési cím';
 $_['text_store']        = 'Áruház cím';
 
 // Column

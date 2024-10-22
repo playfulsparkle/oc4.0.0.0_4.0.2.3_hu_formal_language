@@ -60,21 +60,21 @@ $_['button_reorder']        = 'Újrarendelés';
 $_['button_return']         = 'Visszaküldés';
 $_['button_shopping']       = 'Vásárlás folytatása';
 $_['button_search']         = 'Keresés';
-$_['button_submit']         = 'Beküldés';
+$_['button_submit']         = 'Küldés';
 $_['button_guest']          = 'Vendég fizetés';
 $_['button_view']           = 'Megtekintés';
 $_['button_voucher']        = 'Ajándékutalvány beváltása';
 $_['button_upload']         = 'Fájl feltöltése';
 $_['button_reward']         = 'Bónuszpont beváltása';
 $_['button_choose']         = 'Kiválasztás';
-$_['button_shipping']       = 'Szállítás kalkuláció';
+$_['button_shipping']       = 'Szállítás alkalmazása';
 $_['button_quote']          = 'Ajánlatkérés';
 $_['button_list']           = 'listanézet';
 $_['button_grid']           = 'Rácsnézet';
 $_['button_map']            = 'Google térkép megtekintése';
 
 // Error
-$_['error_exception']       = 'Hibakód (%s): %s itt: %s a %s sorban';
+$_['error_exception']       = 'Hibakód (%s): %s a %s fájlban, a(z) %s sorban';
 $_['error_upload_1']        = 'Figyelmeztetés: A feltöltött fájl meghaladja a php.ini upload_max_filesize irányelvét!';
 $_['error_upload_2']        = 'Figyelmeztetés: A feltöltött fájl meghaladja a HTML űrlapban megadott MAX_FILE_SIZE irányelvet!';
 $_['error_upload_3']        = 'Figyelmeztetés: A fájl csak részlegesen lett feltöltve!';

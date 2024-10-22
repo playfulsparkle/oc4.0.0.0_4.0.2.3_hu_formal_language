@@ -13,7 +13,7 @@ $_['text_no_results'] = 'A kívánságlista üres.';
 
 // Column
 $_['column_image']    = 'Kép';
-$_['column_name']     = 'Termék Neve';
+$_['column_name']     = 'Termék név';
 $_['column_model']    = 'Cikkszám';
 $_['column_stock']    = 'Készlet';
 $_['column_price']    = 'Egységár';

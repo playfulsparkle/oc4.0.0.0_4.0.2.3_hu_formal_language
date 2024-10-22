@@ -68,7 +68,7 @@ $_['button_import']                 = 'Importálás';
 $_['button_download']               = 'Letöltés';
 $_['button_rebuild']                = 'Újraépítés';
 $_['button_upload']                 = 'Feltöltés';
-$_['button_submit']                 = 'Beküldés';
+$_['button_submit']                 = 'Küldés';
 $_['button_invoice_print']          = 'Számla nyomtatása';
 $_['button_shipping_print']         = 'Szállítási lista nyomtatása';
 $_['button_address_add']            = 'Cím hozzáadása';
@@ -159,7 +159,7 @@ $_['tab_subscription']              = 'Előfizetés';
 $_['tab_report']                    = 'Jelentés';
 
 // Error
-$_['error_exception']               = 'Hibakód (%s): %s itt: %s a %s sorban';
+$_['error_exception']               = 'Hibakód (%s): %s a %s fájlban, a(z) %s sorban';
 $_['error_upload_1']                = 'Figyelmeztetés: A feltöltött fájl meghaladja a php.ini upload_max_filesize irányelvet!';
 $_['error_upload_2']                = 'Figyelmeztetés: A feltöltött fájl meghaladja a HTML űrlapban megadott MAX_FILE_SIZE irányelvet!';
 $_['error_upload_3']                = 'Figyelmeztetés: A feltöltött fájl csak részlegesen lett feltöltve!';

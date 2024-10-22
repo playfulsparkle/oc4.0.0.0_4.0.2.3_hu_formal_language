@@ -7,7 +7,7 @@ $_['heading_reset']      = 'Jelszó visszaállítása';
 $_['text_account']       = 'Fiók';
 $_['text_forgotten']     = 'Elfelejtett jelszó';
 $_['text_your_email']    = 'Az Ön e-mail címe';
-$_['text_email']         = 'Adja meg a fiókjához tartozó e-mail címet. Kattintson a küldésre, hogy egy jelszó-visszaállító linket kapjon e-mailben.';
+$_['text_email']         = 'Adja meg a fiókjához kapcsolódó e-mail címet. Kattintson a beküldés gombra, hogy egy jelszó-visszaállító linket küldjön el Önnek.';
 $_['text_password']      = 'Adja meg az új jelszót, amelyet használni szeretne.';
 $_['text_success']       = 'Siker: A jelszót sikeresen módosítva lett!';
 

@@ -1,8 +1,8 @@
 <?php
 // Text
 $_['text_wishlist']      = 'Kívánságlista (%s)';
-$_['text_shopping_cart'] = 'Bevásárló kosár';
-$_['text_account']       = 'Fiók';
+$_['text_shopping_cart'] = 'Bevásárlókosár';
+$_['text_account']       = 'Fiókom';
 $_['text_register']      = 'Regisztráció';
 $_['text_login']         = 'Bejelentkezés';
 $_['text_order']         = 'Rendelések';
