@@ -2,7 +2,7 @@ OpenCart 4 Hungarian language (formal)
 
 A comprehensive Hungarian language pack (formal) for OpenCart 4 version! This package includes all necessary language files for the admin interface, frontend, extensions, and the installation process. The translation is available for OpenCart 4+ versions.
 
-Demo frontend - https://opencart4.playfulsparkle.com/  
+Demo frontend - https://opencart4.playfulsparkle.com/
 Demo backend - https://opencart4.playfulsparkle.com/admin/
 
 Key Features
