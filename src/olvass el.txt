@@ -29,7 +29,7 @@ Figyelmeztetés: Ha a nyelvi csomagot a bővítménytelepítő használatával t
 
 Manuális telepítés
 
-1. Töltse le az OpenCart Marketplace oldaláról a "Hungarian language (formal)" csomagot.
+1. Töltse le az "ps_hu_formal_language.zip" OpenCart Marketplace oldaláról a "Hungarian language (formal)" csomagot.
 2. Csomagolja ki a nyelvi csomag fájlait egy mappába.
 3. Használja kedvenc FTP kliensét, és navigáljon az OpenCart 4 telepítési könyvtárába.
 4. Töltse fel a következő mappákat: "admin", "catalog", "extension" (, és "install", ha még csak most telepíti az OpenCart 4-et).
