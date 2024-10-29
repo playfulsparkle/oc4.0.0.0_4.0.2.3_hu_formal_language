@@ -1,7 +1,7 @@
 {
-  "name": "ps_hu_formal_language",
+  "name": "oc4_hu_formal_language",
   "version": "1.0.0",
-  "description": "OpenCart 4 Hungarian language (formal)",
+  "description": "Hungarian (formal) language for OpenCart 4",
   "main": "index.js",
   "scripts": {
     "compress auto": "node compress_auto.js",
