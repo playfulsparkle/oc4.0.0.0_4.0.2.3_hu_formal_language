@@ -127,8 +127,8 @@ $_['entry_date_to']              = 'Dátumig';
 
 // Help
 $_['help_override']              = 'Ha az ügyfél rendelése blokkolva van az állapot módosításában egy anti-csalás bővítmény miatt, engedélyezze a felülírást.';
-       
-// Error       
+
+// Error
 $_['error_warning']              = 'Figyelmeztetés: Kérjük, ellenőrizze, és javítsa a hibákat az űrlapon!';
 $_['error_permission']           = 'Figyelmeztetés: Nincs jogosultsága a rendelés módosításához!';
 $_['error_invoice_no']           = 'Figyelmeztetés: Számla szám már létre lett hozva!';
