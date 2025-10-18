@@ -16,7 +16,7 @@ $_['column_rate']          = 'Áfakulcs';
 $_['column_type']          = 'Típus';
 $_['column_geo_zone']      = 'Adózóna';
 $_['column_date_added']    = 'Hozzáadás dátuma';
-$_['column_date_modified'] = 'Módosítva';
+$_['column_date_modified'] = 'Módosítás dátuma';
 $_['column_action']        = 'Művelet';
 
 // Entry
