@@ -13,7 +13,7 @@ $_['text_keyword']            = 'Ne használjon szóközöket, helyettük haszn�
 // Column
 $_['column_name']             = 'Cím';
 $_['column_author']           = 'Szerző';
-$_['column_date_added']       = 'Hozzáadva';
+$_['column_date_added']       = 'Hozzáadás dátuma';
 $_['column_action']           = 'Művelet';
 
 // Entry
@@ -41,3 +41,4 @@ $_['error_keyword']           = 'SEO URL-nek legalább 1, és legfeljebb 64 kara
 $_['error_keyword_exists']    = 'SEO URL-nek egyedinek kell lennie!';
 $_['error_keyword_character'] = 'A kulcsszó megadásánál a-z, 0-9, - és _ karaktereket használhat!';
 $_['error_author']            = 'A szerző név legalább 3, és legfeljebb 64 karakterből álljon!';
+

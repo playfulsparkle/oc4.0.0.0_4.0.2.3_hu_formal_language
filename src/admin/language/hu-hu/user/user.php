@@ -18,7 +18,7 @@ $_['column_username']       = 'Felhasználónév';
 $_['column_status']         = 'Állapot';
 $_['column_ip']             = 'IP cím';
 $_['column_user_agent']     = 'Böngésző Ügynök';
-$_['column_date_added']     = 'Hozzáadva';
+$_['column_date_added']     = 'Hozzáadás dátuma';
 $_['column_action']         = 'Művelet';
 
 // Entry

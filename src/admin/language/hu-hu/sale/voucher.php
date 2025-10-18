@@ -20,7 +20,7 @@ $_['column_amount']     = 'Összeg';
 $_['column_status']     = 'Állapot';
 $_['column_order_id']   = 'Rendelés azonsító';
 $_['column_customer']   = 'Vásárló';
-$_['column_date_added'] = 'Hozzáadva';
+$_['column_date_added'] = 'Hozzáadás dátuma';
 $_['column_action']     = 'Művelet';
 
 // Entry
@@ -45,4 +45,4 @@ $_['error_to_name']     = 'A címzett név legalább 1, és legfeljebb 64 karakt
 $_['error_from_name']   = 'Az címzett név legalább 1, és legfeljebb 64 karakterből álljon!';
 $_['error_email']       = 'Az e-mail cím nem tűnik érvényesnek!';
 $_['error_amount']      = 'Az összeg legalább 1 karakterből álljon!';
-$_['error_order']       = 'Figyelmeztetés: Ez az utalvány nem törölhető, mivel egy <a href="%s">rendelés</a> része!'; 
+$_['error_order']       = 'Figyelmeztetés: Ez az utalvány nem törölhető, mivel egy <a href="%s">rendelés</a> része!';

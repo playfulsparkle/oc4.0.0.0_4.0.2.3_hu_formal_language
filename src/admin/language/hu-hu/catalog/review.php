@@ -15,7 +15,7 @@ $_['column_product']    = 'Termék';
 $_['column_author']     = 'Szerző';
 $_['column_rating']     = 'Értékelés';
 $_['column_status']     = 'Állapot';
-$_['column_date_added'] = 'Hozzáadva';
+$_['column_date_added'] = 'Hozzáadás dátuma';
 $_['column_action']     = 'Művelet';
 
 // Entry
@@ -40,3 +40,4 @@ $_['error_product']     = 'Termék kötelező!';
 $_['error_author']      = 'A szerző név legalább 3, és legfeljebb 64 karakterből álljon!';
 $_['error_text']        = 'Az értékelés szövegének legalább 1 karakter hosszúnak kell lennie!';
 $_['error_rating']      = 'Az értékelés megadása kötelező!';
+

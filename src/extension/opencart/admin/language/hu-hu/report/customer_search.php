@@ -16,7 +16,7 @@ $_['column_products']   = 'Talált termékek';
 $_['column_category']   = 'Kategória';
 $_['column_customer']   = 'Vásárló';
 $_['column_ip']         = 'IP cím';
-$_['column_date_added'] = 'Hozzáadva';
+$_['column_date_added'] = 'Hozzáadás dátuma';
 
 // Entry
 $_['entry_date_start']  = 'Kezdés dátuma';

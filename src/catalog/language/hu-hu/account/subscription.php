@@ -20,7 +20,7 @@ $_['text_week']                   = 'hét';
 $_['text_semi_month']             = 'fél hónap';
 $_['text_month']                  = 'hónap';
 $_['text_year']                   = 'év';
-$_['text_date_added']             = 'Hozzáadva';
+$_['text_date_added']             = 'Hozzáadás dátuma';
 $_['text_status']                 = 'Előfizetés állapota';
 $_['text_description']            = 'Leírás';
 $_['text_quantity']               = 'Mennyiség';
@@ -36,7 +36,7 @@ $_['column_order_id']             = 'Rendelési azonosító';
 $_['column_status']               = 'Állapot';
 $_['column_total']                = 'Összesen';
 $_['column_comment']              = 'Megjegyzés';
-$_['column_date_added']           = 'Hozzáadva';
+$_['column_date_added']           = 'Hozzáadás dátuma';
 
 // Error
 $_['error_not_cancelled']         = 'Hiba: %s';

@@ -32,7 +32,7 @@ $_['column_name']           = 'Vásárló név';
 $_['column_email']          = 'E-mail';
 $_['column_customer_group'] = 'Vásárlói csoport';
 $_['column_status']         = 'Állapot';
-$_['column_date_added']     = 'Hozzáadva';
+$_['column_date_added']     = 'Hozzáadás dátuma';
 $_['column_comment']        = 'Megjegyzés';
 $_['column_description']    = 'Leírás';
 $_['column_amount']         = 'Összeg';
@@ -102,3 +102,4 @@ $_['error_country']         = 'Kérjük, válasszon egy országot!';
 $_['error_zone']            = 'Kérjük, válasszon egy megyét!';
 $_['error_custom_field']    = '%s kötelező!';
 $_['error_regex']           = '%s nem érvényes bemenet!';
+

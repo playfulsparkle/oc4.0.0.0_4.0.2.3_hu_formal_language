@@ -22,5 +22,5 @@ $_['text_country']    = 'Ország';
 $_['text_zone']       = 'Megye';
 $_['text_history']    = 'Bejelentkezési előzmények';
 $_['text_ip']         = 'IP';
-$_['text_date_added'] = 'Létrehozva';
+$_['text_date_added'] = 'Hozzáadás dátuma';
 $_['text_thanks']     = 'Köszönettel,';

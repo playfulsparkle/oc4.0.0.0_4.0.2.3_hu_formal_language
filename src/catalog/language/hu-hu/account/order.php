@@ -10,7 +10,7 @@ $_['text_order_id']              = 'Rendelés azonosító';
 $_['text_order_status']          = 'Rendelés állapot';
 $_['text_shipping_method']       = 'Szállítás módja';
 $_['text_payment_method']        = 'Fizetés módja';
-$_['text_date_added']            = 'Létrehozva';
+$_['text_date_added']            = 'Hozzáadás dátuma';
 $_['text_shipping_address']      = 'Szállítási cím';
 $_['text_payment_address']       = 'Fizetési cím';
 $_['text_subscription']          = 'Előfizetés';
@@ -40,7 +40,7 @@ $_['column_total']               = 'Összesen';
 $_['column_action']              = 'Művelet';
 $_['column_status']              = 'Állapot';
 $_['column_comment']             = 'Megjegyzés';
-$_['column_date_added']          = 'Létrehozva';
+$_['column_date_added']          = 'Hozzáadás dátuma';
 
 // Error
 $_['error_reorder']              = '%s jelenleg nem rendelhető újra.';

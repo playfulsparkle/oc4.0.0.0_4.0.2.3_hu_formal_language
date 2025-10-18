@@ -15,7 +15,7 @@ $_['column_name']          = 'Áfa név';
 $_['column_rate']          = 'Áfakulcs';
 $_['column_type']          = 'Típus';
 $_['column_geo_zone']      = 'Adózóna';
-$_['column_date_added']    = 'Hozzáadva';
+$_['column_date_added']    = 'Hozzáadás dátuma';
 $_['column_date_modified'] = 'Módosítva';
 $_['column_action']        = 'Művelet';
 
