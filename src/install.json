@@ -1,6 +1,6 @@
 {
   "name": "Hungarian (formal) language",
-  "description": "Complete formal Hungarian language pack for OpenCart 4.x, covering admin, frontend, extensions, and installation for seamless translation.",
+  "description": "Complete formal Hungarian language pack for OpenCart 4.0.0.0-4.0.2.3, covering admin, frontend, extensions, and installation for seamless translation.",
   "code": "ps_hu_formal_language",
   "license": "GPL",
   "version": "1.0.1",
